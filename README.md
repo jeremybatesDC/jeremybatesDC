@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![](./jBatesReadme.svg)
+![](./jBatesReadmeImage.svg)
 
 
 <!--
