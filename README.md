@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+![](./jBatesReadme.svg)
+
+
 <!--
 **jeremybatesDC/jeremybatesDC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
