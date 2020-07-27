@@ -1,4 +1,4 @@
-### Hi there 👋
+### Maybe this profile will be cool at some point
 
 
 ![](jBatesReadmeImage.svg)
