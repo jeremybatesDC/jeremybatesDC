@@ -11,6 +11,7 @@ Fav Sci-Fi Movies:
 - Interstellar
 - Ex Machina
 - Sorry to Bother You
+- Blade Runner
 
 
 Fav Sci-Fi Books:
