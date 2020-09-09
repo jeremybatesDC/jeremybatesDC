@@ -42,4 +42,11 @@ Fav Foods
 - Clam Chowder
 - Apple Pie
 
+Hobbies/Passions
+- Baseball (Go Nats!)
+- Snorkeling
+- Geneaology 
+
+
+
 Twitter Link / LinkedIn / Codepen maybe
