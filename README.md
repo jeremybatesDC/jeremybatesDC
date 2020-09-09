@@ -2,9 +2,9 @@
 
 Fav Sci-Fi Movies:
 
-- 12 monkies
+- 12 Monkeys
 - Attack the Block
-- Colosal
+- Colossal
 - Moon
 - Mother
 - Ad Astra
@@ -13,5 +13,5 @@ Fav Sci-Fi Movies:
 
 
 Fav Sci-Fi Books:
-Ender's Game
+- Ender's Game
 
