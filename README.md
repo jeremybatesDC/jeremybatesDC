@@ -1,7 +1,6 @@
 # Hi! Here are some random things I love:
 
 ### 📽️ Fav Sci-Fi Movies 📽️
-
 - 12 Monkeys
 - Attack the Block
 - Colossal
@@ -17,7 +16,6 @@
 
 
 ### 📚 Fav Sci-Fi Books 📚
-
 - On the Beach
 - Doomsday Book
 - Ender's Game
