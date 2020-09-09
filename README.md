@@ -35,3 +35,5 @@ Fav Sci-Fi Books:
 - Emphyrio
 - Hyperion 
 - Mission of Gravity
+
+Twitter Link / LinkedIn / Codepen maybe
