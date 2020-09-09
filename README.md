@@ -13,6 +13,7 @@ Fav Sci-Fi Movies:
 - Sorry to Bother You
 - Blade Runner
 - The Vast of Night
+- Demolition Man 
 
 
 Fav Sci-Fi Books:
@@ -38,7 +39,7 @@ Fav Sci-Fi Books:
 - Mission of Gravity
 - The Book of Strange New Things
 
-Fav Foods
+Death-Row Meal
 - Clam Chowder
 - Apple Pie
 
