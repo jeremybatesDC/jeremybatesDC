@@ -1,4 +1,4 @@
-### Hi! Here are some random things I like:
+### Hi! Here are some random things I love:
 
 Fav Sci-Fi Movies:
 
