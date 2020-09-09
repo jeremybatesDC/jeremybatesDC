@@ -10,6 +10,7 @@ Fav Sci-Fi Movies:
 - Ad Astra
 - Interstellar
 - Ex Machina
+- Sorry to Bother You
 
 
 Fav Sci-Fi Books:
