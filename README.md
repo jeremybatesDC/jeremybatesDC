@@ -1,20 +1,17 @@
-### How are you today?
+### Hi! Here are some random things I like:
+
+Fav Sci-Fi Movies:
+
+- 12 monkies
+- Attack the Block
+- Colosal
+- Moon
+- Mother
+- Ad Astra
+- Interstellar
+- Ex Machina
 
 
-![](jBatesReadmeImage.svg)
+Fav Sci-Fi Books:
+Ender's Game
 
-
-<!--
-**jeremybatesDC/jeremybatesDC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
