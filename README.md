@@ -35,6 +35,7 @@ Fav Sci-Fi Books:
 - Emphyrio
 - Hyperion 
 - Mission of Gravity
+- The Book of Strange New Things
 
 Fav Foods
 - Clam Chowder
