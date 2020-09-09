@@ -36,4 +36,8 @@ Fav Sci-Fi Books:
 - Hyperion 
 - Mission of Gravity
 
+Fav Foods
+- Clam Chowder
+- Apple Pie
+
 Twitter Link / LinkedIn / Codepen maybe
