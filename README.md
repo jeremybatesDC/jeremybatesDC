@@ -1,6 +1,6 @@
-### Hi! Here are some random things I love:
+# Hi! Here are some random things I love:
 
-Fav Sci-Fi Movies:
+### 📽️ Fav Sci-Fi Movies 📽️
 
 - 12 Monkeys
 - Attack the Block
@@ -16,7 +16,8 @@ Fav Sci-Fi Movies:
 - Demolition Man 
 
 
-Fav Sci-Fi Books:
+### 📚 Fav Sci-Fi Books 📚
+
 - On the Beach
 - Doomsday Book
 - Ender's Game
