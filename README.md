@@ -38,11 +38,12 @@
 - Mission of Gravity
 - The Book of Strange New Things
 
-Death-Row Meal
+### 🍽️ Death-Row Meal 🍽️
 - Clam Chowder
 - Apple Pie
 
-Hobbies/Passions
+
+### Hobbies/Passions
 - Baseball (Go Nats!)
 - Snorkeling
 - Geneaology 
