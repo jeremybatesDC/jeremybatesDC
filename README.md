@@ -44,8 +44,8 @@
 - Chocolate Chip Cookies
 
 
-### Hobbies/Passions
-- Baseball (Go Nats!)
+### Hobbies/Passions 
+- ⚾️ Baseball (Go Nats!)
 - Snorkeling
 - Geneaology 
 
