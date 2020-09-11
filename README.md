@@ -1,11 +1,15 @@
 
-```javascript
+```java
 
 Hi! Here are some random things I love
 
 ```
 
-
+### Christmas movies ###
+- scrooged
+- muppet christmas carol
+- gremlins
+- die hard
 
 ### 📽️ Fav Sci-Fi Movies 📽️
 - 12 Monkeys
