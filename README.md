@@ -1,4 +1,11 @@
-# Hi! Here are some random things I love:
+
+```javascript
+
+Hi! Here are some random things I love
+
+```
+
+
 
 ### 📽️ Fav Sci-Fi Movies 📽️
 - 12 Monkeys
@@ -7,7 +14,6 @@
 - Moon
 - Mother
 - Ad Astra
-- Interstellar
 - Ex Machina
 - Sorry to Bother You
 - Blade Runner
@@ -26,7 +32,6 @@
 - Daybreak...2250 A.D. / Beyond Earth's Gates
 - The Stars Are Legion
 - The Caves of Steel / The Naked Sun / The Robots of Dawn / (Asimov mysteries in the Foundation Universe)
-- Ring Around the Sun
 - A Canticle for Leibowitz 
 - The Martian Chronicles
 - The Sparrow 
@@ -35,7 +40,6 @@
 - City
 - Emphyrio
 - Hyperion 
-- Mission of Gravity
 - The Book of Strange New Things
 
 ### 🍽️ Death-Row Meal 🍽️
