@@ -1,9 +1,8 @@
 
-```java
-
-Hi! Here are some random things I love
-
+```javascript
+let me_welcome_you_and_showYouSomeRandomThingsIlove
 ```
+
 
 ### Christmas movies ###
 - scrooged
@@ -30,11 +29,7 @@ Hi! Here are some random things I love
 - Doomsday Book
 - Ender's Game
 - Down and Out in the Magic Kingdom
-- Dark Matter
-- Alas, Babylon
 - Ubik
-- Daybreak...2250 A.D. / Beyond Earth's Gates
-- The Stars Are Legion
 - The Caves of Steel / The Naked Sun / The Robots of Dawn / (Asimov mysteries in the Foundation Universe)
 - A Canticle for Leibowitz 
 - The Martian Chronicles
@@ -55,8 +50,8 @@ Hi! Here are some random things I love
 
 ### Hobbies/Passions 
 - ⚾️ Baseball (Go Nats!)
-- Snorkeling
-- Geneaology 
+- 🤿 Snorkeling
+- 👨‍👩‍👧‍👦 Geneaology 
 
 
 
