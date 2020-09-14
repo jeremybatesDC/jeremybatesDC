@@ -21,7 +21,18 @@ other lives
 - newspaper publisher 
 
 
-ways i've fucked up coffee:
+ways i've messed up coffee in order of consequence severity:
+
+forgot water
+left in old grounds
+forgot grounds 
+double water
+cup upside down (single cup)
+carafe misalignment
+forgot carafe
+coffee urn lid closed
+
+
 
 
 ### Beat Christmas Movies According to Science ###
