@@ -1,10 +1,31 @@
 
 ```javascript
-let me_welcome_you_and_showYouSomeRandomThingsIlove
+let me_welcome_you, and_showYouSomeRandomThingsIlove
 ```
 
+best simpsons episodes
+- new kid on block
+- rosebud
+- last exit to springfield (or whatvever the dentail plan episode is called)
 
-### Christmas movies ###
+fav past phones
+- kyocera 6035
+- nokia n93
+- pocket pc slider
+- palm pre
+- first og windows phone 
+
+other lives
+- baseball writer
+- musical thespian (1 1/2 threats)
+- newspaper publisher 
+
+
+ways i've fucked up coffee:
+
+
+### Beat Christmas Movies According to Science ###
+- the night before 
 - scrooged
 - muppet christmas carol
 - gremlins
@@ -13,7 +34,6 @@ let me_welcome_you_and_showYouSomeRandomThingsIlove
 ### 📽️ Fav Sci-Fi Movies 📽️
 - 12 Monkeys
 - Attack the Block
-- Colossal
 - Moon
 - Mother
 - Ad Astra
@@ -28,14 +48,13 @@ let me_welcome_you_and_showYouSomeRandomThingsIlove
 - On the Beach
 - Doomsday Book
 - Ender's Game
-- Down and Out in the Magic Kingdom
+- Down & Out in the Magic Kingdom
 - Ubik
-- The Caves of Steel / The Naked Sun / The Robots of Dawn / (Asimov mysteries in the Foundation Universe)
+- The Naked Sun
 - A Canticle for Leibowitz 
 - The Martian Chronicles
 - The Sparrow 
 - Level 7
-- The Midwich Cuckoos
 - City
 - Emphyrio
 - Hyperion 
@@ -43,6 +62,7 @@ let me_welcome_you_and_showYouSomeRandomThingsIlove
 
 ### 🍽️ Death-Row Meal 🍽️
 - Clam Chowder
+- Margherita pizza
 - Apple Pie
 - Chocolate Chip Cookies
 - Kona Big Wave Golden Ale
