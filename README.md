@@ -8,7 +8,7 @@ let me_welcome_you, and_showYouSomeRandomThingsIlove
 - 👨‍👩‍👧‍👦 Geneaology 
 
 
-## ☕ Ways I've messed up coffee, in order of consequence severity:
+## ☕🤦 Ways I've messed up coffee, in order of consequence severity:
 - forgot water
 - left in old grounds
 - forgot grounds 
@@ -18,7 +18,7 @@ let me_welcome_you, and_showYouSomeRandomThingsIlove
 - forgot carafe
 - coffee urn lid closed
 
-## 📚 Fav Sci-Fi Books
+## 👾📚 Fav Sci-Fi Books
 - On the Beach
 - Level 7
 - Doomsday Book
@@ -58,7 +58,7 @@ let me_welcome_you, and_showYouSomeRandomThingsIlove
 - rosebud
 - last exit to springfield (or whatvever the dentail plan episode is called)
 
-## Favorite past phones
+## 📱 Best Phones of All Time
 - kyocera 6035
 - nokia n93
 - pocket pc slider
