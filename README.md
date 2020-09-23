@@ -19,7 +19,7 @@ let me_welcome_you, and_showYouSomeRandomThingsIlove
 - forgot carafe
 - coffee urn lid closed
 
-## 📚 Fav Sci-Fi Books 📚
+## 📚 Fav Sci-Fi Books
 - On the Beach
 - Level 7
 - Doomsday Book
@@ -35,7 +35,7 @@ let me_welcome_you, and_showYouSomeRandomThingsIlove
 - Hyperion 
 - The Book of Strange New Things
 
-## 📽️ Fav Sci-Fi Movies 📽️
+## 👾📽️ Fav Sci-Fi Movies
 - 12 Monkeys
 - Attack the Block
 - Moon
@@ -47,14 +47,14 @@ let me_welcome_you, and_showYouSomeRandomThingsIlove
 - The Vast of Night
 - Demolition Man 
 
-## Best Christmas Movies According to Science
+## 🎄📽️ Best Christmas Movies According to Science
 - the night before 
 - scrooged
 - muppet christmas carol
 - gremlins
 - die hard
 
-## Best Simpsons Episodes According to Science 
+## 📺 Best Simpsons Episodes According to Science 
 - new kid on block
 - rosebud
 - last exit to springfield (or whatvever the dentail plan episode is called)
@@ -66,7 +66,7 @@ let me_welcome_you, and_showYouSomeRandomThingsIlove
 - palm pre
 - first og windows phone 
 
-## 🍽️ Death-Row Meal 🍽️
+## 🍽️ Death-Row Meal
 - Clam Chowder
 - Margherita pizza
 - Apple Pie
@@ -79,6 +79,5 @@ let me_welcome_you, and_showYouSomeRandomThingsIlove
 - newspaper publisher 
 
 ## Say sup
-- [Twitter](https://twitter.com/neanderthalian)
-- [linkedIn: 
-:bowtie:](https://www.linkedin.com/in/jeremybatesdc/)
+- [🐦 Twitter](https://twitter.com/neanderthalian)
+- [:bowtie: LinkedIn](https://www.linkedin.com/in/jeremybatesdc/)
