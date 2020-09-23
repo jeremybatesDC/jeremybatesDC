@@ -78,5 +78,5 @@ let me_welcome_you, and_showYouSomeRandomThingsIlove
 - newspaper publisher 
 
 ## Say sup
-- [🐦 Twitter](https://twitter.com/neanderthalian)
-- [:bowtie: LinkedIn](https://www.linkedin.com/in/jeremybatesdc/)
+- <a href="https://twitter.com/neanderthalian" target="_blank">🐦 Twitter</a>
+- <a href="https://www.linkedin.com/in/jeremybatesdc/" target="_blank">:bowtie: LinkedIn</a>
