@@ -54,13 +54,6 @@ let me_welcome_you, and_showYouSomeRandomThingsIlove
 - gremlins
 - die hard
 
-### 🍽️ Death-Row Meal 🍽️
-- Clam Chowder
-- Margherita pizza
-- Apple Pie
-- Chocolate Chip Cookies
-- Kona Big Wave Golden Ale
-
 ### Best Simpsons Episodes According to Science 
 - new kid on block
 - rosebud
@@ -72,6 +65,13 @@ let me_welcome_you, and_showYouSomeRandomThingsIlove
 - pocket pc slider
 - palm pre
 - first og windows phone 
+
+### 🍽️ Death-Row Meal 🍽️
+- Clam Chowder
+- Margherita pizza
+- Apple Pie
+- Chocolate Chip Cookies
+- Kona Big Wave Golden Ale
 
 ### Other lives
 - baseball writer
