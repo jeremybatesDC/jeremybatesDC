@@ -3,7 +3,7 @@
 let me_welcome_you, and_showYouSomeRandomThingsIlove
 ```
 
-### Hobbies/Passions 
+## Hobbies/Passions 
 - ⚾️ Baseball (Go Nats!)
 - 🤿 Snorkeling
 - 👨‍👩‍👧‍👦 Geneaology 
@@ -19,7 +19,7 @@ let me_welcome_you, and_showYouSomeRandomThingsIlove
 - forgot carafe
 - coffee urn lid closed
 
-### 📚 Fav Sci-Fi Books 📚
+## 📚 Fav Sci-Fi Books 📚
 - On the Beach
 - Level 7
 - Doomsday Book
@@ -35,7 +35,7 @@ let me_welcome_you, and_showYouSomeRandomThingsIlove
 - Hyperion 
 - The Book of Strange New Things
 
-### 📽️ Fav Sci-Fi Movies 📽️
+## 📽️ Fav Sci-Fi Movies 📽️
 - 12 Monkeys
 - Attack the Block
 - Moon
@@ -47,37 +47,38 @@ let me_welcome_you, and_showYouSomeRandomThingsIlove
 - The Vast of Night
 - Demolition Man 
 
-### Best Christmas Movies According to Science
+## Best Christmas Movies According to Science
 - the night before 
 - scrooged
 - muppet christmas carol
 - gremlins
 - die hard
 
-### Best Simpsons Episodes According to Science 
+## Best Simpsons Episodes According to Science 
 - new kid on block
 - rosebud
 - last exit to springfield (or whatvever the dentail plan episode is called)
 
-### Favorite past phones
+## Favorite past phones
 - kyocera 6035
 - nokia n93
 - pocket pc slider
 - palm pre
 - first og windows phone 
 
-### 🍽️ Death-Row Meal 🍽️
+## 🍽️ Death-Row Meal 🍽️
 - Clam Chowder
 - Margherita pizza
 - Apple Pie
 - Chocolate Chip Cookies
 - Kona Big Wave Golden Ale
 
-### Other lives
+## Other lives
 - baseball writer
 - musical thespian (1 1/2 threats)
 - newspaper publisher 
 
-### Say sup
+## Say sup
 - [Twitter](https://twitter.com/neanderthalian)
-- [linkedIn](https://www.linkedin.com/in/jeremybatesdc/)
+- [linkedIn: 
+:bowtie:](https://www.linkedin.com/in/jeremybatesdc/)
