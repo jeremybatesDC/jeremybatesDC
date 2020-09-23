@@ -9,7 +9,7 @@ let me_welcome_you, and_showYouSomeRandomThingsIlove
 - 👨‍👩‍👧‍👦 Geneaology 
 
 
-### Ways I've messed up coffee, in order of consequence severity:
+## ☕ Ways I've messed up coffee, in order of consequence severity:
 - forgot water
 - left in old grounds
 - forgot grounds 
