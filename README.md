@@ -78,4 +78,6 @@ let me_welcome_you, and_showYouSomeRandomThingsIlove
 - musical thespian (1 1/2 threats)
 - newspaper publisher 
 
-[🐦 @neaderthalian](https://twitter.com/neanderthalian) / [linkedIn](https://www.linkedin.com/in/jeremybatesdc/)
+### Say sup
+- [Twitter](https://twitter.com/neanderthalian)
+- [linkedIn](https://www.linkedin.com/in/jeremybatesdc/)
