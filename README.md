@@ -2,8 +2,7 @@
 let me_welcome_you, and_showYouSomeRandomThingsIlove
 ```
 
-## Hobbies/Passions 
-### ⚾️ Baseball (Go Nats!), 🤿 Snorkeling, 👪 Geneaology
+## My passions include ⚾️ Baseball (Go Nats!), 🤿 Snorkeling, 👪 Geneaology
 
 ## ☕🤦 Ways I've messed up coffee, in order of consequence severity:
 - forgot water
