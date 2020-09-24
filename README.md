@@ -68,7 +68,7 @@ let me_welcome_you, and_shareMoreRandomThings
 - Chocolate Chip Cookies
 - Kona Big Wave Golden Ale
 
-## 💼⌛ Previous careers
+## 💼⌛ Previous Jobs
 - Baseball writer
 - Newspaper publisher
 - Spa reservations associate
