@@ -14,7 +14,7 @@ let me_welcome_you, and_shareMoreRandomThings
 - forgot carafe
 - coffee urn lid closed
 
-## 👾 Fav Sci-Fi Books 📚
+## 👾 Fav 15 Sci-Fi Books 📚
 - On the Beach
 - Level 7
 - Doomsday Book
@@ -29,8 +29,9 @@ let me_welcome_you, and_shareMoreRandomThings
 - Emphyrio
 - Hyperion 
 - The Book of Strange New Things
+- Alas, Babylon
 
-## 👾 Fav Sci-Fi Movies 📽️
+## 👾 Fav 10 Sci-Fi Movies 📽️
 - 12 Monkeys
 - Attack the Block
 - Moon
@@ -42,19 +43,21 @@ let me_welcome_you, and_shareMoreRandomThings
 - The Vast of Night
 - Demolition Man 
 
-## 🎄 Best Christmas Movies According to Science 📽️
+## 🎄 Top 5 Christmas Movies According to Science 📽️
 - The Night Before 
 - Scrooged
 - Muppet Christmas Carol
 - Gremlins [yeah, you heard me]
 - Die Hard [Yippee-ki-yay, motherfucker]
 
-## 📺 Best Simpsons Episodes According to Science 🤣
+## 📺 Top 5 Simpsons Episodes According to Science 🤣
 - New Kid on the Block
 - Rosebud
 - Last Exit to Springfield
+- Duffless
+- Whacking Day
 
-## 📱 Best Phones of All Time 🏅
+## 📱 Top 5 Phones of All Time 🏅
 - Kyocera 6035
 - Nokia n93
 - ... pocket pc slider
