@@ -4,7 +4,7 @@
 let me_welcome_you, and_shareMoreRandomThings
 ```
 
-## ☕Ways I've messed up coffee, in order of consequence severity
+## ☕ Ways I've messed up coffee, in order of consequence severity
 - forgot water
 - left in old grounds
 - forgot grounds 
@@ -64,7 +64,7 @@ let me_welcome_you, and_shareMoreRandomThings
 - Siemens sx66
 - Palm Pre
 
-## 🍽️ Death-Row Meal
+##  🍽️ Death-Row Meal
 - Clam Chowder
 - Margherita pizza
 - Apple Pie
