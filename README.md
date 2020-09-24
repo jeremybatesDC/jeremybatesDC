@@ -44,11 +44,11 @@ let me_welcome_you, and_showYouSomeRandomThingsIlove
 - Demolition Man 
 
 ## 🎄📽️ Best Christmas Movies According to Science
-- the night before 
-- scrooged
-- muppet christmas carol
-- gremlins
-- die hard
+- The Night Before 
+- Scrooged
+- Muppet Christmas Carol
+- Gremlins (yes)
+- Die Hard (yes)
 
 ## 📺 Best Simpsons Episodes According to Science 
 - New Kid on the Block
