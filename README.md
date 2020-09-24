@@ -54,16 +54,16 @@ let me_welcome_you, and_showYouSomeRandomThingsIlove
 - die hard
 
 ## 📺 Best Simpsons Episodes According to Science 
-- new kid on block
-- rosebud
-- last exit to springfield (or whatvever the dentail plan episode is called)
+- New Kid on the Block
+- Rosebud
+- Last Exit to Springfield
 
 ## 📱 Best Phones of All Time
-- kyocera 6035
-- nokia n93
-- pocket pc slider
-- palm pre
-- first og windows phone 
+- Kyocera 6035
+- Nokia n93
+- ... pocket pc slider
+- Palm Pre
+- Audiovox  
 
 ## 🍽️ Death-Row Meal
 - Clam Chowder
@@ -73,9 +73,9 @@ let me_welcome_you, and_showYouSomeRandomThingsIlove
 - Kona Big Wave Golden Ale
 
 ## Other lives
-- baseball writer
-- musical thespian (1 1/2 threats)
-- newspaper publisher 
+- Baseball writer
+- Musical thespian (1 1/2 threats)
+- Newspaper publisher 
 
 ## Say sup
 - <a href="https://twitter.com/neanderthalian" target="_blank">🐦 Twitter</a>
