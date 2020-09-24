@@ -50,30 +50,32 @@ let me_welcome_you, and_showYouSomeRandomThingsIlove
 - Gremlins [yeah, you heard me]
 - Die Hard [Yippee-ki-yay, motherfucker]
 
-## 📺 Best Simpsons Episodes According to Science 
+## 📺🤣 Best Simpsons Episodes According to Science 
 - New Kid on the Block
 - Rosebud
 - Last Exit to Springfield
 
-## 📱 Best Phones of All Time
+## 📱🏅 Best Phones of All Time
 - Kyocera 6035
 - Nokia n93
 - ... pocket pc slider
 - Palm Pre
 - Audiovox  
 
-## 🍽️ Death-Row Meal
+## 🍽️🍺 Death-Row Meal
 - Clam Chowder
 - Margherita pizza
 - Apple Pie
 - Chocolate Chip Cookies
 - Kona Big Wave Golden Ale
 
-## Other lives
+## 💼⌛ Previous careers
 - Baseball writer
-- Musical thespian (1 1/2 threats)
-- Newspaper publisher 
+- Newspaper publisher
+- Spa reservations associate
+- Waiter (everybody should wait tables at some point in their lives. It is humbling in an ultimately positive way)
 
-## Say sup
+
+## 👋 Say sup
 - <a href="https://twitter.com/neanderthalian" target="_blank">🐦 Twitter</a>
 - <a href="https://www.linkedin.com/in/jeremybatesdc/" target="_blank">:bowtie: LinkedIn</a>
