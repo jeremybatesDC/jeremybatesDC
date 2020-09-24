@@ -47,8 +47,8 @@ let me_welcome_you, and_showYouSomeRandomThingsIlove
 - The Night Before 
 - Scrooged
 - Muppet Christmas Carol
-- Gremlins (yes)
-- Die Hard (yes)
+- Gremlins [yeah, you heard me]
+- Die Hard [Yippee-ki-yay, motherfucker]
 
 ## 📺 Best Simpsons Episodes According to Science 
 - New Kid on the Block
