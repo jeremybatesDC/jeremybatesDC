@@ -57,12 +57,12 @@ let me_welcome_you, and_shareMoreRandomThings
 - Duffless
 - Whacking Day
 
-## 📱 Top 5 Phones of All Time 🏅
+## 📱 Fav 5 Phones of All Time 🏅
 - Kyocera 6035
-- Nokia n93
-- ... pocket pc slider
+- Audiovox Thera
+- Nokia n93i
+- Siemens sx66
 - Palm Pre
-- Audiovox  
 
 ## 🍽️ Death-Row Meal 🍺 
 - Clam Chowder
