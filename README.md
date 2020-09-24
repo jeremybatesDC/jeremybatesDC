@@ -4,7 +4,7 @@
 let me_welcome_you, and_shareMoreRandomThings
 ```
 
-## ☕🤦 Ways I've messed up coffee, in order of consequence severity:
+## ☕Ways I've messed up coffee, in order of consequence severity🤦 
 - forgot water
 - left in old grounds
 - forgot grounds 
@@ -14,7 +14,7 @@ let me_welcome_you, and_shareMoreRandomThings
 - forgot carafe
 - coffee urn lid closed
 
-## 👾📚 Fav Sci-Fi Books
+## 👾 Fav Sci-Fi Books 📚
 - On the Beach
 - Level 7
 - Doomsday Book
@@ -30,7 +30,7 @@ let me_welcome_you, and_shareMoreRandomThings
 - Hyperion 
 - The Book of Strange New Things
 
-## 👾📽️ Fav Sci-Fi Movies
+## 👾 Fav Sci-Fi Movies 📽️
 - 12 Monkeys
 - Attack the Block
 - Moon
@@ -42,33 +42,33 @@ let me_welcome_you, and_shareMoreRandomThings
 - The Vast of Night
 - Demolition Man 
 
-## 🎄📽️ Best Christmas Movies According to Science
+## 🎄 Best Christmas Movies According to Science 📽️
 - The Night Before 
 - Scrooged
 - Muppet Christmas Carol
 - Gremlins [yeah, you heard me]
 - Die Hard [Yippee-ki-yay, motherfucker]
 
-## 📺🤣 Best Simpsons Episodes According to Science 
+## 📺 Best Simpsons Episodes According to Science 🤣
 - New Kid on the Block
 - Rosebud
 - Last Exit to Springfield
 
-## 📱🏅 Best Phones of All Time
+## 📱 Best Phones of All Time 🏅
 - Kyocera 6035
 - Nokia n93
 - ... pocket pc slider
 - Palm Pre
 - Audiovox  
 
-## 🍽️🍺 Death-Row Meal
+## 🍽️ Death-Row Meal 🍺 
 - Clam Chowder
 - Margherita pizza
 - Apple Pie
 - Chocolate Chip Cookies
 - Kona Big Wave Golden Ale
 
-## 💼⌛ Previous Jobs
+## 💼 Previous Jobs ⌛
 - Baseball writer
 - Newspaper publisher
 - Spa reservations associate
