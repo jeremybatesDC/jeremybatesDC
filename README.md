@@ -1,9 +1,8 @@
-# Hi, I'm Jeremy. I'm a dad, husband, and frontend engineer. My passions include ⚾️ Baseball (Go Nats!), 🤿 Snorkeling, 👪 Geneaology
+# Hi, I'm Jeremy. I'm a dad, husband, and frontend engineer. My passions include ⚾️ Baseball (Go Nats!), 🤿 Snorkeling, and 👪 Geneaology
 
 ```javascript
-let me_welcome_you, and_showYouSomeRandomThingsIlove
+let me_welcome_you, and_shareMoreRandomThings
 ```
-
 
 ## ☕🤦 Ways I've messed up coffee, in order of consequence severity:
 - forgot water
