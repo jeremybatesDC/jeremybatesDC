@@ -64,7 +64,7 @@ let me_welcome_you, and_shareMoreRandomThings
 - Siemens sx66
 - Palm Pre
 
-##  🍽️ Death-Row Meal
+##  🍽️  Death-Row Meal
 - Clam Chowder
 - Margherita pizza
 - Apple Pie
