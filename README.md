@@ -59,7 +59,7 @@ let me_welcome_you, and_shareMoreRandomThings
 - Siemens sx66
 - Palm Pre
 
-### Fav 5 Beers
+### 🍺 Fav 5 Beers
 - Big Wave, Kona
 - SO-LO, Goose Island
 - Down to Earth, 21st Amendment
