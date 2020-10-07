@@ -4,7 +4,6 @@ let me_welcome_you, and_shareMoreRandomThings
 
 ### ☕ Ways I've messed up coffee, in order of consequence severity
 ```javascript
-// ☕ Ways I've messed up coffee, in order of consequence severity
 let waysIveMessedUpCoffee = [
   forgot_water,
   forgot_grounds,
@@ -17,17 +16,21 @@ let waysIveMessedUpCoffee = [
 ```
 
 ### 📚 Fav 11 Sci-Fi Books (trying to cut one more from list)
-- On the Beach
-- Level 7
-- Doomsday Book
-- A Canticle for Leibowitz 
-- Ender's Game
-- Down & Out in the Magic Kingdom
-- The Naked Sun
-- The Martian Chronicles
-- The Sparrow 
-- Emphyrio
-- The Book of Strange New Things
+```go
+[
+  "On the Beach",
+  "Level 7",
+  "Doomsday Book",
+  "A Canticle for Leibowitz",
+  "Ender's Game",
+  "Down & Out in the Magic Kingdom",
+  "The Naked Sun",
+  "The Martian Chronicles",
+  "The Sparrow",
+  "Emphyrio",
+  "The Book of Strange New Things"
+]
+```
 
 ### 📽️ Fav 10 Sci-Fi Movies
 - 12 Monkeys
