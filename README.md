@@ -72,6 +72,13 @@ let me_welcome_you, and_shareMoreRandomThings
 - Newspaper publisher
 - Spa reservations associate
 
+
+_ | 💼 Previous Jobs
+------------ | -------------
+- | Baseball writer
+- | Newspaper publisher
+- | Spa reservations associate
+
 ### 👋 Say sup
 - <a href="https://twitter.com/neanderthalian" target="_blank">🐦 Twitter</a>
 - <a href="https://www.linkedin.com/in/jeremybatesdc/" target="_blank">:bowtie: LinkedIn</a>
