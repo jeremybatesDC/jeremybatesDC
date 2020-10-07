@@ -5,7 +5,7 @@ let me_welcome_you, and_shareMoreRandomThings
 ### ☕ Ways I've messed up coffee, in order of consequence severity
 ```javascript
 let waysIveMessedUpCoffee = [
-  forgot water,
+  forgot_water,
   forgot_grounds,
   left_in_old_grounds
   double_water,
