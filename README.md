@@ -1,4 +1,4 @@
-## Hi, I'm Jeremy. I'm a dad, husband, and frontend engineer. My passions include ⚾️ Baseball (Go Nats!), 🤿 Snorkeling, and 👪 Geneaology. ✊🏿 Black Lives Matter.
+# Hi, I'm Jeremy. I'm a dad, husband, and frontend engineer. My passions include ⚾️ Baseball (Go Nats!), 🤿 Snorkeling, and 👪 Geneaology. ✊🏿 Black Lives Matter.
 
 ```javascript
 let me_welcome_you, and_shareMoreRandomThings
