@@ -33,7 +33,7 @@ let waysIveMessedUpCoffee = [
 ```
 
 ### 📽️ Fav 10 Sci-Fi Movies
-```go
+```C
 [
   "12 Monkeys",
   "Attack the Block",
