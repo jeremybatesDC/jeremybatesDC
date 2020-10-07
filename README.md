@@ -3,14 +3,17 @@ let me_welcome_you, and_shareMoreRandomThings
 ```
 
 ### ☕ Ways I've messed up coffee, in order of consequence severity
-- forgot water
-- left in old grounds
-- forgot grounds 
-- double water
-- cup upside down (single cup)
-- carafe misalignment
-- forgot carafe
-- coffee urn lid closed
+```javascript
+let waysIveMessedUpCoffee = [
+  forgot water,
+  forgot_grounds,
+  left in old grounds
+  double_water,
+  cup_upside_down_singleCup,
+  carafe_misalignment,
+  carafe_missing
+]
+```
 
 ### 📚 Fav 11 Sci-Fi Books (trying to cut one more from list)
 - On the Beach
