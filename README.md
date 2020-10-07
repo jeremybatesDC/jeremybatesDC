@@ -33,16 +33,21 @@ let waysIveMessedUpCoffee = [
 ```
 
 ### 📽️ Fav 10 Sci-Fi Movies
-- 12 Monkeys
-- Attack the Block
-- Moon
-- Mother
-- Ad Astra
-- Ex Machina
-- Sorry to Bother You
-- Blade Runner
-- The Vast of Night
-- Demolition Man 
+```go
+[
+"12 Monkeys",
+"Attack the Block",
+"Moon",
+"Mother",
+"Ad Astra",
+"Ex Machina",
+"Sorry to Bother You",
+"Blade Runner",
+"The Vast of Night",
+"Demolition Man"
+]
+```
+
 
 ### 📽️ Top 5 Christmas Movies According to Science
 - The Night Before 
