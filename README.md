@@ -50,7 +50,7 @@ let waysIveMessedUpCoffee = [
 
 
 ### 📽️ Top 5 Christmas Movies According to Science
-```go
+```C
 [
   "The Night Before",
   "Scrooged",
@@ -61,11 +61,13 @@ let waysIveMessedUpCoffee = [
 ```
 
 ### 📺 Top 5 Simpsons Episodes According to Science
+```
 - New Kid on the Block
 - Rosebud
 - Last Exit to Springfield
 - Duffless
 - Whacking Day
+```
 
 ### 📱 Fav 5 Phones of All Time
 - Kyocera 6035
