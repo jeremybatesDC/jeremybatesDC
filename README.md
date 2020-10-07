@@ -50,11 +50,15 @@ let waysIveMessedUpCoffee = [
 
 
 ### 📽️ Top 5 Christmas Movies According to Science
-- The Night Before 
-- Scrooged
-- Muppet Christmas Carol
-- Gremlins [yeah, you heard me]
-- Die Hard [Yippee-ki-yay, motherfucker]
+```go
+[
+  "The Night Before",
+  "Scrooged",
+  "Muppet Christmas Carol",
+  "Gremlins -- um yeah, you heard me",
+  "Die Hard -- Yippee-ki-yay, motherfucker"
+]
+```
 
 ### 📺 Top 5 Simpsons Episodes According to Science
 - New Kid on the Block
