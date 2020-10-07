@@ -59,12 +59,12 @@ let me_welcome_you, and_shareMoreRandomThings
 - Siemens sx66
 - Palm Pre
 
-##  🍽️  Death-Row Meal
-- Clam Chowder
-- Margherita pizza
-- Apple Pie
-- Chocolate Chip Cookies
-- Kona Big Wave Golden Ale
+## Fav 5 Beers
+- Big Wave, Kona
+- SO-LO, Goose Island
+- Down to Earth, 21st Amendment
+- Mango Even Keel, Ballast Point
+- Hop Hash Easy IPA, SweetWater
 
 ## 💼 Previous Jobs
 - Baseball writer
