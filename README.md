@@ -75,9 +75,9 @@ let me_welcome_you, and_shareMoreRandomThings
 
 _ | 💼 Previous Jobs
 ------------ | -------------
-- | Baseball writer
-- | Newspaper publisher
-- | Spa reservations associate
+_ | Baseball writer
+_ | Newspaper publisher
+_ | Spa reservations associate
 
 ### 👋 Say sup
 - <a href="https://twitter.com/neanderthalian" target="_blank">🐦 Twitter</a>
