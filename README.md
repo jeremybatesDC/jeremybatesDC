@@ -7,7 +7,7 @@ let me_welcome_you, and_shareMoreRandomThings
 let waysIveMessedUpCoffee = [
   forgot water,
   forgot_grounds,
-  left in old grounds
+  left_in_old_grounds
   double_water,
   cup_upside_down_singleCup,
   carafe_misalignment,
