@@ -3,7 +3,7 @@ let me_welcome_you, and_shareMoreRandomThings
 ```
 
 ### ☕ Ways I've messed up coffee, in order of consequence severity
-```javascript
+```
 let waysIveMessedUpCoffee = [
   forgot_water,
   forgot_grounds,
@@ -16,7 +16,7 @@ let waysIveMessedUpCoffee = [
 ```
 
 ### 📚 Fav 11 Sci-Fi Books (trying to cut one more from list)
-```go
+```
 [
   "On the Beach",
   "Level 7",
@@ -33,7 +33,7 @@ let waysIveMessedUpCoffee = [
 ```
 
 ### 📽️ Fav 10 Sci-Fi Movies
-```C
+```
 [
   "12 Monkeys",
   "Attack the Block",
@@ -50,7 +50,7 @@ let waysIveMessedUpCoffee = [
 
 
 ### 📽️ Top 5 Christmas Movies According to Science
-```C
+```
 [
   "The Night Before",
   "Scrooged",
@@ -70,27 +70,34 @@ let waysIveMessedUpCoffee = [
 ```
 
 ### 📱 Fav 5 Phones of All Time
+```
 - Kyocera 6035
 - Audiovox Thera
 - Nokia n93i
 - Siemens sx66
 - Palm Pre
+```
 
 ### 🍺 Fav 5 Beers
+```
 - Big Wave, Kona
 - SO-LO, Goose Island
 - Down to Earth, 21st Amendment
 - Mango Even Keel, Ballast Point
 - Hop Hash Easy IPA, SweetWater
+```
 
 ### 💼 Previous Jobs
+```
 - Baseball writer
 - Newspaper publisher
 - Spa reservations associate
+```
 
 ### 👋 Say sup
-- <a href="https://twitter.com/neanderthalian" target="_blank">🐦 Twitter</a>
-- <a href="https://www.linkedin.com/in/jeremybatesdc/" target="_blank">:bowtie: LinkedIn</a>
+<a href="https://twitter.com/neanderthalian" target="_blank">🐦 Twitter</a>
+<br/>
+<a href="https://www.linkedin.com/in/jeremybatesdc/" target="_blank">:bowtie: LinkedIn</a>
 
 ---
 
