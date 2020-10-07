@@ -14,22 +14,18 @@ let me_welcome_you, and_shareMoreRandomThings
 - forgot carafe
 - coffee urn lid closed
 
-## 📚 Fav 15 Sci-Fi Books
+## 📚 Fav 11 Sci-Fi Books (trying to cut one more from list)
 - On the Beach
 - Level 7
 - Doomsday Book
 - A Canticle for Leibowitz 
 - Ender's Game
 - Down & Out in the Magic Kingdom
-- Ubik
 - The Naked Sun
 - The Martian Chronicles
 - The Sparrow 
-- City
 - Emphyrio
-- Hyperion 
 - The Book of Strange New Things
-- Alas, Babylon
 
 ## 📽️ Fav 10 Sci-Fi Movies
 - 12 Monkeys
@@ -75,9 +71,11 @@ let me_welcome_you, and_shareMoreRandomThings
 - Baseball writer
 - Newspaper publisher
 - Spa reservations associate
-- Waiter (everybody should wait tables at some point in their lives. It is humbling in an ultimately positive way)
-
 
 ## 👋 Say sup
 - <a href="https://twitter.com/neanderthalian" target="_blank">🐦 Twitter</a>
 - <a href="https://www.linkedin.com/in/jeremybatesdc/" target="_blank">:bowtie: LinkedIn</a>
+
+
+### For Peter Arseniev, 1994 – 2020
+You should not be in a tribute. You should be here with us. You were so much more than a developer, but I can speak specifically to that part of your life. You were my first mentee. Where did what you learned go? It went away with you. Gone, but not wasted. Time spent challenging each other's ideas--an unexpected and aggrevating reciprocity in a senior/student relationship. Especially aggrevating were the times you were right. You taught me more about being a lead developer than I ever tought you about frontend code. Thank you. I miss you, friend.
