@@ -11,7 +11,6 @@ let me_welcome_you, and_shareMoreRandomThings
   - single cup upside down,
   - carafe misalignment,
   - carafe missing
-]
 ```
 
 ### 📚 Fav 11 Sci-Fi Books (trying to cut one more from list)
@@ -43,54 +42,53 @@ let me_welcome_you, and_shareMoreRandomThings
   - Demolition Man
 ```
 
-
 ### 📽️ Top 5 Christmas Movies According to Science
 ```
-  The Night Before",
-  "Scrooged",
-  "Muppet Christmas Carol",
-  "Gremlins -- um yeah, you heard me",
-  "Die Hard -- Yippee-ki-yay, motherfucker"
+  - The Night Before,
+  - Scrooged,
+  - Muppet Christmas Carol,
+  - Gremlins (yes),
+  - Die Hard (yippee-ki-yay, motherfucker)
 ```
 
 ### 📺 Top 5 Simpsons Episodes According to Science
 ```
-- New Kid on the Block
-- Rosebud
-- Last Exit to Springfield
-- Duffless
-- Whacking Day
+  - New Kid on the Block
+  - Rosebud
+  - Last Exit to Springfield
+  - Duffless
+  - Whacking Day
 ```
 
 ### 📱 Fav 5 Phones of All Time
 ```
-- Kyocera 6035
-- Audiovox Thera
-- Nokia n93i
-- Siemens sx66
-- Palm Pre
+  - Kyocera 6035
+  - Audiovox Thera
+  - Nokia n93i
+  - Siemens sx66
+  - Palm Pre
 ```
 
 ### 🍺 Fav 5 Beers
 ```
-- Big Wave, Kona
-- SO-LO, Goose Island
-- Down to Earth, 21st Amendment
-- Mango Even Keel, Ballast Point
-- Hop Hash Easy IPA, SweetWater
+  - Big Wave, Kona
+  - SO-LO, Goose Island
+  - Down to Earth, 21st Amendment
+  - Mango Even Keel, Ballast Point
+  - Hop Hash Easy IPA, SweetWater
 ```
 
 ### 💼 Previous Jobs
 ```
-- Baseball writer
-- Newspaper publisher
-- Spa reservations associate
+  - Baseball writer
+  - Newspaper publisher
+  - Spa reservations associate
 ```
 
 ### 👋 Say sup
-<a href="https://twitter.com/neanderthalian" target="_blank">🐦 Twitter</a>
-<br/>
-<a href="https://www.linkedin.com/in/jeremybatesdc/" target="_blank">:bowtie: LinkedIn</a>
+  <a href="https://twitter.com/neanderthalian" target="_blank">🐦 Twitter</a>
+  <br/>
+  <a href="https://www.linkedin.com/in/jeremybatesdc/" target="_blank">:bowtie: LinkedIn</a>
 
 ---
 
