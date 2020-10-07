@@ -1,5 +1,4 @@
-## Hi, I'm Jeremy. I'm a dad, husband, and frontend engineer. My passions include ⚾️ Baseball (Go Nats!), 🤿 Snorkeling, and 👪 Geneaology. Compassion shows strength; hatred reveals weakness.
-
+## Hi, I'm Jeremy. I'm a dad, husband, and frontend engineer. My passions include ⚾️ Baseball (Go Nats!), 🤿 Snorkeling, and 👪 Geneaology.
 ```javascript
 let me_welcome_you, and_shareMoreRandomThings
 ```
