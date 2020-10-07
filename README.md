@@ -4,6 +4,7 @@ let me_welcome_you, and_shareMoreRandomThings
 
 ### ☕ Ways I've messed up coffee, in order of consequence severity
 ```javascript
+// ☕ Ways I've messed up coffee, in order of consequence severity
 let waysIveMessedUpCoffee = [
   forgot_water,
   forgot_grounds,
