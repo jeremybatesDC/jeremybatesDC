@@ -87,6 +87,7 @@ let me_welcome_you, and_shareMoreRandomThings
 
 ### 👋 Say sup
   <a href="https://twitter.com/neanderthalian" target="_blank">Twitter 🐦</a>
+  <br/>
   <a href="https://www.linkedin.com/in/jeremybatesdc/" target="_blank">LinkedIn :bowtie: </a>
 
 ---
