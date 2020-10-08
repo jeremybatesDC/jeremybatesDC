@@ -1,6 +1,3 @@
-# Hi!
-## I'm a dad, husband, and frontend engineer. My passions include ⚾️ baseball (go Nats!), 🤿 snorkeling, and 👪 geneaology. ✊🏿 Black Lives Matter.
-
 ```javascript
 let me_welcome_you, and_shareMoreRandomThings
 ```
