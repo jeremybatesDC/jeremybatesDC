@@ -92,5 +92,4 @@ let me_welcome_you, and_shareMoreRandomThings
 
 ---
 
-###### For Peter Arseniev, 1994 – 2020
-###### You should not be in a tribute. You should be here with us. You were so much more than a developer, but I can speak to that part of your life because you were my first mentee. Where did your knowledge go? Away, with you? Gone, but not wasted. Time forever well spent challenging each other's ideas--an unexpected and aggravating reciprocity in a senior/student relationship. Especially aggravating were the not-infrequent times you were right. You taught me more about being a lead than I ever taught you about code. I miss you, Peter.
+###### For Peter Arseniev, 1994 – 2020: You should not be in a tribute. You should be here with us. You were so much more than a developer, but I can speak to that part of your life because you were my first mentee. Where did your knowledge go? Away, with you? Gone, but not wasted. Time forever well spent challenging each other's ideas--an unexpected and aggravating reciprocity in a senior/student relationship. Especially aggravating were the not-infrequent times you were right. You taught me more about being a lead than I ever taught you about code. I miss you, Peter.
