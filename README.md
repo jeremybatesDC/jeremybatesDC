@@ -4,50 +4,50 @@ let me_welcome_you, and_shareMoreRandomThings
 
 ### ☕ Ways I've messed up coffee, in order of consequence severity
 ```
-  - forgot water,
-  - forgot grounds,
-  - left in old grounds,
-  - double water,
-  - single cup upside down,
-  - carafe misalignment,
+  - forgot water
+  - forgot grounds
+  - left in old grounds
+  - double water
+  - single cup upside down
+  - carafe misalignment
   - carafe missing
 ```
 
 ### 📚 Fav 11 Sci-Fi Books (trying to cut one more from list)
 ```
-  - On the Beach,
-  - Level 7,
-  - Doomsday Book,
-  - A Canticle for Leibowitz,
-  - Ender's Game,
-  - Down & Out in the Magic Kingdom,
-  - The Naked Sun,
-  - The Martian Chronicles,
-  - The Sparrow,
-  - Emphyrio,
+  - On the Beach
+  - Level 7
+  - Doomsday Book
+  - A Canticle for Leibowitz
+  - Ender's Game
+  - Down & Out in the Magic Kingdom
+  - The Naked Sun
+  - The Martian Chronicles
+  - The Sparrow
+  - Emphyrio
   - The Book of Strange New Things
 ```
 
 ### 📽️ Fav 10 Sci-Fi Movies
 ```
-  - 12 Monkeys,
-  - Attack the Block,
-  - Moon,
-  - Mother,
-  - Ad Astra,
-  - Ex Machina,
-  - Sorry to Bother You,
-  - Blade Runner,
-  - The Vast of Night,
+  - 12 Monkeys
+  - Attack the Block
+  - Moon
+  - Mother
+  - Ad Astra
+  - Ex Machina
+  - Sorry to Bother You
+  - Blade Runner
+  - The Vast of Night
   - Demolition Man
 ```
 
 ### 📽️ Top 5 Christmas Movies According to Science
 ```
-  - The Night Before,
-  - Scrooged,
-  - Muppet Christmas Carol,
-  - Gremlins (yes),
+  - The Night Before
+  - Scrooged
+  - Muppet Christmas Carol
+  - Gremlins (yes)
   - Die Hard (yippee-ki-yay, motherfucker)
 ```
 
@@ -86,9 +86,8 @@ let me_welcome_you, and_shareMoreRandomThings
 ```
 
 ### 👋 Say sup
-  <a href="https://twitter.com/neanderthalian" target="_blank">🐦 Twitter</a>
-  <br/>
-  <a href="https://www.linkedin.com/in/jeremybatesdc/" target="_blank">:bowtie: LinkedIn</a>
+  <a href="https://twitter.com/neanderthalian" target="_blank">Twitter 🐦</a>
+  <a href="https://www.linkedin.com/in/jeremybatesdc/" target="_blank">LinkedIn :bowtie: </a>
 
 ---
 
