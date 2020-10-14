@@ -14,7 +14,7 @@ return again(please)
   - carafe missing
 ```
 
-### 📚 Fav 11 Sci-Fi Books (trying to cut one more from list)
+### 📚 Fav 10 Sci-Fi Books
 ```
   - On the Beach
   - Level 7
@@ -26,7 +26,6 @@ return again(please)
   - The Martian Chronicles
   - The Sparrow
   - Emphyrio
-  - The Book of Strange New Things
 ```
 
 ### 📽️ Fav 10 Sci-Fi Movies
