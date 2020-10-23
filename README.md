@@ -93,7 +93,7 @@ return again(please)
 - Despite the high cost of living, it remains popular.
 - Outside of a dog, a book is man's best friend. Inside of a dog, it's too dark to read.
 - If brute force doesn't work, you're not using enough.
-- [reply to "Have a good day!"] Thank you, but I've made other plans.
+- ["Have a good day!"] Thank you, but I've made other plans.
 ```
 
 ### 👋 Say sup
