@@ -9,7 +9,7 @@ return again(please)
   - forgot grounds
   - left in old grounds
   - double water
-  - 
+  - scooped-in grounds while basket missing
   - single cup upside down
   - carafe misalignment
   - carafe missing
