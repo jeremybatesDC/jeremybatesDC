@@ -9,12 +9,13 @@ return again(please)
   - forgot grounds
   - left in old grounds
   - double water
+  - 
   - single cup upside down
   - carafe misalignment
   - carafe missing
 ```
 
-### 📚 Fav 10 Sci-Fi Books
+### 📚 Fav 11 Sci-Fi Books
 ```
   - On the Beach
   - Level 7
@@ -26,9 +27,10 @@ return again(please)
   - The Martian Chronicles
   - The Sparrow
   - Emphyrio
+  - The Book of Strange New Things
 ```
 
-### 📽️ Fav 10 Sci-Fi Movies
+### 📽️ Fav 11 Sci-Fi Movies
 ```
   - 12 Monkeys
   - Attack the Block
@@ -39,6 +41,7 @@ return again(please)
   - Sorry to Bother You
   - Blade Runner
   - The Vast of Night
+  - Okja
   - Demolition Man
 ```
 
