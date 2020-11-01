@@ -92,7 +92,7 @@ return again(please)
 ```
   - David Ortiz stole my pen
   - Roger Clemens yelled at me
-  - Serendipitously saw the MLB debut of longtime childhood teammate when he was announced as LA's 8th inning reliever vs Giants. I surprised him right back in the clubhouse!
+  - Serendipitously saw the MLB debut of childhood teammate when he was announced as LA's 8th inning reliever vs Giants. I surprised him right back in the clubhouse!
 ```
 
 ### 💬 Fav Quotes (each of uncertain origin notwithstanding common attribution)
