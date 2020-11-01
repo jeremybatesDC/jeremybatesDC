@@ -93,6 +93,7 @@ return again(please)
   - David Ortiz stole my pen
   - Roger Clemens yelled at me
   - Greg Maddux gave me a great answer to a question at his 300th win press conference
+  - Barry Bonds politely declined to answer a question and later hit 660. Coincidence? 
   - Serendipitously saw the MLB debut of childhood teammate when he was announced as LA's 8th inning reliever vs Giants. I surprised him right back in the clubhouse!
 ```
 
