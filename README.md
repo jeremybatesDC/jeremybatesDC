@@ -88,7 +88,7 @@ return again(please)
   - Spa reservations associate
 ```
 
-### ⚾ Baseball writer stories
+### ⚾ Baseball stories
 ```
   - David Ortiz stole my pen
   - Roger Clemens yelled at me
