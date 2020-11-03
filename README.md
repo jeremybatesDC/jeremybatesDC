@@ -80,16 +80,27 @@ return again(please)
 ```
 
 
-### 💬 Some quotes I like (each of uncertain origin notwithstanding common attribution)
-```
-  - Despite the high cost of living, it remains popular.
-  - Outside of a dog, a book is man's best friend. Inside of a dog, it's too dark to read.
-  - If brute force doesn't work, you're not using enough.
-  - ["Have a good day!"] Thank you, but I've made other plans.
-  - When you come to a fork in the road, take it.
-  - It is like a finger that points to the moon. Don't look at the finger, or you will miss all the heavenly glory.
-```
+### 
 
+<details id="" open>
+	<summary><strong>💬 Some quotes I like (each of uncertain origin notwithstanding common attribution)</strong></summary>
+	<span>
+		<br>
+<ul>
+  <li><q>Despite the high cost of living, it remains popular.</q></li>
+  <li><q>Outside of a dog, a book is man's best friend. Inside of a dog, it's too dark to read.</q></li>
+  <li><q>If brute force doesn't work, you're not using enough.</q></li>
+  <li><q>[Have a good day] Thank you, but I've made other plans.</q></li>
+  <li><q>When you come to a fork in the road, take it.</q></li>
+  <li><q>It is like a finger that points to the moon. Don't look at the finger, or you will miss all the heavenly glory.</q></li>
+</ul>
+	</span>
+  
+  </details>
+
+  <br>
+  
+  
 <details id="">
   <summary><strong>📱 Fav 5 Phones of All Time</strong></summary>
   <span><br><ul><li>Kyocera 6035</li>
