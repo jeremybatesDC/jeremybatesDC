@@ -3,6 +3,8 @@ let me_welcome_you, and_shareMoreRandomThings
 return again(please)
 ```
 
+[Skills](#skills)
+
 ### ☕ Ways I've messed up coffee, in order of consequence severity
 ```
   - forgot water
@@ -106,7 +108,7 @@ return again(please)
   - When you come to a fork in the road, take it.
 ```
 
-<details>
+<details id="skills">
   <summary>Skills</summary>
   <p>JS, VUE, SASS/SCSS/CSS</p>
 </details>
