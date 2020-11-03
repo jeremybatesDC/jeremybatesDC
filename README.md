@@ -102,13 +102,13 @@ return again(please)
   
 <details id="">
   <summary><strong>📱 Fav 5 Phones of All Time</strong></summary>
-  <span><br><ul><li>Kyocera 6035</li>
-  <li>Audiovox Thera</li>
-  <li>Nokia n93i</li>
-  <li>Siemens sx66</li>
-  <li>Palm Pre</li>
-    </ul>
-  </span>
+  <span>
+<pre>
+  - Kyocera 6035
+  - Audiovox Thera
+  - Nokia n93i
+  - Siemens sx66
+  - Palm Pre</pre></span>
 </details>
 
 <br>
