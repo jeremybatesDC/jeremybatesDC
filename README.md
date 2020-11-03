@@ -107,7 +107,7 @@ return again(please)
 ```
 
 <details>
-  <summary><h3>Skills</h3></summary>
+  <summary>Skills</summary>
   <p>
     <img loading="lazy" src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D"/>
   </p>
