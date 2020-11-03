@@ -88,11 +88,11 @@ return again(please)
 		<br>
 <ul>
   <li>Despite the high cost of living, it remains popular.</li>
-  <li><q>Outside of a dog, a book is man's best friend. Inside of a dog, it's too dark to read.</q></li>
-  <li><q>If brute force doesn't work, you're not using enough.</q></li>
-  <li><q>[Have a good day] Thank you, but I've made other plans.</q></li>
-  <li><q>When you come to a fork in the road, take it.</q></li>
-  <li><q>It is like a finger that points to the moon. Don't look at the finger, or you will miss all the heavenly glory.</q></li>
+  <li>Outside of a dog, a book is man's best friend. Inside of a dog, it's too dark to read.</li>
+  <li>If brute force doesn't work, you're not using enough.</li>
+  <li>[Have a good day] Thank you, but I've made other plans.</li>
+  <li>When you come to a fork in the road, take it.</li>
+  <li>It is like a finger that points to the moon. Don't look at the finger, or you will miss all the heavenly glory.</li>
 </ul>
 	</span>
   
