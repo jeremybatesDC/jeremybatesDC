@@ -112,7 +112,6 @@ return again(please)
   </ul>
 </details>
 <span id="skills"></span>
-<br>
 <details id="">
   <summary><strong>🤹 Skills</strong></summary>
   <ul><li>JS</li>
