@@ -84,7 +84,7 @@ return again(please)
 ```
 
 
-### 💬 Fav 6 Quotes (each of uncertain origin notwithstanding common attribution)
+### 💬 Some quotes I like (each of uncertain origin notwithstanding common attribution)
 ```
   - Despite the high cost of living, it remains popular.
   - Outside of a dog, a book is man's best friend. Inside of a dog, it's too dark to read.
