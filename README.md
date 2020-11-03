@@ -110,13 +110,13 @@ return again(please)
 
 <details id="favquotes">
   <summary>Fav Quotes</summary>
-  ```
+  <code>
   - Despite the high cost of living, it remains popular.
   - Outside of a dog, a book is man's best friend. Inside of a dog, it's too dark to read.
   - If brute force doesn't work, you're not using enough.
   - ["Have a good day!"] Thank you, but I've made other plans.
   - When you come to a fork in the road, take it.
-```
+</code>
 </details>
 
 <details id="skills">
