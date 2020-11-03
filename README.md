@@ -92,11 +92,7 @@ return again(please)
 
 ### ⚾ Baseball stories from SF
 ```
-  - David Ortiz stole my pen
-  - Roger Clemens yelled at me
-  - Greg Maddux gave me a great answer to a question at his 300th win press conference
-  - Barry Bonds politely declined to answer a question and later hit 660. Coincidence? 
-  - Serendipitously saw the MLB debut of childhood teammate when he was announced as LA's reliever. I surprised him right back in the clubhouse!
+ 
 ```
 
 ### 💬 Fav Quotes (each of uncertain origin notwithstanding common attribution)
@@ -108,14 +104,15 @@ return again(please)
   - When you come to a fork in the road, take it.
 ```
 
-<details id="favquotes">
-  <summary>Fav Quotes</summary>
+<details id="">
+  <summary>⚾  Baseball stories from SF</summary>
   <code><pre>
-  - Despite the high cost of living, it remains popular.
-  - Outside of a dog, a book is man's best friend. Inside of a dog, it's too dark to read.
-  - If brute force doesn't work, you're not using enough.
-  - ["Have a good day!"] Thank you, but I've made other plans.
-  - When you come to a fork in the road, take it.</pre>
+  - David Ortiz stole my pen
+  - Roger Clemens yelled at me
+  - Greg Maddux gave me a great answer to a question at his 300th win press conference
+  - Barry Bonds politely declined to answer a question and later hit 660. Coincidence? 
+  - Serendipitously saw the MLB debut of childhood teammate when he was announced as LA's reliever. I surprised him right back in the clubhouse!
+  </pre>
 </code>
 </details>
 
