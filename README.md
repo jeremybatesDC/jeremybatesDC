@@ -69,14 +69,6 @@ return again(please)
   - Whacking Day
 ```
 
-### 📱 Fav 5 Phones of All Time
-```
-  - Kyocera 6035
-  - Audiovox Thera
-  - Nokia n93i
-  - Siemens sx66
-  - Palm Pre
-```
 
 ### 🍺 Fav 5 Beers
 ```
@@ -97,6 +89,19 @@ return again(please)
   - When you come to a fork in the road, take it.
   - It is like a finger that points to the moon. Don't look at the finger, or you will miss all the heavenly glory.
 ```
+
+<details id="">
+  <summary><strong>📱 Fav 5 Phones of All Time</strong></summary>
+  <span><br><ul><li>Kyocera 6035</li>
+  <li>Audiovox Thera</li>
+  <li>Nokia n93i</li>
+  <li>Siemens sx66</li>
+  <li>Palm Pre</li>
+    </ul>
+  </span>
+</details>
+
+<br>
 
 <details id="">
   <summary><strong>💼 Previous Careers</strong></summary>
