@@ -83,13 +83,6 @@ return again(please)
   - Hop Hash Easy IPA, SweetWater
 ```
 
-### 💼 Previous Jobs
-```
-  - Baseball writer (Giants & A's)
-  - Newspaper publisher
-  - Spa reservations associate
-```
-
 
 ### 💬 Fav 6 Quotes (each of uncertain origin notwithstanding common attribution)
 ```
@@ -101,7 +94,13 @@ return again(please)
   - It is like a finger that points to the moon. Don't look at the finger, or you will miss all the heavenly glory.
 ```
 
-
+<details id="">
+  <summary><strong>💼 Previous Careers</strong></summary>
+  <ul><li>Baseball writer (Giants & A's)</li>
+    <li>Newspaper publisher</li>
+    <li>Spa reservations associate</li>
+  </ul>
+</details>
 <details id="">
   <summary><strong>⚾  Baseball stories from SF</strong></summary>
   <ul><li> David Ortiz stole my pen</li>
