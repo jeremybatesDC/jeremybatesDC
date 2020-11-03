@@ -110,8 +110,6 @@ return again(please)
   <li> Barry Bonds politely declined to answer a question and later hit 660. Coincidence?</li>
   <li> Serendipitously saw the MLB debut of childhood teammate when he was announced as LA's reliever. I surprised him right back in the clubhouse!</li></ul></details>
 
-<hr>
-
 <span id="skills"></span>
 <br>
 <details id="">
