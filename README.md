@@ -107,7 +107,9 @@ return again(please)
   <li> Roger Clemens yelled at me</li>
   <li> Greg Maddux gave me a great answer to a question at his 300th win press conference</li>
   <li> Barry Bonds politely declined to answer a question and later hit 660. Coincidence?</li>
-  <li> Serendipitously saw the MLB debut of childhood teammate when he was announced as LA's reliever. I surprised him right back in the clubhouse!</li></ul></details>
+  <li> Serendipitously saw the MLB debut of childhood teammate when he was announced as LA's reliever. I surprised him right back in the clubhouse!</li>
+  </ul>
+</details>
 <span id="skills"></span>
 <br>
 <details id="">
