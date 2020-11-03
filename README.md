@@ -100,6 +100,7 @@ return again(please)
   - When you come to a fork in the road, take it.
 ```
 
+
 <details id="">
   <summary><strong>⚾  Baseball stories from SF</strong></summary>
   <code><pre>
@@ -110,7 +111,7 @@ return again(please)
   - Serendipitously saw the MLB debut of childhood teammate when he was announced as LA's reliever. I surprised him right back in the clubhouse!</pre></code></details>
 
 <details id="skills">
-  <summary>Skills</summary>
+  <summary><strong>🤹 Skills</strong></summary>
   <p>JS, VUE, SASS/SCSS/CSS</p>
 </details>
 
