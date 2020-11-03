@@ -87,7 +87,7 @@ return again(please)
 	<span>
 		<br>
 <ul>
-  <li><q>Despite the high cost of living, it remains popular.</q></li>
+  <li>Despite the high cost of living, it remains popular.</li>
   <li><q>Outside of a dog, a book is man's best friend. Inside of a dog, it's too dark to read.</q></li>
   <li><q>If brute force doesn't work, you're not using enough.</q></li>
   <li><q>[Have a good day] Thank you, but I've made other plans.</q></li>
