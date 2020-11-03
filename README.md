@@ -103,8 +103,7 @@ return again(please)
 
 <details id="">
   <summary><strong>⚾  Baseball stories from SF</strong></summary>
-  <ul>
-  <li> David Ortiz stole my pen</li>
+  <ul><li> David Ortiz stole my pen</li>
   <li> Roger Clemens yelled at me</li>
   <li> Greg Maddux gave me a great answer to a question at his 300th win press conference</li>
   <li> Barry Bonds politely declined to answer a question and later hit 660. Coincidence?</li>
