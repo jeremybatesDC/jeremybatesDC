@@ -110,7 +110,6 @@ return again(please)
 
 <details id="favquotes">
   <summary>Fav Quotes</summary>
-  <span>
   ```
   - Despite the high cost of living, it remains popular.
   - Outside of a dog, a book is man's best friend. Inside of a dog, it's too dark to read.
@@ -118,7 +117,6 @@ return again(please)
   - ["Have a good day!"] Thank you, but I've made other plans.
   - When you come to a fork in the road, take it.
 ```
-  </span>
 </details>
 
 <details id="skills">
