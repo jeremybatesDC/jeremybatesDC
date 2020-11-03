@@ -96,10 +96,10 @@ return again(please)
 
 <details id="">
   <summary><strong>💼 Previous Careers</strong></summary>
-  <ul><li>Baseball writer (Giants & A's)</li>
+  <span><br><ul><li>Baseball writer (Giants & A's)</li>
     <li>Newspaper publisher</li>
     <li>Spa reservations associate</li>
-  </ul>
+    </ul><br></span>
 </details>
 <details id="">
   <summary><strong>⚾  Baseball stories from SF</strong></summary>
