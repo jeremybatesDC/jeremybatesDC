@@ -5,6 +5,10 @@ return again(please)
 
 [Skills](#skills) | [Contact](#contact)
 
+
+<hr>
+
+
 ### ☕ Ways I've messed up coffee, in order of consequence severity
 ```
   - forgot water
@@ -122,7 +126,7 @@ return again(please)
   </ul>
 </details>
 
-
+<br>
 
 ### 👋 Say sup
   <a id="contact" href="https://twitter.com/neanderthalian" target="_blank">Twitter</a>
