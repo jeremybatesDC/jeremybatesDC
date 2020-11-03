@@ -86,14 +86,13 @@ return again(please)
 	<summary><strong>💬 Some quotes I like (each of uncertain origin notwithstanding common attribution)</strong></summary>
 	<span>
 		<br>
-<ul>
-  <li>Despite the high cost of living, it remains popular.</li>
-  <li>Outside of a dog, a book is man's best friend. Inside of a dog, it's too dark to read.</li>
-  <li>If brute force doesn't work, you're not using enough.</li>
-  <li>[Have a good day] Thank you, but I've made other plans.</li>
-  <li>When you come to a fork in the road, take it.</li>
-  <li>It is like a finger that points to the moon. Don't look at the finger, or you will miss all the heavenly glory.</li>
-</ul>
+<pre>
+  - Despite the high cost of living, it remains popular.
+  - Outside of a dog, a book is man's best friend. Inside of a dog, it's too dark to read.
+  - If brute force doesn't work, you're not using enough.
+  - [Have a good day] Thank you, but I've made other plans.
+  - When you come to a fork in the road, take it.
+  - It is like a finger that points to the moon. Don't look at the finger, or you will miss all the heavenly glory.</pre>
 	</span>
   
   </details>
