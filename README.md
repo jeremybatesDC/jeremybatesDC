@@ -3,7 +3,7 @@ let me_welcome_you, and_shareMoreRandomThings
 return again(please)
 ```
 
-[Skills](#skills)
+[Skills](#skills) | [Contact](#contact)
 
 ### ☕ Ways I've messed up coffee, in order of consequence severity
 ```
@@ -115,7 +115,7 @@ return again(please)
 
 
 ### 👋 Say sup
-  <a href="https://twitter.com/neanderthalian" target="_blank">Twitter</a>
+  <a id="contact" href="https://twitter.com/neanderthalian" target="_blank">Twitter</a>
   <br/>
   <a href="https://www.linkedin.com/in/jeremybatesdc/" target="_blank">LinkedIn</a>
 
