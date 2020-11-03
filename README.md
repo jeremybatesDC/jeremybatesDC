@@ -3,14 +3,6 @@ let me_welcome_you, and_shareMoreRandomThings
 return again(please)
 ```
 
-<details>
-  <summary>Skills</summary>
-  <p>
-    <img loading="lazy" src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D"/>
-  </p>
-</details>
-
-
 ### ☕ Ways I've messed up coffee, in order of consequence severity
 ```
   - forgot water
@@ -113,6 +105,14 @@ return again(please)
   - ["Have a good day!"] Thank you, but I've made other plans.
   - When you come to a fork in the road, take it.
 ```
+
+<details>
+  <summary>Skills</summary>
+  <p>
+    <img loading="lazy" src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D"/>
+  </p>
+</details>
+
 
 ### 👋 Say sup
   <a href="https://twitter.com/neanderthalian" target="_blank">Twitter</a>
