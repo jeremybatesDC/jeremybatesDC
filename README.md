@@ -118,7 +118,7 @@ return again(please)
 </details>
 <br>
 <span id="skills"></span>
-<details id="">
+<details id="" open>
   <summary><strong>🤹 Skills</strong></summary>
   <ul><li>JS</li>
     <li>VUE</li>
