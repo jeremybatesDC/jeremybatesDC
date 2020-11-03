@@ -99,8 +99,9 @@ return again(please)
   <span><br><ul><li>Baseball writer (Giants & A's)</li>
     <li>Newspaper publisher</li>
     <li>Spa reservations associate</li>
-    </ul><br></span>
+    </ul></span>
 </details>
+<br>
 <details id="">
   <summary><strong>⚾  Baseball stories from SF</strong></summary>
   <span><br><ul>
@@ -109,8 +110,9 @@ return again(please)
   <li>Greg Maddux gave me a great answer to a question at his 300th win press conference</li>
   <li>Barry Bonds politely declined to answer a question and later hit 660. Coincidence?</li>
   <li>Serendipitously saw the MLB debut of childhood teammate when he was announced as LA's reliever. I surprised him right back in the clubhouse!</li>
-    </ul><br></span>
+    </ul></span>
 </details>
+<br>
 <span id="skills"></span>
 <details id="">
   <summary><strong>🤹 Skills</strong></summary>
