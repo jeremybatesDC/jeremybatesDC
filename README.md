@@ -118,8 +118,6 @@ return again(please)
   - ["Have a good day!"] Thank you, but I've made other plans.
   - When you come to a fork in the road, take it.
 ```
-  
-  
   </span>
 </details>
 
