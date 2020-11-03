@@ -90,10 +90,6 @@ return again(please)
   - Spa reservations associate
 ```
 
-### ⚾ Baseball stories from SF
-```
- 
-```
 
 ### 💬 Fav Quotes (each of uncertain origin notwithstanding common attribution)
 ```
@@ -105,7 +101,7 @@ return again(please)
 ```
 
 <details id="">
-  <summary>⚾  Baseball stories from SF</summary>
+  <summary><strong>⚾  Baseball stories from SF</strong></summary>
   <code><pre>
   - David Ortiz stole my pen
   - Roger Clemens yelled at me
