@@ -110,6 +110,9 @@ return again(please)
   <summary>Skills</summary>
   <p>
     <a href=""><img loading="lazy" src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D"/></a>
+    <a href=""><img loading="lazy" src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black&labelColor=black"/></a>
+    
+    	
   </p>
 </details>
 
