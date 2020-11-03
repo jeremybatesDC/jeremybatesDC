@@ -113,7 +113,10 @@ return again(please)
 <br>
 <details id="">
   <summary><strong>🤹 Skills</strong></summary>
-  <p>JS, VUE, SASS/SCSS/CSS</p>
+  <ul><li>JS</li>
+    <li>VUE</li>
+    <li>SASS/SCSS/CSS</li>
+  </ul>
 </details>
 
 
