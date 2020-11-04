@@ -51,18 +51,43 @@ return again(please)
 - Demolition Man
 ```
 
-### 📽️ Top 5 Christmas Movies According to Science
-```
+
+<details id="" open>
+	<summary>
+		<strong>💬 Some quotes I like (each of uncertain origin notwithstanding common
+			attribution)</strong>
+	</summary>
+	<span><br />
+		<pre>
+- Despite the high cost of living, it remains popular.
+- Outside of a dog, a book is man's best friend. Inside of a dog, it's too dark to read.
+- If brute force doesn't work, you're not using enough.
+- [Have a good day] Thank you, but I've made other plans.
+- When you come to a fork in the road, take it.
+- It is like a finger that points to the moon. Don't look at the finger, or you will miss all the heavenly glory.</pre>
+	</span>
+</details>
+
+<br />
+
+<details id="">
+	<summary>
+		<strong>📽️ Top 5 Christmas Movies According to Science</strong>
+	</summary>
+	<span><br />
+		<pre>
 - The Night Before
 - Scrooged
 - Muppet Christmas Carol
 - Gremlins (yes)
 - Die Hard (yippee-ki-yay, motherfucker)
-```
+</pre>
+</span>
+</details>
 
+<br />
 
-
-<details id="" open>
+<details id="">
 	<summary>
 		<strong> 📺 Top 5 Simpsons Episodes According to Science</strong>
 	</summary>
@@ -95,23 +120,6 @@ return again(please)
 
 <br />
 
-<details id="" open>
-	<summary>
-		<strong>💬 Some quotes I like (each of uncertain origin notwithstanding common
-			attribution)</strong>
-	</summary>
-	<span><br />
-		<pre>
-- Despite the high cost of living, it remains popular.
-- Outside of a dog, a book is man's best friend. Inside of a dog, it's too dark to read.
-- If brute force doesn't work, you're not using enough.
-- [Have a good day] Thank you, but I've made other plans.
-- When you come to a fork in the road, take it.
-- It is like a finger that points to the moon. Don't look at the finger, or you will miss all the heavenly glory.</pre>
-	</span>
-</details>
-
-<br />
 
 <details id="">
 	<summary><strong>💼 Previous Careers</strong></summary>
