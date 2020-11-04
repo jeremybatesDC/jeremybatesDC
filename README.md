@@ -1,6 +1,5 @@
 
 <hr>
-
 ```javascript
 let me_welcome_you, and_shareSomeRandomThingsILike
 return again(please)
@@ -193,7 +192,7 @@ return again(please)
 
 <hr />
 
-<h2>👋 Say sup</h2>
+<h2>👋 Say 'sup</h2>
 <a id="contact" href="https://twitter.com/neanderthalian" target="_blank">Twitter</a>
 |
 <a href="https://www.linkedin.com/in/jeremybatesdc/" target="_blank">LinkedIn</a>
