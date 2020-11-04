@@ -9,8 +9,12 @@ return again(please)
 <hr>
 
 
-### ☕ Ways I've messed up coffee, in order of consequence severity
-```
+<details id="" open>
+	<summary>
+		<strong>☕ Ways I've messed up coffee, in order of consequence severity</strong>
+	</summary>
+	<span>
+		<pre>
 - forgot water
 - forgot grounds
 - left in old grounds
@@ -19,10 +23,18 @@ return again(please)
 - single cup upside down
 - carafe misalignment
 - carafe missing
-```
+</pre>
+</span>
+</details>
 
-### 📚 Fav 11 Sci-Fi Books
-```
+<br />
+
+<details id="" open>
+	<summary>
+		<strong>📚 Fav 11 Sci-Fi Books</strong>
+	</summary>
+	<span>
+		<pre>
 - On the Beach
 - Level 7
 - Doomsday Book
@@ -34,10 +46,18 @@ return again(please)
 - The Sparrow
 - Emphyrio
 - The Book of Strange New Things
-```
+</pre>
+</span>
+</details>
 
-### 📽️ Fav 11 Sci-Fi / Speculative-Fiction Movies
-```
+<br />
+
+<details id="" open>
+	<summary>
+		<strong>📽️ Fav 11 Sci-Fi / Speculative-Fiction Movies</strong>
+	</summary>
+	<span>
+		<pre>
 - Twelve Monkeys
 - Attack the Block
 - Moon
@@ -49,8 +69,11 @@ return again(please)
 - The Vast of Night
 - Okja
 - Demolition Man
-```
+</pre>
+</span>
+</details>
 
+<br />
 
 <details id="" open>
 	<summary>
