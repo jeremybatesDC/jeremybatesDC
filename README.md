@@ -87,10 +87,8 @@ return again(please)
 		<strong>💬 Some quotes I like (each of uncertain origin notwithstanding common
 			attribution)</strong>
 	</summary>
-	<span>
-		<br />
-		<pre>
-- Despite the high cost of living, it remains popular.
+	<span><br />
+		<pre>- Despite the high cost of living, it remains popular.
 - Outside of a dog, a book is man's best friend. Inside of a dog, it's too dark to read.
 - If brute force doesn't work, you're not using enough.
 - [Have a good day] Thank you, but I've made other plans.
@@ -103,9 +101,8 @@ return again(please)
 
 <details id="">
 	<summary><strong>📱 Fav 5 Phones of All Time</strong></summary>
-	<span>
-		<pre>
-- Kyocera 6035
+	<span><br />
+		<pre>- Kyocera 6035
 - Audiovox Thera
 - Nokia n93i
 - Siemens sx66
@@ -118,44 +115,37 @@ return again(please)
 <details id="">
 	<summary><strong>💼 Previous Careers</strong></summary>
 	<span><br />
-		<ul>
-			<li>Baseball writer (Giants & A's)</li>
-			<li>Newspaper publisher</li>
-			<li>Spa reservations associate</li>
-		</ul>
+		<pre>
+- Baseball writer (Giants & A's)
+- Newspaper publisher
+- Summer dinner theater musical thespian (ok, two weekends of tips for a few summers might not quite qualify as a career)
+- Spa reservations associate</pre>
 	</span>
 </details>
+
 <br />
+
 <details id="">
-	<summary><strong>⚾ Baseball stories from SF</strong></summary>
+	<summary><strong>⚾ Baseball anecdotes</strong></summary>
 	<span><br />
-		<ul>
-			<li>David Ortiz stole my pen</li>
-			<li>Roger Clemens yelled at me</li>
-			<li>
-				Greg Maddux gave me a great answer to a question at his 300th win press
-				conference
-			</li>
-			<li>
-				Barry Bonds politely declined to answer a question and later hit 660.
-				Coincidence?
-			</li>
-			<li>
-				Serendipitously saw the MLB debut of childhood teammate when he was
-				announced as LA's reliever. I surprised him right back in the clubhouse!
-			</li>
-		</ul>
+		<pre>
+- David Ortiz stole my pen
+- Roger Clemens yelled at me
+- Greg Maddux gave me a great answer to a question at his 300th win press conference
+- Barry Bonds politely declined to answer a question and later hit 660. Coincidence?
+- Serendipitously saw the MLB debut of childhood teammate when he was announced as LA's reliever. I surprised him right back in the clubhouse!</pre>
 	</span>
 </details>
+
 <br />
+
 <span id="skills"></span>
 <details id="" open>
 	<summary><strong>🤹 Skills</strong></summary>
-	<ul>
-		<li>JS</li>
-		<li>VUE</li>
-		<li>SASS/SCSS/CSS</li>
-	</ul>
+	<pre>
+- JS
+- VUE
+- SASS/SCSS/CSS</pre>
 </details>
 
 <br />
@@ -164,6 +154,8 @@ return again(please)
 <a id="contact" href="https://twitter.com/neanderthalian" target="_blank">Twitter</a>
 |
 <a href="https://www.linkedin.com/in/jeremybatesdc/" target="_blank">LinkedIn</a>
+
+<br />
 
 <h6>For Peter Arseniev, 1994 – 2020: You should not be in a tribute. You
 	should be here with us. You were so much more than a developer, but I can speak
