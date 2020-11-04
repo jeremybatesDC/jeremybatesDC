@@ -139,7 +139,7 @@ return again(please)
 
 <br />
 
-<span id="skills"></span>
+<!--<span id="skills"></span>-->
 <details id="" open>
 	<summary><strong>🤹 Skills</strong></summary>
 	<pre>
