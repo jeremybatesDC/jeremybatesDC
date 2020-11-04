@@ -1,13 +1,11 @@
-```javascript
-let me_welcome_you, and_shareMoreRandomThings
-return again(please)
-```
-
-[Skills](#skills) | [Contact](#contact)
-
 
 <hr>
 
+```javascript
+let me_welcome_you, and_shareSomeRandomThingsILike
+return again(please)
+```
+<hr>
 
 <details id="" open>
 	<summary>
