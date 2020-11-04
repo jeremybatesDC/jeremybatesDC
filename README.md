@@ -57,7 +57,7 @@ return again(please)
 		<strong>💬 Some quotes I like (each of uncertain origin notwithstanding common
 			attribution)</strong>
 	</summary>
-	<span><br />
+	<span>
 		<pre>
 - Despite the high cost of living, it remains popular.
 - Outside of a dog, a book is man's best friend. Inside of a dog, it's too dark to read.
@@ -74,7 +74,7 @@ return again(please)
 	<summary>
 		<strong>📽️ Top 5 Christmas Movies According to Science</strong>
 	</summary>
-	<span><br />
+	<span>
 		<pre>
 - The Night Before
 - Scrooged
@@ -91,7 +91,7 @@ return again(please)
 	<summary>
 		<strong> 📺 Top 5 Simpsons Episodes According to Science</strong>
 	</summary>
-	<span><br />
+	<span>
 		<pre>
 - New Kid on the Block
 - Rosebud
@@ -108,7 +108,7 @@ return again(please)
 	<summary>
 		<strong>🍺 Fav 5 Beers</strong>
 	</summary>
-	<span><br />
+	<span>
 		<pre>
 - Big Wave, Kona
 - SO-LO, Goose Island
@@ -123,7 +123,7 @@ return again(please)
 
 <details id="">
 	<summary><strong>💼 Previous Careers</strong></summary>
-	<span><br />
+	<span>
 		<pre>
 - Baseball writer (Giants & A's)
 - Newspaper publisher
@@ -136,7 +136,7 @@ return again(please)
 
 <details id="">
 	<summary><strong>⚾ Baseball anecdotes</strong></summary>
-	<span><br />
+	<span>
 		<pre>
 - David Ortiz stole my pen
 - Roger Clemens yelled at me
@@ -150,7 +150,7 @@ return again(please)
 
 <details id="">
 	<summary><strong>📱 Fav 5 Phones of All Time</strong></summary>
-	<span><br />
+	<span>
 		<pre>- Kyocera 6035
 - Audiovox Thera
 - Nokia n93i
