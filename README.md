@@ -1,8 +1,6 @@
 
 <hr>
 
-<marquee>marquee</marquee>
-
 ```javascript
 let me_welcome_you, and_shareSomeRandomThingsILike
 return again(please)
