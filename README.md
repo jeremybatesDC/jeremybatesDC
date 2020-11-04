@@ -1,9 +1,11 @@
 
 <hr>
+
 ```javascript
 let me_welcome_you, and_shareSomeRandomThingsILike
 return again(please)
 ```
+
 <hr>
 
 <details id="" open>
@@ -185,8 +187,8 @@ return again(please)
 <details id="" open>
 	<summary><strong>🤹 Skills</strong></summary>
 	<pre>
-- JS
-- VUE
+- JavaScript
+- Vue
 - SASS/SCSS/CSS</pre>
 </details>
 
