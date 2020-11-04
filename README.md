@@ -60,27 +60,40 @@ return again(please)
 - Die Hard (yippee-ki-yay, motherfucker)
 ```
 
-### 📺 Top 5 Simpsons Episodes According to Science
-```
+
+
+<details id="" open>
+	<summary>
+		<strong> 📺 Top 5 Simpsons Episodes According to Science</strong>
+	</summary>
+	<span><br />
+		<pre>
 - New Kid on the Block
 - Rosebud
 - Last Exit to Springfield
 - Duffless
 - Whacking Day
-```
+</pre>
+	</span>
+</details>
 
+<br />
 
-### 🍺 Fav 5 Beers
-```
+<details id="">
+	<summary>
+		<strong>🍺 Fav 5 Beers</strong>
+	</summary>
+	<span><br />
+		<pre>
 - Big Wave, Kona
 - SO-LO, Goose Island
 - Down to Earth, 21st Amendment
 - Mango Even Keel, Ballast Point
-- Hop Hash Easy IPA, SweetWater
-```
+- Hop Hash Easy IPA, SweetWater</pre>
+	</span>
+</details>
 
-
-###
+<br />
 
 <details id="" open>
 	<summary>
@@ -88,25 +101,13 @@ return again(please)
 			attribution)</strong>
 	</summary>
 	<span><br />
-		<pre>- Despite the high cost of living, it remains popular.
+		<pre>
+- Despite the high cost of living, it remains popular.
 - Outside of a dog, a book is man's best friend. Inside of a dog, it's too dark to read.
 - If brute force doesn't work, you're not using enough.
 - [Have a good day] Thank you, but I've made other plans.
 - When you come to a fork in the road, take it.
 - It is like a finger that points to the moon. Don't look at the finger, or you will miss all the heavenly glory.</pre>
-	</span>
-</details>
-
-<br />
-
-<details id="">
-	<summary><strong>📱 Fav 5 Phones of All Time</strong></summary>
-	<span><br />
-		<pre>- Kyocera 6035
-- Audiovox Thera
-- Nokia n93i
-- Siemens sx66
-- Palm Pre</pre>
 	</span>
 </details>
 
@@ -134,6 +135,19 @@ return again(please)
 - Greg Maddux gave me a great answer to a question at his 300th win press conference
 - Barry Bonds politely declined to answer a question and later hit 660. Coincidence?
 - Serendipitously saw the MLB debut of childhood teammate when he was announced as LA's reliever. I surprised him right back in the clubhouse!</pre>
+	</span>
+</details>
+
+<br />
+
+<details id="">
+	<summary><strong>📱 Fav 5 Phones of All Time</strong></summary>
+	<span><br />
+		<pre>- Kyocera 6035
+- Audiovox Thera
+- Nokia n93i
+- Siemens sx66
+- Palm Pre</pre>
 	</span>
 </details>
 
