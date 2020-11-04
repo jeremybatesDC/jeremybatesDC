@@ -193,14 +193,17 @@ return again(please)
 - SASS/SCSS/CSS</pre>
 </details>
 
-<br />
+<hr />
 
-<h3>👋 Say sup</h3>
+<h2>👋 Say sup</h2>
 <a id="contact" href="https://twitter.com/neanderthalian" target="_blank">Twitter</a>
 |
 <a href="https://www.linkedin.com/in/jeremybatesdc/" target="_blank">LinkedIn</a>
 
 <br />
+<hr />
+<br />
+
 
 <h6>For Peter Arseniev, 1994 – 2020: You should not be in a tribute. You
 	should be here with us. You were so much more than a developer, but I can speak
