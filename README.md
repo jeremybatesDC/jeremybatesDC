@@ -48,7 +48,7 @@ return again(please)
 <br />
 
 
-<details id="" open>
+<details id="">
 	<summary>
 		<strong>📚 Fav 11 Sci-Fi Books</strong>
 	</summary>
@@ -71,7 +71,7 @@ return again(please)
 
 <br />
 
-<details id="" open>
+<details id="">
 	<summary>
 		<strong>📽️ Fav 11 Sci-Fi / Speculative-Fiction Movies</strong>
 	</summary>
