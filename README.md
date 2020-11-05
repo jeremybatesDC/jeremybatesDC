@@ -13,7 +13,7 @@ return again(please)
 		<strong>☕ Ways I've messed up coffee, in rough order of consequence severity</strong>
 	</summary>
 	<span>
-		<pre><big>
+		<pre>
 - forgot water
 - forgot grounds
 - left in old grounds
@@ -21,7 +21,7 @@ return again(please)
 - scooped-in grounds while basket missing
 - single cup upside down
 - carafe misalignment
-- carafe missing</big>
+- carafe missing
 </pre>
 </span>
 </details>
@@ -203,7 +203,9 @@ return again(please)
 <a href="https://www.linkedin.com/in/jeremybatesdc/" target="_blank">LinkedIn</a>
 
 <br />
-<hr />
+
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Raymo111.Raymo111)<hr />
 <br />
 
 
