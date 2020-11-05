@@ -10,7 +10,7 @@ return again(please)
 
 <details id="" open>
 	<summary>
-		<big>☕ 𝚆𝚊𝚢𝚜 𝙸'𝚟𝚎 𝚖𝚎𝚜𝚜𝚎𝚍 𝚞𝚙 𝚌𝚘𝚏𝚏𝚎𝚎, 𝚒𝚗 𝚛𝚘𝚞𝚐𝚑 𝚘𝚛𝚍𝚎𝚛 𝚘𝚏 𝚌𝚘𝚗𝚜𝚎𝚚𝚞𝚎𝚗𝚌𝚎 𝚜𝚎𝚟𝚎𝚛𝚒𝚝𝚢</big>
+		<strong>☕ Ways I've messed up coffee, in rough order of consequence severity</strong>
 	</summary>
 	<span>
 		<pre><big>
