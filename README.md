@@ -87,6 +87,7 @@ return again(please)
 <blockquote>[Have a good day] Thank you, but I've made other plans.</blockquote>
 <blockquote>When you come to a fork in the road, take it.</blockquote>
 <blockquote>It is like a finger that points to the moon. Don't look at the finger, or you will miss all the heavenly glory.</blockquote>
+<hr>
 	</span>
 </details>
 
