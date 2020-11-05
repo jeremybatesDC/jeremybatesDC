@@ -81,12 +81,12 @@ return again(please)
 	</summary>
 	<span>
 		<br>
-		<blockquote>Despite the high cost of living, it remains popular.</blockquote>
-<blockquote>Outside of a dog, a book is man's best friend. Inside of a dog, it's too dark to read.</blockquote>
-<blockquote>If brute force doesn't work, you're not using enough.</blockquote>
-<blockquote>[Have a good day] Thank you, but I've made other plans.</blockquote>
-<blockquote>When you come to a fork in the road, take it.</blockquote>
-<blockquote>It is like a finger that points to the moon. Don't look at the finger, or you will miss all the heavenly glory.</blockquote>
+		- <em>Despite the high cost of living, it remains popular.</em>
+- <em>Outside of a dog, a book is man's best friend. Inside of a dog, it's too dark to read.</em><br>
+- <em>If brute force doesn't work, you're not using enough.</em><br>
+- <em>[Have a good day] Thank you, but I've made other plans.</em><br>
+- <em>When you come to a fork in the road, take it.</em><br>
+- <em>It is like a finger that points to the moon. Don't look at the finger, or you will miss all the heavenly glory.</em>
 <hr>
 	</span>
 </details>
