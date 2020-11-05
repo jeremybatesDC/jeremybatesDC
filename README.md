@@ -1,5 +1,4 @@
 <h1><big>𝙰𝚑𝚘𝚢 𝚑𝚘𝚢!</big></h1>
-<hr>
 
 ```javascript
 let me_welcome_you, and_shareSomeRandomThingsILike
@@ -206,7 +205,7 @@ return again(please)
 
 <hr />
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=jeremybatesdc)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=jeremybatesdc)<hr />
 
 
 <h6>For Peter Arseniev, 1994 – 2020: You should not be in a tribute. You
