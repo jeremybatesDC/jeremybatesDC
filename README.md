@@ -30,7 +30,7 @@ return again(please)
 
 <details id="" open>
 	<summary>
-		<strong>📚 Fav 11 Sci-Fi Books</strong>
+		<strong>📚 𝙵𝚊𝚟 𝟷𝟷 𝚂𝚌𝚒-𝙵𝚒 𝙱𝚘𝚘𝚔𝚜</strong>
 	</summary>
 	<span>
 		<pre>
