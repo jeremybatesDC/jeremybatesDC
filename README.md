@@ -10,18 +10,18 @@ return again(please)
 
 <details id="" open>
 	<summary>
-		<strong>☕ Ways I've messed up coffee, in order of consequence severity</strong>
+		<big>☕ 𝚆𝚊𝚢𝚜 𝙸'𝚟𝚎 𝚖𝚎𝚜𝚜𝚎𝚍 𝚞𝚙 𝚌𝚘𝚏𝚏𝚎𝚎, 𝚒𝚗 𝚘𝚛𝚍𝚎𝚛 𝚘𝚏 𝚌𝚘𝚗𝚜𝚎𝚚𝚞𝚎𝚗𝚌𝚎 𝚜𝚎𝚟𝚎𝚛𝚒𝚝𝚢</big>
 	</summary>
 	<span>
-		<pre>
-- 𝚏𝚘𝚛𝚐𝚘𝚝 𝚠𝚊𝚝𝚎𝚛
-- 𝚏𝚘𝚛𝚐𝚘𝚝 𝚐𝚛𝚘𝚞𝚗𝚍𝚜
-- 𝚕𝚎𝚏𝚝 𝚒𝚗 𝚘𝚕𝚍 𝚐𝚛𝚘𝚞𝚗𝚍𝚜
-- 𝚍𝚘𝚞𝚋𝚕𝚎 𝚠𝚊𝚝𝚎𝚛
-- 𝚜𝚌𝚘𝚘𝚙𝚎𝚍-𝚒𝚗 𝚐𝚛𝚘𝚞𝚗𝚍𝚜 𝚠𝚑𝚒𝚕𝚎 𝚋𝚊𝚜𝚔𝚎𝚝 𝚖𝚒𝚜𝚜𝚒𝚗𝚐
-- 𝚜𝚒𝚗𝚐𝚕𝚎 𝚌𝚞𝚙 𝚞𝚙𝚜𝚒𝚍𝚎 𝚍𝚘𝚠𝚗
-- 𝚌𝚊𝚛𝚊𝚏𝚎 𝚖𝚒𝚜𝚊𝚕𝚒𝚐𝚗𝚖𝚎𝚗𝚝
-- 𝚌𝚊𝚛𝚊𝚏𝚎 𝚖𝚒𝚜𝚜𝚒𝚗𝚐
+		<pre><big>
+- forgot water
+- forgot grounds
+- left in old grounds
+- double water
+- scooped-in grounds while basket missing
+- single cup upside down
+- carafe misalignment
+- carafe missing</big>
 </pre>
 </span>
 </details>
@@ -30,7 +30,7 @@ return again(please)
 
 <details id="" open>
 	<summary>
-		<strong>📚 𝙵𝚊𝚟 𝟷𝟷 𝚂𝚌𝚒-𝙵𝚒 𝙱𝚘𝚘𝚔𝚜</strong>
+		<strong>📚 Fav 11 Sci-Fi Books</strong>
 	</summary>
 	<span>
 		<pre>
@@ -80,13 +80,13 @@ return again(please)
 			attribution)</strong>
 	</summary>
 	<span>
-		<pre>
-- Despite the high cost of living, it remains popular.
-- Outside of a dog, a book is man's best friend. Inside of a dog, it's too dark to read.
-- If brute force doesn't work, you're not using enough.
-- [Have a good day] Thank you, but I've made other plans.
-- When you come to a fork in the road, take it.
-- It is like a finger that points to the moon. Don't look at the finger, or you will miss all the heavenly glory.</pre>
+		<br>
+		<blockquote>- Despite the high cost of living, it remains popular.</blockquote>
+<blockquote>- Outside of a dog, a book is man's best friend. Inside of a dog, it's too dark to read.</blockquote>
+<blockquote>- If brute force doesn't work, you're not using enough.</blockquote>
+<blockquote>- [Have a good day] Thank you, but I've made other plans.</blockquote>
+<blockquote>- When you come to a fork in the road, take it.</blockquote>
+<blockquote>- It is like a finger that points to the moon. Don't look at the finger, or you will miss all the heavenly glory.</blockquote>
 	</span>
 </details>
 
