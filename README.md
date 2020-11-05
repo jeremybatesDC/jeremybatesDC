@@ -204,10 +204,12 @@ return again(please)
 
 <br />
 
+<hr />
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Raymo111.Raymo111)<hr />
+![visitors](https://visitor-badge.glitch.me/badge?page_id=jeremybatesdc)<hr />
 <br />
 
+<hr />
 
 <h6>For Peter Arseniev, 1994 – 2020: You should not be in a tribute. You
 	should be here with us. You were so much more than a developer, but I can speak
