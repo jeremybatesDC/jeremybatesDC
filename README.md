@@ -75,19 +75,21 @@ return again(please)
 		<strong>📽️ Fav 11 Sci-Fi / Speculative-Fiction Movies</strong>
 	</summary>
 	<span>
-		<pre>
-- Twelve Monkeys
-- Attack the Block
-- Moon
-- Mother
-- Ad Astra
-- Ex Machina
-- Sorry to Bother You
-- Blade Runner
-- The Vast of Night
-- Okja
-- Demolition Man
-</pre>
+
+| TITLE               	| SUBGENRE(S)                      	|
+|---------------------	|----------------------------------	|
+| Twelve Monkeys      	| Time travel, Post apocalyptic    	|
+| Attack the Block    	| Invasion, Comedy                 	|
+| Moon                	| Dystopic                         	|
+| Ex Machina          	| AI, Dystopic                     	|
+| Sorry to Bother You 	| Dystopic, Dark comedy            	|
+| Blade Runner        	| Noir, AI, Dystopic               	|
+| Ad Astra            	| Sadstronaut                      	|
+| The Vast of Night   	| UFOs, Retro                      	|
+| Mother              	| Post apocalyptic, AI             	|
+| Okja                	| Dark comedy                      	|
+| Demolition Man      	| Human popsicle, Comedy, Dystopic 	|
+
 </span>
 </details>
 
