@@ -75,7 +75,7 @@ return again(please)
 		<strong>📽️ Fav 11 Sci-Fi / Speculative-Fiction Movies</strong>
 	</summary>
 	<span>
-
+<pre>
 | TITLE               	| SUBGENRE(S)                      	|
 |---------------------	|----------------------------------	|
 | Twelve Monkeys      	| Time travel, Post apocalyptic    	|
@@ -89,7 +89,7 @@ return again(please)
 | Mother              	| Post apocalyptic, AI             	|
 | Okja                	| Dark comedy                      	|
 | Demolition Man      	| Human popsicle, Comedy, Dystopic 	|
-
+</pre>
 </span>
 </details>
 
