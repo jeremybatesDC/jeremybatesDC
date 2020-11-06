@@ -52,18 +52,20 @@ return again(please)
 		<strong>📚 Fav 11 Sci-Fi Books</strong>
 	</summary>
 	<span>
-		<pre>
-- On the Beach
-- Level 7
-- Doomsday Book
-- A Canticle for Leibowitz
-- Ender's Game
-- Down & Out in the Magic Kingdom
-- The Naked Sun
-- The Martian Chronicles
-- The Sparrow
-- Emphyrio
-- The Book of Strange New Things
+<pre>
+| TITLE                           | AUTHOR               | SUBGENRE(S) |
+|---------------------------------|----------------------|-------------|
+| On the Beach                    | Nevil Shute          |             |
+| Level 7                         | Mordecai Roshwald    |             |
+| Doomsday Book                   | Connie Willis        |             |
+| A Canticle for Leibowitz        | Walter M. Miller Jr. |             |
+| Ender's Game                    | Orson Scott Card     |             |
+| Down & Out in the Magic Kingdom | Cory Doctorow        |             |
+| The Naked Sun                   | Isaac Asimov         |             |
+| The Martian Chronicles          | Ray Bradbury         |             |
+| The Sparrow                     | Mary Doria Russell   |             |
+| Emphyrio                        | Jack Vance           |             |
+| The Book of Strange New Things  | Michel Faber         |             |
 </pre>
 </span>
 </details>
