@@ -192,7 +192,7 @@ return again(please)
 - David Ortiz stole my pen.
 - Roger Clemens yelled at me.
 - Greg Maddux gave me a great answer to a question at his 300th win press conference.
-- Barry Bonds politely declined to answer a question and later hit 660. Coincidence?
+- Barry Bonds politely declined to answer a question and that night hit 660. Coincidence?
 - Serendipitously saw the MLB debut of childhood teammate when he was announced as LA's reliever. I surprised him right back in the clubhouse!
 - At a Chopt in Rosslyn, I saw this guy who looked like Bryce Harper and was wearing a beany and had distinctive mole under his eye--waaaa it WAS Bryce. "Bryce?"
 "I'm eating."
