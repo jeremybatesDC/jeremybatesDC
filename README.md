@@ -90,19 +90,31 @@ return again(please)
 	</summary>
 	<span>
 <pre>
-| TITLE               	| SUBGENRE(S)                      	|
-|---------------------	|----------------------------------	|
-| Twelve Monkeys      	| Time travel, Post apocalyptic    	|
-| Attack the Block    	| Invasion, Comedy                 	|
-| Moon                	| Dystopic                         	|
-| Ex Machina          	| AI, Dystopic                     	|
-| Sorry to Bother You 	| Dystopic, Dark comedy            	|
-| Blade Runner        	| Noir, AI, Dystopic               	|
-| Ad Astra            	| Sadstronaut                      	|
-| The Vast of Night   	| UFOs, Retro                      	|
-| Mother              	| Post apocalyptic, AI             	|
-| Okja                	| Dark comedy                      	|
-| Demolition Man      	| Human popsicle, Comedy, Dystopic 	|
+|---------------------|----------------------------------|
+| TITLE               | SUBGENRE(S)                      |
+|---------------------|----------------------------------|
+| Twelve Monkeys      | Time travel, Post apocalyptic    |
+|---------------------|----------------------------------|
+| Attack the Block    | Invasion, Comedy                 |
+|---------------------|----------------------------------|
+| Moon                | Dystopic                         |
+|---------------------|----------------------------------|
+| Ex Machina          | AI                               |
+|---------------------|----------------------------------|
+| Sorry to Bother You | Dystopic, Dark comedy            |
+|---------------------|----------------------------------|
+| Blade Runner        | Noir, AI, Dystopic               |
+|---------------------|----------------------------------|
+| Ad Astra            | Sadstronaut                      |
+|---------------------|----------------------------------|
+| The Vast of Night   | UFOs, Retro                      |
+|---------------------|----------------------------------|
+| Mother              | Post apocalyptic, AI             |
+|---------------------|----------------------------------|
+| Okja                | Dark comedy                      |
+|---------------------|----------------------------------|
+| Demolition Man      | Human popsicle, Comedy, Dystopic |
+|---------------------|----------------------------------|
 </pre>
 </span>
 </details>
