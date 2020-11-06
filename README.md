@@ -34,12 +34,12 @@ return again(please)
 	</summary>
 	<span>
 <pre>
- - <em>Despite the high cost of living, it remains popular.</em><br>
- - <em>Outside of a dog, a book is man's best friend. Inside of a dog, it's too dark to read.</em><br>
- - <em>If brute force doesn't work, you're not using enough.</em><br>
- - [Have a good day] <em>Thank you, but I've made other plans.</em><br>
- - <em>When you come to a fork in the road, take it.</em><br>
- - <em>It is like a finger that points to the moon. Don't look at the finger, or you will miss all the heavenly glory.</em>
+<em>Despite the high cost of living, it remains popular.</em><br>
+<em>Outside of a dog, a book is man's best friend. Inside of a dog, it's too dark to read.</em><br>
+<em>If brute force doesn't work, you're not using enough.</em><br>
+[Have a good day] <em>Thank you, but I've made other plans.</em><br>
+<em>When you come to a fork in the road, take it.</em><br>
+<em>It is like a finger that points to the moon. Don't look at the finger, or you will miss all the heavenly glory.</em>
 </pre>
 </span>
 </details>
@@ -189,11 +189,18 @@ return again(please)
 	<summary><strong>⚾ Baseball anecdotes</strong></summary>
 	<span>
 		<pre>
-- David Ortiz stole my pen
-- Roger Clemens yelled at me
-- Greg Maddux gave me a great answer to a question at his 300th win press conference
+- David Ortiz stole my pen.
+- Roger Clemens yelled at me.
+- Greg Maddux gave me a great answer to a question at his 300th win press conference.
 - Barry Bonds politely declined to answer a question and later hit 660. Coincidence?
-- Serendipitously saw the MLB debut of childhood teammate when he was announced as LA's reliever. I surprised him right back in the clubhouse!</pre>
+- Serendipitously saw the MLB debut of childhood teammate when he was announced as LA's reliever. I surprised him right back in the clubhouse!
+- At a Chopt in Rosslyn, I saw this guy who looked like Bryce Harper and was wearing a beany and had distinctive mole under his eye--waaaa it WAS Bryce. "Bryce?"
+"I'm eating."
+It was early in the 2014 season when he was wasting at bats trying to bunt against a shift, and dammit I wanted to say something. But you don't presume to make suggestion to a world-class athlete--especially when starstruck. And, it's true--he was eating--albeit near the utensils in a counter-service high-output salad emporium.
+So I said the truest thing instead, which was "I watch the game to see you swing." His countenance changed, a modest grin escaped, and he extended his fist for a glorious bump.
+That night he tripled with the bases loaded! And, because Bryce, he dove into third--even though he'd just made the (April) game 6-1. On his head-first slide, he tore his left thumb.
+But, with ZERO doubt, this is in no way my fault. Bryce, you see, only bats left handed. He throws, and bumps, with his right :-)
+</pre>
 	</span>
 </details>
 
