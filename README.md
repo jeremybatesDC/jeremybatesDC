@@ -206,8 +206,8 @@ ill-advised excursions
 <details id="">
 	<summary><strong>⚾ Baseball anecdotes</strong></summary>
 	<span>
-		
-- David Ortiz stole my pen.
+
+- David Ortiz once stole my pen.
 
 - Roger Clemens yelled at me in the dugout during an actual game. [expand upon this story]. [add best angry rocket pic]
 
@@ -222,7 +222,7 @@ ill-advised excursions
 It was early in the 2014 season when he was wasting at bats trying to bunt against a shift, and dammit I wanted to say something. But you don't presume to make suggestion to a world-class athlete--especially when starstruck. And, it's true, he was eating--albeit near the plastic utensils in a counter-service high-output salad emporium.
 So I said the truest thing instead, which was "I watch the game to see you swing." His countenance changed, a modest grin escaped, and he extended his fist for a glorious bump.
 That night he tripled with the bases loaded! And, because Bryce, he dove into third--even though he'd just made the (April) game 6-1. On his head-first slide, he tore a ligament in his left thumb.
-But, with ZERO doubt, this is in no way my fault. Bryce, you see, only bats left handed. He throws, and bumps, with his right :-)
+But, with ZERO doubt, contrary to the ostensible causality, this is in no way my fault. Bryce, you see, only bats left handed. He throws, and bumps, with his right :-)
 	</span>
 </details>
 
