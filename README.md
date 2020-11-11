@@ -7,6 +7,24 @@ return again(please)
 
 <hr>
 
+<!-- <details id="">
+	<summary><strong>COMING SOON</strong></summary>
+	<span>
+<pre> 
+- Snorkeling Highlights (rays, dolphins,turtles :-) -- having presidentes. captain goodlife they will fuck you up. 
+- Genealogy stories
+- Link to proposed calendar -- not even trying to mess with 60seconds, 60minutes, 24hrs, week of 7 days. As for the moon, well our calendar isn't quite lunar as is. https://docs.google.com/spreadsheets/d/1CTo2FhP2L0qskTfQpZx0r7FgKwVdUhkVzmv6YVFUjaI/edit?usp=sharing
+ill-advised excursions
+- went to burning man, half heineknin - iv in tent
+- snowboard -- was driven down the mountain so consussed. My wife did the same in her past -- what a match, eh?
+- 
+- 
+- 
+
+</pre>
+	</span>
+</details> -->
+
 <details id="" open>
 	<summary>
 		<strong>☕ Ways I've messed up coffee, in rough order of consequence severity</strong>
@@ -93,7 +111,7 @@ return again(please)
 |---------------------|----------------------------------|
 | TITLE               | SUBGENRE(S)                      |
 |---------------------|----------------------------------|
-| Twelve Monkeys      | Time travel, Post apocalyptic    |
+| 12 Monkeys          | Time travel, Post apocalyptic    |
 |---------------------|----------------------------------|
 | Attack the Block    | Invasion, Comedy                 |
 |---------------------|----------------------------------|
@@ -189,10 +207,10 @@ return again(please)
 	<summary><strong>⚾ Baseball anecdotes</strong></summary>
 	<span>
 		<pre>
-- David Ortiz stole my pen.
-- Roger Clemens yelled at me.
-- Greg Maddux gave me a great answer to a question at his 300th win press conference.
-- Barry Bonds politely declined to answer a question and that night hit 660. Coincidence?
+- David Ortiz stole my pen in the clubhouse.
+- Roger Clemens yelled at me in the dugout during an actual game. [expand upon this story]. [have a pic]
+- Greg Maddux gave me a great answer to a question at his 300th win press conference. [have a pic]
+- Barry Bonds politely declined to answer a question and that night hit 660. Coincidence? [have a pic, not THE pic]
 - Serendipitously saw the MLB debut of childhood teammate when he was announced as LA's reliever. I surprised him right back in the clubhouse!
 - At a Chopt in Rosslyn, I saw this guy who looked like Bryce Harper and was wearing a beany and had distinctive mole under his eye--waaaa it WAS Bryce. "Bryce?"
 "I'm eating."
