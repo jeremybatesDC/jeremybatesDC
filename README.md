@@ -223,6 +223,9 @@ It was early in the 2014 season when he was wasting at bats trying to bunt again
 So I said the truest thing instead, which was "I watch the game to see you swing." His countenance changed, a modest grin escaped, and he extended his fist for a glorious bump.
 That night he tripled with the bases loaded! And, because Bryce, he dove into third--even though he'd just made the (April) game 6-1. On his head-first slide, he tore a ligament in his left thumb.
 But, with ZERO doubt, contrary to the ostensible causality, this is in no way my fault. Bryce, you see, only bats left handed. He throws, and bumps, with his right :-)
+- When I was four (?), we went to a Pawtucket Red Sox game (although it's possible this happened at Beehive Stadium, home of the New Britain Red Sox). A man was signing autographs and my dad said he was a great pitcher, so we waited in line. When we reached the front of the line, the legendary Bob Feller spoke to me. "Get your elbow off the table, kid."
+
+
 	</span>
 </details>
 
