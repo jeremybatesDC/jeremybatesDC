@@ -107,6 +107,14 @@ ill-advised excursions
 		<strong>📽️ Fav 11 Sci-Fi / Speculative-Fiction Movies</strong>
 	</summary>
 	<span>
+		
+		
+| Title | Subgenre(s) |
+| --- | --- |
+| 12 Monkeys | `Time travel`, `Post-apocalyptic` |
+| History of Future Folk | `Invasion`, `Comedy` |
+
+
 <pre>
 |---------------------|----------------------------------|
 | TITLE               | SUBGENRE(S)                      |
