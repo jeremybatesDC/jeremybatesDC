@@ -70,33 +70,21 @@ ill-advised excursions
 		<strong>📚 Fav 11 Sci-Fi Books</strong>
 	</summary>
 	<span>
-<pre>
-|---------------------------------|----------------------|-------------|
+		
 | TITLE                           | AUTHOR               | SUBGENRE(S) |
-|---------------------------------|----------------------|-------------|
-| On the Beach                    | Nevil Shute          |             |
-|---------------------------------|----------------------|-------------|
-| Level 7                         | Mordecai Roshwald    |             |
-|---------------------------------|----------------------|-------------|
-| Doomsday Book                   | Connie Willis        |             |
-|---------------------------------|----------------------|-------------|
-| A Canticle for Leibowitz        | Walter M. Miller Jr. |             |
-|---------------------------------|----------------------|-------------|
-| Ender's Game                    | Orson Scott Card     |             |
-|---------------------------------|----------------------|-------------|
-| Down & Out in the Magic Kingdom | Cory Doctorow        |             |
-|---------------------------------|----------------------|-------------|
-| The Naked Sun                   | Isaac Asimov         |             |
-|---------------------------------|----------------------|-------------|
-| The Martian Chronicles          | Ray Bradbury         |             |
-|---------------------------------|----------------------|-------------|
-| The Sparrow                     | Mary Doria Russell   |             |
-|---------------------------------|----------------------|-------------|
-| Emphyrio                        | Jack Vance           |             |
-|---------------------------------|----------------------|-------------|
-| The Book of Strange New Things  | Michel Faber         |             |
-|---------------------------------|----------------------|-------------|
-</pre>
+| --- | --- | --- |
+| **On the Beach**                    | Nevil Shute          |             |
+| **Level 7**                         | Mordecai Roshwald    |             |
+| **Doomsday Book**                   | Connie Willis        |             |
+| **A Canticle for Leibowitz**        | Walter M. Miller Jr. |             |
+| **Ender's Game**                    | Orson Scott Card     |             |
+| **Down & Out in the Magic Kingdom** | Cory Doctorow        |             |
+| **The Naked Sun**                   | Isaac Asimov         |             |
+| **The Martian Chronicles**          | Ray Bradbury         |             |
+| **The Sparrow**                     | Mary Doria Russell   |             |
+| **Emphyrio**                        | Jack Vance           |             |
+| **The Book of Strange New Things**  | Michel Faber         |             |
+
 </span>
 </details>
 
@@ -111,17 +99,17 @@ ill-advised excursions
 		
 | Title | Subgenre(s) |
 | --- | --- |
-| 12 Monkeys | `Time travel`, `Post-apocalyptic` |
-| History of Future Folk | `Invasion`, `Comedy` |
-| Attack the Block    | `Invasion`, `Comedy` |
-| Moon                | `Dystopic`, `Sadstronaut`            |
-| Ex Machina          | `AI`                               |
-| Sorry to Bother You | `Dystopic`, `Dark comedy`            |
-| Demolition Man      | `Human popsicle`, `Comedy, Dystopic` |
-| Ad Astra            | `Sadstronaut`                      |
-| The Vast of Night   | `UFOs`, `Retro`                      |
-| Mother              | `Post apocalyptic`, `AI`             |
-| Okja                | `Dark comedy`                      |
+| **12 Monkeys** | `Time travel`, `Post-apocalyptic` |
+| **History of Future Folk** | `Invasion`, `Comedy` |
+| **Attack the Block**    | `Invasion`, `Comedy` |
+| **Moon**                | `Dystopic`, `Sadstronaut`            |
+| **Ex Machina**          | `AI`                               |
+| **Sorry to Bother You** | `Dystopic`, `Dark comedy`            |
+| **Demolition Man**      | `Human popsicle`, `Comedy, Dystopic` |
+| **Ad Astra**            | `Sadstronaut`                      |
+| **The Vast of Night**   | `UFOs`, `Retro`                      |
+| **Mother**              | `Post apocalyptic`, `AI`             |
+| **Okja**                | `Dark comedy`                      |
 
 </span>
 </details>
