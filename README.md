@@ -113,35 +113,16 @@ ill-advised excursions
 | --- | --- |
 | 12 Monkeys | `Time travel`, `Post-apocalyptic` |
 | History of Future Folk | `Invasion`, `Comedy` |
+| Attack the Block    | `Invasion`, `Comedy` |
+| Moon                | `Dystopic`, `Sadstronaut`            |
+| Ex Machina          | `AI`                               |
+| Sorry to Bother You | `Dystopic`, `Dark comedy`            |
+| Demolition Man      | `Human popsicle`, `Comedy, Dystopic` |
+| Ad Astra            | `Sadstronaut`                      |
+| The Vast of Night   | `UFOs`, `Retro`                      |
+| Mother              | `Post apocalyptic`, `AI`             |
+| Okja                | `Dark comedy`                      |
 
-
-<pre>
-|---------------------|----------------------------------|
-| TITLE               | SUBGENRE(S)                      |
-|---------------------|----------------------------------|
-| 12 Monkeys          | Time travel, Post apocalyptic    |
-|---------------------|----------------------------------|
-| Attack the Block    | Invasion, Comedy                 |
-|---------------------|----------------------------------|
-| Moon                | Dystopic, Sadstronaut            |
-|---------------------|----------------------------------|
-| Ex Machina          | AI                               |
-|---------------------|----------------------------------|
-| Sorry to Bother You | Dystopic, Dark comedy            |
-|---------------------|----------------------------------|
-| Blade Runner        | Noir, AI, Dystopic               |
-|---------------------|----------------------------------|
-| Ad Astra            | Sadstronaut                      |
-|---------------------|----------------------------------|
-| The Vast of Night   | UFOs, Retro                      |
-|---------------------|----------------------------------|
-| Mother              | Post apocalyptic, AI             |
-|---------------------|----------------------------------|
-| Okja                | Dark comedy                      |
-|---------------------|----------------------------------|
-| Demolition Man      | Human popsicle, Comedy, Dystopic |
-|---------------------|----------------------------------|
-</pre>
 </span>
 </details>
 
