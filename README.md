@@ -71,7 +71,7 @@ ill-advised excursions
 	</summary>
 	<span>
 		
-| TITLE                           | AUTHOR               | SUBGENRE(S) |
+| Title                           | Author               | Subgenre(s) |
 | --- | --- | --- |
 | **On the Beach**                    | Nevil Shute          |             |
 | **Level 7**                         | Mordecai Roshwald    |             |
