@@ -108,7 +108,7 @@ ill-advised excursions
 | **Demolition Man**      | `Human popsicle`, `Comedy, Dystopic` |
 | **Ad Astra**            | `Sadstronaut`                      |
 | **The Vast of Night**   | `UFOs`, `Retro`                      |
-| **Mother**              | `Post apocalyptic`, `AI`             |
+| **Mother**              | `Post-apocalyptic`, `AI`             |
 | **Okja**                | `Dark comedy`                      |
 
 </span>
