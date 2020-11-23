@@ -98,7 +98,7 @@ ill-advised excursions
 		
 		
 | Title | Subgenre(s) |
-| --- | --- |
+| --- | ---: |
 | **12 Monkeys** | `Time travel`, `Post-apocalyptic` |
 | **History of Future Folk** | `Invasion`, `Comedy` |
 | **Attack the Block**    | `Invasion`, `Comedy` |
