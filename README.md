@@ -53,14 +53,15 @@ ill-advised excursions
 			attribution)</strong>
 	</summary>
 	<span>
-<pre>
-<em>Despite the high cost of living, it remains popular.</em><br>
-<em>Outside of a dog, a book is man's best friend. Inside of a dog, it's too dark to read.</em><br>
-<em>If brute force doesn't work, you're not using enough.</em><br>
-[Have a good day] <em>Thank you, but I've made other plans.</em><br>
-<em>When you come to a fork in the road, take it.</em><br>
-<em>It is like a finger that points to the moon. Don't look at the finger, or you will miss all the heavenly glory.</em>
-</pre>
+<blockquote>
+	<br>
+<em>Despite the high cost of living, it remains popular.</em><br><br>
+<em>Outside of a dog, a book is man's best friend. Inside of a dog, it's too dark to read.</em><br><br>
+<em>If brute force doesn't work, you're not using enough.</em><br><br>
+[Have a good day] <em>Thank you, but I've made other plans.</em><br><br>
+<em>When you come to a fork in the road, take it.</em><br><br>
+<em>It is like a finger that points to the moon. Don't look at the finger, or you will miss all the heavenly glory.</em><br>
+</blockquote>
 </span>
 </details>
 
