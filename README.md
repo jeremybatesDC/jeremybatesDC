@@ -52,15 +52,13 @@ ill-advised excursions
 		<strong>💬 Some quotes I enjoy (each of uncertain origin notwithstanding common
 			attribution)</strong>
 	</summary>
-	<span>
-<blockquote>
-	<br>
-<q>Despite the high cost of living, it remains popular.</q><br><br>
-<q>Outside of a dog, a book is man's best friend. Inside of a dog, it's too dark to read.</q><br><br>
-<q>If brute force doesn't work, you're not using enough.</q><br><br>
-[Have a good day] <q>Thank you, but I've made other plans.</q><br><br>
-<q>When you come to a fork in the road, take it.</q><br><br>
-<q>It is like a finger that points to the moon. Don't look at the finger, or you will miss all the heavenly glory.</q><br>
+	<span><br />
+<blockquote>Despite the high cost of living, it remains popular.</blockquote>
+<blockquote>Outside of a dog, a book is man's best friend. Inside of a dog, it's too dark to read.</blockquote>
+<blockquote>If brute force doesn't work, you're not using enough.</blockquote>
+<blockquote>[Have a good day] Thank you, but I've made other plans.</blockquote>
+<blockquote>When you come to a fork in the road, take it.</blockquote>
+<blockquote>It is like a finger that points to the moon. Don't look at the finger, or you will miss all the heavenly glory.</blockquote><br>
 </blockquote>
 </span>
 </details>
