@@ -73,19 +73,19 @@ ill-advised excursions
 	</summary>
 	<span>
 		
-| Title                           | Author               | Subgenre(s) |
-| --- | --- | --- |
-| **On the Beach**                    | Nevil Shute          |             |
-| **Level 7**                         | Mordecai Roshwald    |             |
-| **Doomsday Book**                   | Connie Willis        |             |
-| **A Canticle for Leibowitz**        | Walter M. Miller Jr. |             |
-| **Ender's Game**                    | Orson Scott Card     |             |
-| **Down & Out in the Magic Kingdom** | Cory Doctorow        |             |
-| **The Naked Sun**                   | Isaac Asimov         |             |
-| **The Martian Chronicles**          | Ray Bradbury         |             |
-| **The Sparrow**                     | Mary Doria Russell   |             |
-| **Emphyrio**                        | Jack Vance           |             |
-| **The Book of Strange New Things**  | Michel Faber         |             |
+| 𝚃𝙸𝚃𝙻𝙴                           | 𝙰𝚄𝚃𝙷𝙾𝚁               |
+| :--- | :--- |
+| **On the Beach**                    | Nevil Shute          | 
+| **Level 7**                         | Mordecai Roshwald    |
+| **Doomsday Book**                   | Connie Willis        |
+| **A Canticle for Leibowitz**        | Walter M. Miller Jr. |
+| **Ender's Game**                    | Orson Scott Card     | 
+| **Down & Out in the Magic Kingdom** | Cory Doctorow        |    
+| **The Naked Sun**                   | Isaac Asimov         |    
+| **The Martian Chronicles**          | Ray Bradbury         |        
+| **The Sparrow**                     | Mary Doria Russell   |             
+| **Emphyrio**                        | Jack Vance           |          
+| **The Book of Strange New Things**  | Michel Faber         |             
 
 </span>
 </details>
