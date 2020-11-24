@@ -31,17 +31,17 @@ ill-advised excursions
 	<summary>
 		<strong>☕ Ways I've messed up coffee, in rough order of consequence severity</strong>
 	</summary>
-	<span>
-		<pre>
-- forgot water
-- forgot grounds
-- left in old grounds
-- double water
-- scooped-in grounds while basket missing
-- single cup upside down
-- carafe misalignment
-- carafe missing
-</pre>
+	<span><br>
+
+* forgot water
+* forgot grounds
+* left in old grounds
+* double water
+* scooped-in grounds while basket missing
+* single cup upside down
+* carafe misalignment
+* carafe missing
+
 </span>
 </details>
 
