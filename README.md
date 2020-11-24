@@ -72,7 +72,7 @@ ill-advised excursions
 	<summary>
 		<strong>📚 Fav 11 Sci-Fi Books</strong>
 	</summary>
-	<span>
+	<span><br>
 		
 | 𝚃𝙸𝚃𝙻𝙴                           | 𝙰𝚄𝚃𝙷𝙾𝚁               |
 | :--- | :--- |
@@ -97,8 +97,7 @@ ill-advised excursions
 	<summary>
 		<strong>📽️ Fav 11 Sci-Fi / Speculative-Fiction Movies</strong>
 	</summary>
-	<span>
-		
+	<span><br>
 		
 | 𝚃𝙸𝚃𝙻𝙴 | 𝚂𝚄𝙱𝙶𝙴𝙽𝚁𝙴(𝚂) |
 | :--- | ---: |
