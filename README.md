@@ -120,7 +120,7 @@ ill-advised excursions
 	<summary>
 		<strong>📽️ Top 5 Christmas Movies According to Science</strong>
 	</summary>
-	<span>
+	<span><br />
 
 
 | 𝚃𝙸𝚃𝙻𝙴                           | .               |
@@ -139,7 +139,7 @@ ill-advised excursions
 	<summary>
 		<strong> 📺 Top 5 Simpsons Episodes According to Science</strong>
 	</summary>
-	<span>
+	<span><br />
 
 | .                           | .               |
 | :--- | :--- |
@@ -158,7 +158,8 @@ ill-advised excursions
 	<summary>
 		<strong>🍺 Fav 5 Beers</strong>
 	</summary>
-	<span>
+	<span> <br />
+
 		
 | .                           | .               |
 | :--- | :--- |
@@ -176,7 +177,7 @@ ill-advised excursions
 
 <details id="">
 	<summary><strong>💼 Previous Careers</strong></summary>
-	<span>
+	<span> 
 		
 - Baseball writer (Giants & A's)
 
