@@ -140,14 +140,21 @@ ill-advised excursions
 		<strong> 📺 Top 5 Simpsons Episodes According to Science</strong>
 	</summary>
 	<span>
-		<pre>
-- New Kid on the Block
-- Rosebud
-- Last Exit to Springfield
-- Duffless
-- Whacking Day
-</pre>
-	</span>
+- 
+- 
+- 
+- 
+- 
+
+| .                           | .               |
+| :--- | :--- |
+| **New Kid on the Block**                    | .          | 
+| **Rosebud**                         | .    |
+| **Last Exit to Springfield**                   | .       |
+| **Duffless**        | . |
+| **Whacking Day**                    | . | 
+
+</span>
 </details>
 
 <br />
