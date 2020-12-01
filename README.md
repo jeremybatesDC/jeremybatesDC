@@ -177,11 +177,15 @@ ill-advised excursions
 <details id="">
 	<summary><strong>💼 Previous Careers</strong></summary>
 	<span>
-		<pre>
+		
 - Baseball writer (Giants & A's)
+
 - Newspaper publisher
+
 - Summer dinner theater musical thespian (ok, two weekends of tips for a few summers might not quite qualify as a career)
-- Spa reservations associate</pre>
+
+- Spa reservations associate
+
 	</span>
 </details>
 
@@ -218,11 +222,15 @@ But, with ZERO doubt, contrary to the ostensible causality, this is in no way my
 <details id="">
 	<summary><strong>📱 Fav 5 Phones of All Time</strong></summary>
 	<span>
-
+		
 - Kyocera 6035
+
 - Audiovox Thera
+
 - Nokia n93i
+
 - Siemens sx66
+
 - Palm Pre
 
 </span>
@@ -233,11 +241,15 @@ But, with ZERO doubt, contrary to the ostensible causality, this is in no way my
 <!--<span id="skills"></span>-->
 <details id="" open>
 	<summary><strong>🤹 Skills</strong></summary>
-	<pre>
+	
 - JavaScript
+
 - Vue
+
 - SASS/SCSS/CSS
-- Microwave cookery</pre>
+
+- Microwave cookery
+	
 </details>
 
 <hr />
