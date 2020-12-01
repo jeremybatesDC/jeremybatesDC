@@ -121,13 +121,15 @@ ill-advised excursions
 		<strong>📽️ Top 5 Christmas Movies According to Science</strong>
 	</summary>
 	<span>
-		<pre>
-- The Night Before
-- Scrooged
-- Muppet Christmas Carol
-- Gremlins (yes)
-- Die Hard (yippee-ki-yay, motherfucker)
-</pre>
+
+
+| 𝚃𝙸𝚃𝙻𝙴                           | .               |
+| :--- | :--- |
+| **The Night Before**                    | .          | 
+| **Scrooged**                         | .    |
+| **Muppet Christmas Carol**                   | .       |
+| **Gremlins**        | . |
+| **Die Hard**                    | yippee-ki-yay, motherfucker | 
 </span>
 </details>
 
