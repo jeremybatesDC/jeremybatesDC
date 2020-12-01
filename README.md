@@ -140,11 +140,6 @@ ill-advised excursions
 		<strong> 📺 Top 5 Simpsons Episodes According to Science</strong>
 	</summary>
 	<span>
-- 
-- 
-- 
-- 
-- 
 
 | .                           | .               |
 | :--- | :--- |
@@ -164,13 +159,16 @@ ill-advised excursions
 		<strong>🍺 Fav 5 Beers</strong>
 	</summary>
 	<span>
-		<pre>
-- Big Wave, Kona
-- SO-LO, Goose Island
-- Down to Earth, 21st Amendment
-- Mango Even Keel, Ballast Point
-- Hop Hash Easy IPA, SweetWater</pre>
-	</span>
+		
+| .                           | .               |
+| :--- | :--- |
+| **Big Wave, Kona**                    | .          | 
+| **SO-LO, Goose Island**                         | .    |
+| **Down to Earth, 21st Amendment**                   | .       |
+| **Mango Even Keel, Ballast Point**        | . |
+| **Hop Hash Easy IPA, SweetWater**                    | . | 		
+		
+</span>
 </details>
 
 <br />
