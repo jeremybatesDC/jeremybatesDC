@@ -243,11 +243,11 @@ But, with ZERO doubt, contrary to the ostensible causality, this is in no way my
 <details id="" open>
 	<summary><strong>🤹 Skills</strong></summary>
 	
-- JavaScript
+- JavaScript, TypeScript
 
 - Vue
 
-- SASS/SCSS/CSS
+- CSS, SASS
 
 - Microwave cookery
 	
