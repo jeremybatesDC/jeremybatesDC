@@ -29,7 +29,7 @@ ill-advised excursions
 
 <details id="" open>
 	<summary>
-		<strong>☕ Ways I've messed up coffee, in rough order of consequence severity</strong>
+		<strong>☕ Ways I've messed up coffee, in rough order of severity of consequence</strong>
 	</summary>
 	<span><br>
 
