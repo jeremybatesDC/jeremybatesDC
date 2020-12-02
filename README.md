@@ -193,7 +193,7 @@ ill-advised excursions
 <br />
 
 <details id="">
-	<summary><strong>⚾ Baseball anecdotes</strong></summary>
+	<summary><strong>⚾ Baseball Anecdotes</strong></summary>
 	<span>
 
 - David Ortiz once stole my pen.
