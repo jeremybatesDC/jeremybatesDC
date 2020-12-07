@@ -35,12 +35,13 @@ ill-advised excursions
 
 * forgot water
 * forgot grounds
-* left in old grounds
-* double water
+* brewed with old grounds
 * scooped-in grounds while basket missing
+* scooped-in new grounds atop old grounds, overflowing basket
+* double water
 * single cup upside down
-* carafe misalignment
-* carafe missing
+* carafe misaligned
+* carafe absent
 
 </span>
 </details>
