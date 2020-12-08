@@ -126,8 +126,8 @@ ill-advised excursions
 
 | 𝚃𝙸𝚃𝙻𝙴                           | .               |
 | :--- | :--- |
-| **The Night Before**                    | .          | 
 | **Scrooged**                         | .    |
+| **The Night Before**                    | .          | 
 | **Muppet Christmas Carol**                   | .       |
 | **Gremlins**        | . |
 | **Die Hard**                    | yippee-ki-yay, motherfucker | 
@@ -142,7 +142,7 @@ ill-advised excursions
 	</summary>
 	<span><br />
 
-| .                           | .               |
+| 𝚃𝙸𝚃𝙻𝙴                           | 𝙴𝙿𝙸𝚂𝙾𝙳𝙴               |
 | :--- | :--- |
 | **New Kid on the Block**                    | .          | 
 | **Rosebud**                         | .    |
@@ -162,9 +162,9 @@ ill-advised excursions
 	<span> <br />
 
 		
-| .                           | .               |
+| 𝙱𝙴𝙴𝚁                           | 𝚂𝚃𝚈𝙻𝙴               |
 | :--- | :--- |
-| **Big Wave, Kona**                    | .          | 
+| **Big Wave, Kona**                    | Golden Ale          | 
 | **SO-LO, Goose Island**                         | .    |
 | **Down to Earth, 21st Amendment**                   | .       |
 | **Mango Even Keel, Ballast Point**        | . |
