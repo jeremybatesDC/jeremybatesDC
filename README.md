@@ -1,3 +1,5 @@
+![](./markup3.svg)
+
 <h1>𝙰𝚑𝚘𝚢 𝚑𝚘𝚢!</h1>
 
 ```javascript
@@ -6,8 +8,6 @@ and_shareSomeRandomThingsILike
 
 return again(please)
 ```
-
-![](./markup2.svg)
 
 <hr>
 
