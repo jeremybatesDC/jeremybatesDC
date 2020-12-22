@@ -125,13 +125,13 @@ ill-advised excursions
 	<span><br />
 
 
-| 𝚃𝙸𝚃𝙻𝙴                           | .               |
+| 𝚃𝙸𝚃𝙻𝙴                           |  𝚂𝚄𝙱𝙶𝙴𝙽𝚁𝙴(𝚂)               |
 | :--- | :--- |
-| **Scrooged**                         | .    |
-| **The Night Before**                    | .          | 
-| **Muppet Christmas Carol**                   | .       |
-| **Gremlins**        | . |
-| **Die Hard**                    | yippee-ki-yay, motherfucker | 
+| **Scrooged**                         | `Christmas Carol`    |
+| **The Night Before**                    | `Quarter-life crisis`          | 
+| **Muppet Christmas Carol**                   | `Christmas Carol`, `Musical`       |
+| **Gremlins**        | `Horror` , `Comedy` |
+| **Die Hard**                    | `Action`, `Yippee-ki-yay motherfucker` | 
 </span>
 </details>
 
