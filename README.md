@@ -46,6 +46,25 @@ ill-advised excursions
 </span>
 </details>
 
+
+<br />
+
+<!--<span id="skills"></span>-->
+<details id="" open>
+	<summary><strong>🤹 Skills</strong></summary>
+	
+- JavaScript, TypeScript
+
+- Vue
+
+- CSS, SASS
+
+- Web performance
+
+- Microwave cookery
+	
+</details>
+
 <br />
 
 <details id="" open>
@@ -240,23 +259,6 @@ But, with ZERO doubt, contrary to the ostensible causality, this is in no way my
 </span>
 </details>
 
-<br />
-
-<!--<span id="skills"></span>-->
-<details id="" open>
-	<summary><strong>🤹 Skills</strong></summary>
-	
-- JavaScript, TypeScript
-
-- Vue
-
-- CSS, SASS
-
-- Web performance
-
-- Microwave cookery
-	
-</details>
 
 <hr />
 
