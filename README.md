@@ -6,11 +6,8 @@ and_shareSomeRandomThingsILike
 
 return again(please)
 ```
-<figure height="500" width="200">
 
 ![](./markup2.svg)
-
-</figure>
 
 <hr>
 
