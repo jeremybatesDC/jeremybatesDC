@@ -145,11 +145,11 @@ ill-advised excursions
 
 | 𝚃𝙸𝚃𝙻𝙴                           | 𝙴𝙿𝙸𝚂𝙾𝙳𝙴               |
 | :--- | :--- |
-| **New Kid on the Block**                    | .          | 
-| **Rosebud**                         | .    |
-| **Last Exit to Springfield**                   | .       |
-| **Duffless**        | . |
-| **Whacking Day**                    | . | 
+| **New Kid on the Block**                    | s4e8          | 
+| **Rosebud**                         | s5e4    |
+| **Last Exit to Springfield**                   | s4e17       |
+| **Duffless**        | s4e16 |
+| **Whacking Day**                    | s4e20 | 
 
 </span>
 </details>
