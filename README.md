@@ -25,6 +25,7 @@ return again(please)
 * carafe misaligned
 * carafe absent
 
+<hr>
 </span>
 </details>
 
@@ -44,7 +45,9 @@ return again(please)
 - Web performance
 
 - Microwave cookery
-	
+
+<hr>
+
 </details>
 
 <br />
