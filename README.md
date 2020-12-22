@@ -7,7 +7,7 @@ and_shareSomeRandomThingsILike
 return again(please)
 ```
 
-![](./customMarkup.svg)
+![](./markup.svg)
 
 
 <hr>
