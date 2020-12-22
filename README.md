@@ -35,18 +35,18 @@ return again(please)
 <!--<span id="skills"></span>-->
 <details id="" open>
 	<summary><strong>🤹 Skills</strong></summary>
-	
+<span>
+<br />
+
 - JavaScript, TypeScript
-
 - Vue
-
 - CSS, SASS
-
 - Web performance
-
 - Microwave cookery
 
 <hr>
+
+</span>
 
 </details>
 
