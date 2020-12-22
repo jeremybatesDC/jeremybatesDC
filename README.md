@@ -66,6 +66,8 @@ return again(please)
 &nbsp;&nbsp;&nbsp;&nbsp; ❝ It is like a finger that points to the moon. Don't look at the finger, or you will miss all the heavenly glory. ❞<br /><br />
 &nbsp;&nbsp;&nbsp;&nbsp; ❝ You can't throw coals without burning your hand. ❞
 <br /><br />
+<hr>
+
 </span>
 </details>
 
@@ -92,6 +94,7 @@ return again(please)
 | **Emphyrio**                        | Jack Vance           |          
 | **The Book of Strange New Things**  | Michel Faber         |             
 
+<hr>
 </span>
 </details>
 
@@ -117,6 +120,8 @@ return again(please)
 | **Mother**              | `Post-apocalyptic`, `AI`             |
 | **Okja**                | `Dark comedy`                      |
 | **Empathy, Inc**        | `Body swap`, `Noir`                      |
+
+<hr>
 
 </span>
 </details>
@@ -156,6 +161,8 @@ return again(please)
 | **Duffless**        | s4e16 |
 | **Whacking Day**                    | s4e20 | 
 
+<hr>
+
 </span>
 </details>
 
@@ -175,7 +182,9 @@ return again(please)
 | **Down to Earth, 21st Amendment**                   | Session IPA       |
 | **Mango Even Keel, Ballast Point**        | Session IPA |
 | **Hop Hash Easy IPA, SweetWater**                    | Session IPA | 		
-		
+
+<hr>
+
 </span>
 </details>
 
@@ -194,6 +203,7 @@ return again(please)
 
 - Spa reservations associate
 
+<hr>
 	</span>
 </details>
 
@@ -222,6 +232,7 @@ But, with ZERO doubt, contrary to the ostensible causality, this is in no way my
 - When I was four, we went to a New Britain Red Sox game. A man was signing autographs and my dad said he was a great pitcher--so we waited in line. When we reached the front of the line, the legendary Bob Feller spoke to me. "Get your elbow off the table, kid."
 - As a reporter, I was also able to ask questions of Pedro Martinez, Randy Johnson, and yes, even Clemens (who didn't seem to recognize me after his start the next day. The fisherman's hat I wore that day may have helped...).
 
+<hr>
 	</span>
 </details>
 
