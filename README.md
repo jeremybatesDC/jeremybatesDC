@@ -94,7 +94,7 @@ ill-advised excursions
 
 <details id="">
 	<summary>
-		<strong>📽️ Fav 11 Sci-Fi / Speculative-Fiction Movies</strong>
+		<strong>📽️ Fav 12 Sci-Fi / Speculative-Fiction Movies</strong>
 	</summary>
 	<span><br>
 		
@@ -111,6 +111,7 @@ ill-advised excursions
 | **The Vast of Night**   | `UFOs`, `Retro`                      |
 | **Mother**              | `Post-apocalyptic`, `AI`             |
 | **Okja**                | `Dark comedy`                      |
+| **Empathy, Inc**        | `Body swap`, `Noir`                      |
 
 </span>
 </details>
