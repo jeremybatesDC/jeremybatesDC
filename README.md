@@ -9,24 +9,6 @@ return again(please)
 
 <hr>
 
-<!-- <details id="">
-	<summary><strong>COMING SOON</strong></summary>
-	<span>
-<pre> 
-- Snorkeling Highlights (rays, dolphins,turtles :-) -- having presidentes. captain goodlife they will fuck you up. 
-- Genealogy stories
-- Link to proposed calendar -- not even trying to mess with 60seconds, 60minutes, 24hrs, week of 7 days. As for the moon, well our calendar isn't quite lunar as is. https://docs.google.com/spreadsheets/d/1CTo2FhP2L0qskTfQpZx0r7FgKwVdUhkVzmv6YVFUjaI/edit?usp=sharing
-ill-advised excursions
-- went to burning man, half heineknin - iv in tent
-- snowboard -- was driven down the mountain so consussed. My wife did the same in her past -- what a match, eh?
-- 
-- 
-- 
-
-</pre>
-	</span>
-</details> -->
-
 <details id="" open>
 	<summary>
 		<strong>☕ Ways I've messed up coffee, in rough order of severity of consequence</strong>
