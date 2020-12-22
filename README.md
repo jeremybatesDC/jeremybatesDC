@@ -126,7 +126,7 @@ ill-advised excursions
 
 
 | 𝚃𝙸𝚃𝙻𝙴                           |  𝚂𝚄𝙱𝙶𝙴𝙽𝚁𝙴(𝚂)               |
-| :--- | :--- |
+| :--- | ---: |
 | **Scrooged**                         | `Christmas Carol`    |
 | **The Night Before**                    | `Quarter-life crisis`          | 
 | **Muppet Christmas Carol**                   | `Christmas Carol`, `Musical`       |
@@ -144,7 +144,7 @@ ill-advised excursions
 	<span><br />
 
 | 𝚃𝙸𝚃𝙻𝙴                           | 𝙴𝙿𝙸𝚂𝙾𝙳𝙴               |
-| :--- | :--- |
+| :--- | ---: |
 | **New Kid on the Block**                    | s4e8          | 
 | **Rosebud**                         | s5e4    |
 | **Last Exit to Springfield**                   | s4e17       |
@@ -164,7 +164,7 @@ ill-advised excursions
 
 		
 | 𝙱𝙴𝙴𝚁                           | 𝚂𝚃𝚈𝙻𝙴               |
-| :--- | :--- |
+| :--- | ---: |
 | **Big Wave, Kona**                    | Golden Ale          | 
 | **SO-LO, Goose Island**                         | Session IPA    |
 | **Down to Earth, 21st Amendment**                   | Session IPA       |
