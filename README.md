@@ -76,7 +76,7 @@ return again(please)
 	<span><br>
 		
 | 𝚃𝙸𝚃𝙻𝙴                           | 𝙰𝚄𝚃𝙷𝙾𝚁               |
-| :--- | :--- |
+| :--- | ---: |
 | **On the Beach**                    | Nevil Shute          | 
 | **Level 7**                         | Mordecai Roshwald    |
 | **Doomsday Book**                   | Connie Willis        |
