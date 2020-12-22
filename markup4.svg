@@ -1,12 +1,10 @@
 <svg fill="none" viewBox="0 0 1 1" width="1" height="1" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="1" height="1">
-    <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
-h1 {
+* {
         width:200px;
-  color: royalblue;
+  color: royalblue !important;
 }
       </style>
-    </div>
   </foreignObject>
 </svg>
