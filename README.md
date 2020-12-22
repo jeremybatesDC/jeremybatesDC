@@ -252,6 +252,8 @@ But, with ZERO doubt, contrary to the ostensible causality, this is in no way my
 
 - CSS, SASS
 
+- Web performance
+
 - Microwave cookery
 	
 </details>
