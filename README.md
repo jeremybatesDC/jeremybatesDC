@@ -130,7 +130,7 @@ return again(please)
 
 <details id="">
 	<summary>
-		<strong>📽️ Top 5 Christmas Movies According to Science</strong>
+		<strong>📽️ Top 6 Christmas Movies According to Science</strong>
 	</summary>
 	<span><br />
 
@@ -140,8 +140,10 @@ return again(please)
 | **Scrooged**                         | `Christmas Carol`    |
 | **The Night Before**                    | `Quarter-life crisis`          | 
 | **Muppet Christmas Carol**                   | `Christmas Carol`, `Musical`       |
-| **Gremlins**        | `Horror` , `Comedy` |
+| **Gremlins**        | `Horror`, `Comedy` |
 | **Die Hard**                    | `Action`, `Yippee-ki-yay motherfucker` | 
+| **Rare Exports: A Christmas Tale**        | `Horror`, `Fairy tale` |
+
 </span>
 </details>
 
