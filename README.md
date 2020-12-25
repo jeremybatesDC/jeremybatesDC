@@ -242,16 +242,13 @@ But, with ZERO doubt, contrary to the ostensible causality, this is in no way my
 <details id="">
 	<summary><strong>📱 Fav Phones of All Time</strong></summary>
 	<span>
+<br>
 		
-- Kyocera 6035
-
-- Audiovox Thera
-
-- Nokia n93i
-
-- Siemens sx66
-
-- Palm Pre
+* Kyocera 6035
+* Audiovox Thera
+* Nokia n93i
+* Siemens sx66
+* Palm Pre
 
 </span>
 </details>
