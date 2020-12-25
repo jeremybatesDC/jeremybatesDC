@@ -241,7 +241,7 @@ But, with ZERO doubt, contrary to the ostensible causality, this is in no way my
 <br />
 
 <details id="">
-	<summary><strong>📱 Fav 5 Phones of All Time</strong></summary>
+	<summary><strong>📱 Fav Phones of All Time</strong></summary>
 	<span>
 		
 - Kyocera 6035
