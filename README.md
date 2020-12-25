@@ -76,7 +76,7 @@ return again(please)
 
 <details id="">
 	<summary>
-		<strong>📚 Fav 11 Sci-Fi Books</strong>
+		<strong>📚 Fav Sci-Fi Books</strong>
 	</summary>
 	<span><br>
 		
@@ -102,7 +102,7 @@ return again(please)
 
 <details id="">
 	<summary>
-		<strong>📽️ Fav 12 Sci-Fi / Speculative-Fiction Movies</strong>
+		<strong>📽️ Fav Sci-Fi / Speculative-Fiction Movies</strong>
 	</summary>
 	<span><br>
 		
@@ -172,7 +172,7 @@ return again(please)
 
 <details id="">
 	<summary>
-		<strong>🍺 Fav 5 Beers</strong>
+		<strong>🍺 Fav Beers</strong>
 	</summary>
 	<span> <br />
 
