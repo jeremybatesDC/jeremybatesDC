@@ -63,9 +63,7 @@ return again(please)
 &nbsp;&nbsp;&nbsp;&nbsp; ❝ If brute force doesn't work, you're not using enough. ❞<br /><br />
 &nbsp;&nbsp;&nbsp;&nbsp; ❝ [Have a good day] Thank you, but I've made other plans. ❞<br /><br />
 &nbsp;&nbsp;&nbsp;&nbsp; ❝ When you come to a fork in the road, take it. ❞<br /><br />
-&nbsp;&nbsp;&nbsp;&nbsp; ❝ It is like a finger that points to the moon. Don't look at the finger, or you will miss all the heavenly glory. ❞<br /><br />
-&nbsp;&nbsp;&nbsp;&nbsp; ❝ You can't throw coals without burning your hand. ❞
-<br /><br />
+&nbsp;&nbsp;&nbsp;&nbsp; ❝ It is like a finger that points to the moon. Don't look at the finger, or you will miss all the heavenly glory. ❞<br />
 <hr>
 
 </span>
