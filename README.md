@@ -224,8 +224,7 @@ return again(please)
 "I'm eating."
 It was early in the 2014 season when he was wasting at bats trying to bunt against a shift, and dammit I wanted to say something. But you don't presume to make suggestion to a world-class athlete--especially when starstruck. And, it's true, he was eating--albeit near the plastic utensils in a counter-service high-output lettuce emporium.
 So I said the truest thing instead, which was "I watch the game to see you swing." His countenance changed, a modest grin escaped, and he extended his fist for a glorious bump.
-That night he tripled with the bases loaded! And, because Bryce, he dove into third--even though he'd just made the (April) game 6-1. On his head-first slide, he tore a ligament in his left thumb.
-But, with ZERO doubt, contrary to the ostensible causality, this is in no way my fault. Bryce, you see, only bats left handed. He throws, and bumps, with his right :-)
+That night he tripled with the bases loaded! And, because Bryce, he dove into third--even though he'd just made the (April) game 6-1. On his head-first slide, he tore a ligament in his left thumb. Nats' fans shared his pain, and it was a somber night. Of small relief is that, contrary to the ostensible causality, I bore no part of the responsibility. Bryce, you see, only bats left. He throws, and bumps, right.
 * When I was four, we went to a New Britain Red Sox game. A man was signing autographs and my dad said he was a great pitcher--so we waited in line. When we reached the front of the line, the legendary Bob Feller spoke to me. "Get your elbow off the table, kid."
 * As a reporter, I was also able to ask questions of Pedro Martinez, Randy Johnson, and yes, even Clemens (who didn't seem to recognize me after his start the next day. The fisherman's hat I wore that day may have helped...).
 
