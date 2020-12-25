@@ -196,6 +196,7 @@ return again(please)
 <details id="">
 	<summary><strong>💼 Some Previous Jobs</strong></summary>
 	<span> 
+<br>
 		
 - Baseball writer (Giants & A's)
 - Newspaper publisher
