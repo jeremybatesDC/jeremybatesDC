@@ -144,6 +144,8 @@ return again(please)
 | **Die Hard**                    | `Action`, `Yippee-ki-yay motherfucker` | 
 | **Rare Exports: A Christmas Tale**        | `Horror`, `Fairy tale` |
 
+<hr>
+
 </span>
 </details>
 
