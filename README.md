@@ -194,15 +194,13 @@ return again(please)
 
 
 <details id="">
-	<summary><strong>💼 Previous Careers</strong></summary>
+	<summary><strong>💼 Some Previous Jobs</strong></summary>
 	<span> 
 		
 - Baseball writer (Giants & A's)
-
 - Newspaper publisher
-
 - Summer dinner theater musical thespian (ok, two weekends of tips for a few summers might not quite qualify as a career)
-
+- Waiter, without the theater part
 - Spa reservations associate
 
 <hr>
