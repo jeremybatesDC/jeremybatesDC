@@ -128,7 +128,7 @@ return again(please)
 
 <details id="">
 	<summary>
-		<strong>📽️ Top 6 Christmas Movies According to Science</strong>
+		<strong>📽️ Best Christmas Movies According to Science</strong>
 	</summary>
 	<span><br />
 
@@ -151,7 +151,7 @@ return again(please)
 
 <details id="">
 	<summary>
-		<strong> 📺 Top 5 Simpsons Episodes According to Science</strong>
+		<strong> 📺 Best Simpsons Episodes According to Science</strong>
 	</summary>
 	<span><br />
 
