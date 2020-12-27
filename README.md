@@ -179,11 +179,11 @@ return again(please)
 		
 | 𝙱𝙴𝙴𝚁                           | 𝚂𝚃𝚈𝙻𝙴               |
 | :--- | ---: |
-| **Big Wave, Kona**                    | Golden Ale          | 
-| **SO-LO, Goose Island**                         | Session IPA    |
-| **Down to Earth, 21st Amendment**                   | Session IPA       |
-| **Mango Even Keel, Ballast Point**        | Session IPA |
-| **Hop Hash Easy IPA, SweetWater**                    | Session IPA | 		
+| **Big Wave, Kona**                    | `Golden Ale`          | 
+| **SO-LO, Goose Island**                         | `Session IPA`    |
+| **Down to Earth, 21st Amendment**                   | `Session IPA`       |
+| **Mango Even Keel, Ballast Point**        | `Session IPA` |
+| **Hop Hash Easy IPA, SweetWater**                    | `Session IPA` | 		
 
 <hr>
 
