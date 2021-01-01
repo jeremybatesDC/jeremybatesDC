@@ -52,24 +52,6 @@ return again(please)
 
 <br />
 
-<details id="" open>
-	<summary>
-		<strong>💬 Some quotes I enjoy (each of uncertain origin notwithstanding common
-			attribution)</strong>
-	</summary>
-	<span><br />
-	&nbsp;&nbsp;&nbsp;&nbsp; ❝ Despite the high cost of living, it remains popular. ❞<br /><br />
-&nbsp;&nbsp;&nbsp;&nbsp; ❝ Outside of a dog, a book is man's best friend. Inside of a dog, it's too dark to read. ❞<br /><br />
-&nbsp;&nbsp;&nbsp;&nbsp; ❝ If brute force doesn't work, you're not using enough. ❞<br /><br />
-&nbsp;&nbsp;&nbsp;&nbsp; ❝ [Have a good day] Thank you, but I've made other plans. ❞<br /><br />
-&nbsp;&nbsp;&nbsp;&nbsp; ❝ When you come to a fork in the road, take it. ❞<br /><br />
-&nbsp;&nbsp;&nbsp;&nbsp; ❝ It is like a finger that points to the moon. Don't look at the finger, or you will miss all the heavenly glory. ❞<br />
-<hr>
-
-</span>
-</details>
-
-<br />
 
 <details id="" open>
 	<summary>
@@ -89,6 +71,24 @@ return again(please)
 
 <br />
 
+<details id="" open>
+	<summary>
+		<strong>💬 Some quotes I enjoy (each of uncertain origin notwithstanding common
+			attribution)</strong>
+	</summary>
+	<span><br />
+	&nbsp;&nbsp;&nbsp;&nbsp; ❝ Despite the high cost of living, it remains popular. ❞<br /><br />
+&nbsp;&nbsp;&nbsp;&nbsp; ❝ Outside of a dog, a book is man's best friend. Inside of a dog, it's too dark to read. ❞<br /><br />
+&nbsp;&nbsp;&nbsp;&nbsp; ❝ If brute force doesn't work, you're not using enough. ❞<br /><br />
+&nbsp;&nbsp;&nbsp;&nbsp; ❝ [Have a good day] Thank you, but I've made other plans. ❞<br /><br />
+&nbsp;&nbsp;&nbsp;&nbsp; ❝ When you come to a fork in the road, take it. ❞<br /><br />
+&nbsp;&nbsp;&nbsp;&nbsp; ❝ It is like a finger that points to the moon. Don't look at the finger, or you will miss all the heavenly glory. ❞<br />
+<hr>
+
+</span>
+</details>
+
+<br />
 
 <details id="">
 	<summary>
