@@ -182,7 +182,6 @@ return again(please)
 | **Big Wave, Kona**                    | `Golden Ale`          | 
 | **SO-LO, Goose Island**                         | `Session IPA`    |
 | **Citra Mantra, Otter Creek**                         | `Pale lager`    |
-| **Down to Earth, 21st Amendment**                   | `Session IPA`       |
 | **Lowest Lord, Denizens**                   | `ESB`       |
 | **Mango Even Keel, Ballast Point**        | `Session IPA` |
 | **The Chuggernaut, Brewer's Art**        | `Kölsch` |
