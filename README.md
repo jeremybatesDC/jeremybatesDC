@@ -71,6 +71,23 @@ return again(please)
 
 <br />
 
+<details id="" open>
+	<summary>
+		<strong> 📺 Walk-up Songs</strong>
+	</summary>
+	<span><br />
+
+| 𝚂𝙾𝙽𝙶                           | 𝙰𝚁𝚃𝙸𝚂𝚃               |
+| :--- | ---: |
+| **Whispering**                    | Alex Clare          | 
+
+<hr>
+
+</span>
+</details>
+
+<br />
+
 
 <details id="">
 	<summary>
