@@ -185,6 +185,7 @@ return again(please)
 | **Lowest Lord, Denizens**                   | `ESB`       |
 | **Mango Even Keel, Ballast Point**        | `Session IPA` |
 | **The Chuggernaut, Brewer's Art**        | `Kölsch` |
+| **Prima Pils, Victory**        | `Pilsner` |
 
 <hr>
 
