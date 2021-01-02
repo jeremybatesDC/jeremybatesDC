@@ -15,15 +15,15 @@ return again(please)
 	</summary>
 	<span><br>
 
-* forgot water
-* forgot grounds
-* brewed with old grounds
-* scooped-in grounds while basket missing
-* scooped-in new grounds atop old grounds, overflowing basket
-* double water
-* single cup upside down
-* carafe misaligned
-* carafe absent
+* forgot water 🤦
+* forgot grounds 🤦
+* brewed with old grounds 🤦
+* scooped-in grounds while basket missing 🤦🤦
+* scooped-in new grounds atop old grounds, overflowing basket 🤦🤦
+* double water 🤦🤦
+* single cup upside down 🤦🤦
+* carafe misaligned 🤦🤦🤦
+* carafe absent 🤦🤦🤦🤦🤦
 
 <hr>
 </span>
