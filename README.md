@@ -78,12 +78,13 @@ return again(please)
 
 <details id="" open>
 	<summary>
-		<strong>Frequently Asked Questions</strong>
+		<strong>🤔 Frequently Asked Questions</strong>
 	</summary>
 	<span><br />
 	
 <ul>
 <li><q>Where is my phone?</q></li>
+<li><q>Have I had this beer before?</q></li>
 </ul>
 
 <hr>
