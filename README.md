@@ -78,6 +78,23 @@ return again(please)
 
 <details id="" open>
 	<summary>
+		<strong>Frequently Asked Questions</strong>
+	</summary>
+	<span><br />
+	
+<ul>
+<li><q>Where is my phone?</q></li>
+</ul>
+
+<hr>
+
+</span>
+</details>
+
+<br />
+
+<details id="">
+	<summary>
 		<strong>💬 Some quotes I enjoy (each of uncertain origin notwithstanding common
 			attribution)</strong>
 	</summary>
