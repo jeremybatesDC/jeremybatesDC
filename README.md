@@ -76,7 +76,7 @@ return again(please)
 
 <br />
 
-<details id="" open>
+<details id="">
 	<summary>
 		<strong>🤔 Frequently Asked Questions</strong>
 	</summary>
