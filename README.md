@@ -182,7 +182,7 @@ return again(please)
 | **The Night Before**                    | `Quarter-life crisis`          | 
 | **Muppet Christmas Carol**                   | `Christmas Carol`, `Musical`       |
 | **Gremlins**        | `Horror`, `Comedy` |
-| **Die Hard**                    | `Action`, `Yippee-ki-yay motherfucker` | 
+| **Die Hard**                    | `Action`, `Yippee-ki-yay` | 
 | **Rare Exports: A Christmas Tale**        | `Horror`, `Fairy tale` |
 
 <hr>
