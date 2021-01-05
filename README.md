@@ -38,11 +38,19 @@ return again(please)
 <span>
 <br />
 
-- JavaScript, TypeScript
-- Vue
-- CSS, SASS
-- Web performance
-- Microwave cookery
+| 𝚂𝚔𝚒𝚕𝚕                           | 𝚄𝚜𝚎𝚍 𝚜𝚒𝚗𝚌𝚎               |
+| :--- | ---: |
+| **JavaScript**                    | 2010          | 
+| **Vue**                    | 2017         | 
+| **TypeScript**                    | 2019         | 
+| **Accessible HTML**                    | 2002         | 
+| **SCSS**                    | 2012         | 
+| **CSS**                    | 2003         | 
+| **Performance Optimization**                    | 2015         |
+| **Microwave cookery**                    | 1989         |
+
+
+
 
 <hr>
 
