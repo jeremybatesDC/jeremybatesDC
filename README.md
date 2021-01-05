@@ -222,13 +222,13 @@ return again(please)
 		
 | 𝙱𝙴𝙴𝚁                           | 𝚂𝚃𝚈𝙻𝙴               |
 | :--- | ---: |
-| **Big Wave, Kona**                    | `Golden Ale`          | 
-| **Citra Mantra, Otter Creek**                         | `India Pils Lager`    |
-| **SO-LO, Goose Island**                         | `Session IPA`    |
-| **Lowest Lord, Denizens**                   | `ESB`       |
-| **Mango Even Keel, Ballast Point**        | `Session IPA` |
-| **The Chuggernaut, Brewer's Art**        | `Kölsch` |
-| **Prima Pils, Victory**        | `Pilsner` |
+| **Big Wave**, *Kona*                    | `Golden Ale`          | 
+| **Citra Mantra**, *Otter Creek*                         | `India Pils Lager`    |
+| **SO-LO**, *Goose Island*                         | `Session IPA`    |
+| **Lowest Lord**, *Denizens*                   | `ESB`       |
+| **Mango Even Keel**, *Ballast Point*        | `Session IPA` |
+| **The Chuggernaut**, *Brewer's Art*        | `Kölsch` |
+| **Prima Pils**, *Victory*        | `Pilsner` |
 
 <hr>
 
