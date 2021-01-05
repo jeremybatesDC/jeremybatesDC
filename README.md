@@ -20,7 +20,7 @@ return again(please)
 * brewed with old grounds
 * scooped-in grounds while basket missing
 * scooped-in new grounds atop old grounds, overflowing basket
-* double water
+* double water, overflowing coffeemaker
 * single cup upside down
 * carafe misaligned
 * carafe absent
