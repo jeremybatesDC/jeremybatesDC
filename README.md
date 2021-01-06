@@ -285,22 +285,6 @@ That night he tripled with the bases loaded! And, because Bryce, he dove into th
 	</span>
 </details>
 
-<br />
-
-<details id="">
-	<summary><strong>📱 Fav Phones of All Time</strong></summary>
-	<span>
-<br>
-		
-* Kyocera 6035
-* Audiovox Thera
-* Nokia n93i
-* Siemens sx66
-* Palm Pre
-
-</span>
-</details>
-
 
 <hr />
 
