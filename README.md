@@ -42,6 +42,7 @@ return again(please)
 | :--- | ---: |
 | **JavaScript**                    | 2010          | 
 | **Vue**                    | 2017         | 
+| **Vuex**                    | 2019         | 
 | **TypeScript**                    | 2019         | 
 | **Accessible HTML**                    | 2002         | 
 | **SCSS**                    | 2012         | 
@@ -69,6 +70,7 @@ return again(please)
 
 | 𝚂𝙾𝙽𝙶                           | 𝙰𝚁𝚃𝙸𝚂𝚃               |
 | :--- | ---: |
+| **Mah Nà Mah Nà**                    | Piero Umiliani (Henson Cover)          | 
 | **Whispering**                    | Alex Clare          | 
 | **You'll be Under My Wheels**                    | The Prodigy         | 
 | **Certified Air Raid Material**                    | edIT         | 
