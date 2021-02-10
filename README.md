@@ -258,6 +258,7 @@ return again(please)
 - Newspaper publisher
 - Summer dinner theater musical thespian (ok, two weekends of tips for a few summers might not quite qualify as a career)
 - Waiter, without the theater part
+- Barista
 - Spa reservations associate
 
 <hr>
