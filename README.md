@@ -169,7 +169,6 @@ return again(please)
 | **Ad Astra**            | `Sadstronaut`                      |
 | **The Vast of Night**   | `UFOs`, `Retro`                      |
 | **Stingray Sam**   | `Musical`, `Western`                      |
-| **Mother**              | `Post-apocalyptic`, `AI`             |
 | **Okja**                | `Dark comedy`                      |
 | **Empathy, Inc**        | `Body swap`, `Noir`                      |
 
