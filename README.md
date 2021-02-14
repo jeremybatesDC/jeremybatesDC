@@ -64,7 +64,7 @@ return again(please)
 
 <details id="" open>
 	<summary>
-		<strong> 📺 Walk-up Songs</strong>
+		<strong> 🎵 Walk-up Songs</strong>
 	</summary>
 	<span><br />
 
