@@ -169,6 +169,7 @@ return again(please)
 | **Ad Astra**            | `Sadstronaut`                      |
 | **The Vast of Night**   | `UFOs`, `Retro`                      |
 | **Stingray Sam**   | `Musical`, `Western`                      |
+| **FAQ About Time Travel**   | `Time travel`, `Comedy`         |
 | **Okja**                | `Dark comedy`                      |
 | **Empathy, Inc**        | `Body swap`, `Noir`                      |
 
