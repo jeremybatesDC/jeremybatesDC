@@ -162,7 +162,6 @@ return again(please)
 | **12 Monkeys** | `Time travel`, `Post-apocalyptic` |
 | **History of Future Folk** | `Invasion`, `Comedy`, `Musical` |
 | **Attack the Block**    | `Invasion`, `Comedy` |
-| **Moon**                | `Dystopic`, `Sadstronaut`            |
 | **Ex Machina**          | `AI`                               |
 | **Sorry to Bother You** | `Dystopic`, `Dark comedy`            |
 | **Demolition Man**      | `Human popsicle`, `Comedy, Dystopic` |
