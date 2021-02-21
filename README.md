@@ -221,6 +221,7 @@ return again(please)
 </span>
 </details>
 
+<br />
 
 <details id="phones" >
 	<summary>
@@ -241,8 +242,6 @@ return again(please)
 
 </span>
 </details>
-
-
 
 
 <br />
