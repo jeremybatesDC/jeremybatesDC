@@ -221,6 +221,30 @@ return again(please)
 </span>
 </details>
 
+
+<details id="phones" >
+	<summary>
+		<strong>📱 Phones I've Loved to Death</strong>
+	</summary>
+	<span><br />
+
+
+|                𝙿𝙷𝙾𝙽𝙴           | 𝙲𝙰𝚄𝚂𝙴 𝙾𝙵 𝙳𝙴𝙰𝚃𝙷              |
+| :--- | ---: |
+| **Nexus 5**                         | Died in my hands on a Bermuda beach  |
+| **Moto Atrix**                    |  Bricked  | 
+| **Siemens sx66**                   | Died twitching on Haight Street of injuries sustained from its defenestration      |
+| **iPhone 4**        | Screen burned by a too loosely hinged desk lamp in a Reykjavík hotel room |
+| **Audiovox Thera**                    |  Broke up with girlfriend who then kicked off her plan. | 
+
+<hr>
+
+</span>
+</details>
+
+
+
+
 <br />
 
 <details id="">
