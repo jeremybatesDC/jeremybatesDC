@@ -43,8 +43,7 @@ return again(please)
 | **JavaScript**, **TypeScript** | 2010, 2019          | 
 | **Vue**, **Vuex** | 2017, 2020    | 
 | **Accessible HTML**                    | 2002         | 
-| **SCSS**                    | 2012         | 
-| **CSS**                    | 2003         | 
+| **CSS**, **SCSS**                    | 2003, 2012     | 
 | **Performance Optimization**                    | 2015         |
 | **Microwave cookery**                    | 1989         |
 
