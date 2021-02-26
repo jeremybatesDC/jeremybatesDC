@@ -34,16 +34,16 @@ return again(please)
 
 <!--<span id="skills"></span>-->
 <details id="" open>
-	<summary><strong>🤹 Skills</strong></summary>
+	<summary><strong>🧑‍💻 Skills</strong></summary>
 <span>
 <br />
 
 | 𝚂𝙺𝙸𝙻𝙻                           | 𝚄𝚂𝙴𝙳 𝚂𝙸𝙽𝙲𝙴          |
 | :--- | ---: |
-| **JavaScript**, **TypeScript** | 2010, 2019          | 
+| **JavaScript**, **TypeScript** | 2010, 2019          |
+| **CSS**, **SCSS**                    | 2003, 2012     | 
 | **Vue**, **Vuex** | 2017, 2020    | 
 | **Accessible HTML**                    | 2002         | 
-| **CSS**, **SCSS**                    | 2003, 2012     | 
 | **Performance Optimization**                    | 2015         |
 | **Microwave cookery**                    | 1989         |
 
