@@ -312,8 +312,8 @@ That night he tripled with the bases loaded! And, because Bryce, he dove into th
 
 <hr />
 
-<h2>👋 𝚂𝚊𝚢 '𝚜𝚞𝚙</h2>
-<a id="contact" href="https://twitter.com/neanderthalian" target="_blank">Twitter</a>
+<h2 id="contact">👋 𝚂𝚊𝚢 '𝚜𝚞𝚙</h2>
+<a href="https://twitter.com/neanderthalian" target="_blank">Twitter</a>
 |
 <a href="https://www.linkedin.com/in/jeremybatesdc/" target="_blank">LinkedIn</a>
 
