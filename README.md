@@ -1,4 +1,4 @@
-<h1>𝙰𝚑𝚘𝚢 𝚑𝚘𝚢!</h1>
+<h1 id="jBatesTop">𝙰𝚑𝚘𝚢 𝚑𝚘𝚢!</h1>
 
 ```javascript
 let me_welcome_you,
@@ -336,4 +336,5 @@ That night he tripled with the bases loaded! And, because Bryce, he dove into th
 <hr>
 
 
+[☝️𝙱𝙰𝙲𝙺 𝚃𝙾 𝚃𝙾𝙿](#jBatesTop)
 
