@@ -9,7 +9,7 @@ return again(please)
 
 <hr>
 
-[Skills](#skills)
+[Skills](#skills) | [Contact](#contact)
 
 <details id="" open>
 	<summary>
