@@ -32,8 +32,7 @@ return again(please)
 
 <br />
 
-<!--<span id="skills"></span>-->
-<details id="" open>
+<details id="skills" open>
 	<summary><strong>🧑‍💻 Skills</strong></summary>
 <span>
 <br />
