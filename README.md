@@ -1,3 +1,5 @@
+[1]: #jbatesTop
+
 <h1 id="jBatesTop">𝙰𝚑𝚘𝚢 𝚑𝚘𝚢!</h1>
 
 ```javascript
@@ -338,4 +340,4 @@ That night he tripled with the bases loaded! And, because Bryce, he dove into th
 
 [☝️𝙱𝙰𝙲𝙺 𝚃𝙾 𝚃𝙾𝙿](#jBatesTop)
 
-![YARG](https://via.placeholder.com/150)
+![YARG](https://via.placeholder.com/150)[1]
