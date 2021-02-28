@@ -9,6 +9,8 @@ return again(please)
 
 <hr>
 
+[Skills](#skills)
+
 <details id="" open>
 	<summary>
 		<strong>☕ Ways I've messed up coffee, in rough order of severity of consequence</strong>
