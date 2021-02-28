@@ -340,4 +340,4 @@ That night he tripled with the bases loaded! And, because Bryce, he dove into th
 
 [☝️𝙱𝙰𝙲𝙺 𝚃𝙾 𝚃𝙾𝙿](#jBatesTop)
 
-![YARG](https://via.placeholder.com/150)[1]
+<a href="#jbatesTop">![YARG](https://via.placeholder.com/150)</a>
