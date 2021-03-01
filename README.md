@@ -11,7 +11,7 @@ return again(please)
 
 <hr>
 
-[Skills](#skills) | [Coding Philosophy](#codingPhilosophy) | [Contact](#contact)
+[🧑‍💻 Skills](#skills)  |  [🤔 Coding Philosophy](#codingPhilosophy)  |  [👋 Contact](#contact)
 
 <hr>
 
