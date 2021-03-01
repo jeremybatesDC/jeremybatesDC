@@ -338,7 +338,6 @@ That night he tripled with the bases loaded! And, because Bryce, he dove into th
 
 
 <hr>
-<hr>
 
 
 [☝️𝙱𝙰𝙲𝙺 𝚃𝙾 𝚃𝙾𝙿](#jBatesTop)
