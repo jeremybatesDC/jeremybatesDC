@@ -339,7 +339,5 @@ That night he tripled with the bases loaded! And, because Bryce, he dove into th
 
 <hr>
 
-
 [☝️𝙱𝙰𝙲𝙺 𝚃𝙾 𝚃𝙾𝙿](#jBatesTop)
-
-<a href="#jbatesTop">![YARG](https://via.placeholder.com/150)</a>
+<a href="#jbatesTop">![Back To Top](http://www.pngall.com/wp-content/uploads/2017/01/Trampoline-PNG-File.png)</a>
