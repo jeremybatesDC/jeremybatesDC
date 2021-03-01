@@ -13,6 +13,9 @@ return again(please)
 
 [Skills](#skills) | [Contact](#contact)
 
+<hr>
+
+
 <details id="" open>
 	<summary>
 		<strong>☕ Ways I've messed up coffee, in rough order of severity of consequence</strong>
