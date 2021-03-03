@@ -10,6 +10,7 @@ return again(please)
 ```
 
 <hr>
+<!-- consider jump nav at bottom too -->
 
 🧑‍💻[Skills](#skills)  |  🤔[Coding Philosophy](#codingPhilosophy)  |  👋[Contact](#contact)
 
