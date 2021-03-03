@@ -309,6 +309,7 @@ So I said the truest thing instead, which was "I watch the game to see you swing
 That night he tripled with the bases loaded! And, because Bryce, he dove into third--even though he'd just made the (April) game 6-1. On his head-first slide, he tore a ligament in his left thumb. Nats' fans shared his pain, and it was a somber night. Of small relief is that, contrary to the ostensible causality, I bore no part of the responsibility. Bryce, you see, only bats left. He throws, and bumps, right.
 * When I was four, we went to a New Britain Red Sox game. A man was signing autographs and my dad said he was a great pitcher--so we waited in line. When we reached the front of the line, the legendary Bob Feller spoke to me. "Get your elbow off the table, kid."
 * As a reporter, I was also able to ask questions of Pedro Martinez, Randy Johnson, and yes, even Clemens (who didn't seem to recognize me after his start the next day. The fisherman's hat I wore that day may have helped...).
+<!-- HR Derby Jess me. Home with baby. Each been to one separately-- me tho as a fan. Crazy -->
 
 <hr>
 	</span>
