@@ -173,7 +173,7 @@ return again(please)
 | **Stingray Sam**   | `Musical`, `Western`                      |
 | **FAQ About Time Travel**   | `Time travel`, `Comedy`         |
 | **Okja**                | `Dark comedy`                      |
-| **San Junipero** (Black Mirror Episode)        | `VR`, `Romance`                      |
+| **San Junipero** (*Black Mirror* episode)        | `VR`, `Romance`                      |
 
 <hr>
 
