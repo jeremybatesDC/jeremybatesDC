@@ -44,9 +44,9 @@ gotta ship. if you're doing a site at an agency, avoid looking at client site in
 </details>
 
 
-<br />
+<br id="skills"/>
 
-<details id="skills" open>
+<details open>
 	<summary><strong>🧑‍💻 Skills</strong></summary>
 <span>
 <br />
