@@ -12,7 +12,19 @@ return again(please)
 <hr>
 <!-- consider jump nav at bottom too -->
 
+<details id="" open>
+	<summary>
+		<strong> ☰ Menu</strong>
+	</summary>
+	<span><br />
+
 🧑‍💻[Skills](#skills)  |  🤔[Coding Philosophy](#codingPhilosophy)  |  👋[Contact](#contact)
+
+<hr>
+
+</span>
+</details>
+
 
 <hr>
 
