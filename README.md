@@ -12,20 +12,10 @@ return again(please)
 <hr>
 <!-- consider jump nav at bottom too -->
 
-<details id="" open>
-	<summary>
-		<strong> ☰ Menu</strong>
-	</summary>
-	<span><br />
-
 🧑‍💻[Skills](#skills)  |  🤔[Coding Philosophy](#codingPhilosophy)  |  👋[Contact](#contact)
 
-
-</span>
-</details>
-
-
 <hr>
+
 
 
 <!--learn always - reduce complexity at every opportunity. - "write code, not too much, mostly functions."
