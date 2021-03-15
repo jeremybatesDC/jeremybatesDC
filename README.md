@@ -20,7 +20,6 @@ return again(please)
 
 🧑‍💻[Skills](#skills)  |  🤔[Coding Philosophy](#codingPhilosophy)  |  👋[Contact](#contact)
 
-<hr>
 
 </span>
 </details>
