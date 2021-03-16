@@ -30,6 +30,16 @@ return again(please)
 
 
 <!-- Conferences Attended including virtual ones over past year (smashing and speed workshop -- about to do vue masters and vue conf -->
+<!-- Conferences attended
+- Smashing Performance
+Workshop: 2020
+- SmashingConfNY: 2018
+- JSConfUS: 2018
+- O’Reilly Fluent: 2017
+- NationJS: 2015, 17
+- ForwardJS: 2016
+- Event Apart DC: 2012, 13
+- HTML5DevConf: 2011, 12 -->
 
 
 
