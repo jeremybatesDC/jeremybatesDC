@@ -12,7 +12,9 @@ return again(please)
 <hr>
 <!-- consider jump nav at bottom too -->
 
-🧑‍💻[Skills](#skills)  |  🤔[Coding Philosophy](#codingPhilosophy)  |  👋[Contact](#contact)
+
+| 🧑‍💻[Skills](#skills) <br> |  🤔[Coding Philosophy](#codingPhilosophy)  |  👋[Contact](#contact) | <details><summary>More</summary>Personal Links</details> |
+| :--- | ---: | :--- | :--- |
 
 <hr>
 
