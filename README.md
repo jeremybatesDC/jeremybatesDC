@@ -19,6 +19,9 @@ return again(please)
 <hr>
 
 
+<!-- Conferences Attended including virtual ones over past year (smashing and speed workshop -- about to do vue masters and vue conf -->
+
+
 
 <!--learn always - reduce complexity at every opportunity. - "write code, not too much, mostly functions."
 accessibility is soul of internet name things well / legibility > micro-optimizations
