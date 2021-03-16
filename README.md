@@ -13,7 +13,7 @@ return again(please)
 <!-- consider jump nav at bottom too -->
 
 
-| 🧑‍💻[Skills](#skills) <br> |  🤔[Coding Philosophy](#codingPhilosophy)  |  👋[Contact](#contact) | <details><summary><br>🙈</summary>Personal Links</details> |
+| 🧑‍💻[Skills](#skills) <br> |  🤔[Coding Philosophy](#codingPhilosophy)  |  👋[Contact](#contact) | <details><summary><br>🙈</summary><a href="#coffee">Coffee</a></details> |
 | :--- | ---: | :--- | :--- |
 
 <hr>
@@ -26,7 +26,7 @@ spend most time reading not writing code -- kyle simpson
 empower designers and allow them to see right away what available component options are. This avoids the issue that harms so many projects: inadvertent functional requirements drawn into designs.
 gotta ship. if you're doing a site at an agency, avoid looking at client site in production. They do weird stuff with it and, as long as you've workd to educate client ahead of time with documentation too, you've just got to let it go. Kind of like being a journalist and not reading your stuff in print because invariably the editor will tweak it in ways you don't want/like. But that's the reality. gatekeepers are assholes. don't be one. share and learn together -->
 
-<details id="" open>
+<details id="coffee" open>
 	<summary>
 		<strong>☕ Ways I've messed up coffee, in rough order of severity of consequence</strong>
 	</summary>
