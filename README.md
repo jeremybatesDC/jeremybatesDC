@@ -13,7 +13,7 @@ return again(please)
 <!-- consider jump nav at bottom too -->
 
 
-| 🧑‍💻[Skills](#skills) <br> |  🤔[Coding Philosophy](#codingPhilosophy)  |  👋[Contact](#contact) | <details><summary>More</summary>Personal Links</details> |
+| 🧑‍💻[Skills](#skills) <br> |  🤔[Coding Philosophy](#codingPhilosophy)  |  👋[Contact](#contact) | <details><summary><br> More </summary>Personal Links</details> |
 | :--- | ---: | :--- | :--- |
 
 <hr>
