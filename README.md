@@ -253,7 +253,7 @@ gotta ship. if you're doing a site at an agency, avoid looking at client site in
 | **Moto Atrix**                    |  Bricked  | 
 | **Siemens sx66**                   | Died twitching on Haight Street of injuries sustained from its defenestration      |
 | **iPhone 4**        | Screen burned by a too loosely hinged desk lamp in a Reykjavík hotel room |
-| **Audiovox Thera**                    |  Broke up with girlfriend who then kicked me off her plan. | 
+| **Audiovox Thera**                    |  Broke up with girlfriend who then kicked me off her plan | 
 
 <hr>
 
