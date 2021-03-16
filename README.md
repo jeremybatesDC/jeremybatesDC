@@ -12,6 +12,16 @@ return again(please)
 <hr>
 <!-- consider jump nav at bottom too -->
 
+<!-- Sites
+ - iiba.org [Muze Silver Award] 
+- sme.org [Muze Sliver]
+- asisonline.org
+- iftevent.org [AVA Platinum]
+- americanchemistry.com
+- aiim.org [W3 Silver] -->
+
+
+
 
 | 🧑‍💻[Skills](#skills) <br> |  ⌨️[Code](#)  | 🤔[Philosophy](#codingPhilosophy)  |  👋[Contact](#contact) | <details><summary><br>🙈</summary><a href="#coffee">Ways I've messed up coffee</a></details> |
 | :--- | ---: | :--- | :--- | :--- |
