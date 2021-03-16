@@ -31,7 +31,7 @@ gotta ship. if you're doing a site at an agency, avoid looking at client site in
 
 <details id="coffee" open>
 	<summary>
-		<strong>☕ Ways I've messed up coffee, in rough order of severity of consequence</strong>
+		<strong>☕ Ways I've messed up coffee, in approximate order of severity of consequence</strong>
 	</summary>
 	<span><br>
 
