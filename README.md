@@ -20,7 +20,6 @@ return again(please)
 - americanchemistry.com
 - aiim.org [W3 Silver] -->
 
-[Interview me](https://calendly.com/jeremybatesdc/interview)
 
 
 | 🧑‍💻[Skills](#skills) <br> |  ⌨️[Code](#)  | 🤔[Philosophy](#codingPhilosophy)  |  👋[Contact](#contact) | <details><summary><br>🙈</summary><a href="#coffee">Ways I've messed up coffee</a></details> |
