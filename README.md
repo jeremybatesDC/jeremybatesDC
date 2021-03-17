@@ -20,7 +20,7 @@ return again(please)
 - americanchemistry.com
 - aiim.org [W3 Silver] -->
 
-
+[Interview me](https://calendly.com/jeremybatesdc/interview)
 
 
 | 🧑‍💻[Skills](#skills) <br> |  ⌨️[Code](#)  | 🤔[Philosophy](#codingPhilosophy)  |  👋[Contact](#contact) | <details><summary><br>🙈</summary><a href="#coffee">Ways I've messed up coffee</a></details> |
@@ -356,8 +356,8 @@ That night he tripled with the bases loaded! And, because Bryce, he dove into th
 
 <h2 id="contact">👋 𝙲𝙾𝙽𝚃𝙰𝙲𝚃</h2>
 <a href="https://twitter.com/neanderthalian" target="_blank">Twitter</a>
-|
 <a href="https://www.linkedin.com/in/jeremybatesdc/" target="_blank">LinkedIn</a>
+<a href="https://calendly.com/jeremybatesdc/interview" target="_blank">Interview me</a>
 
 <br />
 
