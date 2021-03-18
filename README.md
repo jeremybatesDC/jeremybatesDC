@@ -160,7 +160,7 @@ gotta ship. if you're doing a site at an agency, avoid looking at client site in
 </span>
 </details>
 
-<br />
+<br id="scifibooks"/>
 
 <details id="">
 	<summary>
@@ -186,7 +186,7 @@ gotta ship. if you're doing a site at an agency, avoid looking at client site in
 </span>
 </details>
 
-<br />
+<br id="scifimovies"/>
 
 <details id="">
 	<summary>
