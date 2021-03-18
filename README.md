@@ -22,7 +22,7 @@ return again(please)
 
 
 
-| 🧑‍💻[Skills](#skills) <br> |  ⌨️[Code](#)  | 🤔[Philosophy](#codingPhilosophy)  |  👋[Contact](#contact) | <details><summary><br>🙈</summary><a href="#coffee">Ways I've messed up coffee</a><br><a href="#walkupsongs">Walk-up songs</a></details> |
+| 🧑‍💻[Skills](#skills) <br> |  ⌨️[Code](#)  | 🤔[Philosophy](#codingPhilosophy)  |  👋[Contact](#contact) | <details><summary><br>🙈</summary><a href="#coffee">- Ways I've messed up coffee</a><br><a href="#walkupsongs">- Walk-up songs</a><br><a href="#faqs">- FAQs</a></details> |
 | :--- | ---: | :--- | :--- | :--- |
 
 
@@ -123,7 +123,7 @@ gotta ship. if you're doing a site at an agency, avoid looking at client site in
 
 <br />
 
-<details id="">
+<details id="faqs">
 	<summary>
 		<strong>🤔 Frequently Asked Questions</strong>
 	</summary>
