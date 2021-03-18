@@ -22,7 +22,7 @@ return again(please)
 
 
 
-| 🧑‍💻[Skills](#skills) <br> |  ⌨️[Code](#) | 👋[Contact](#contact) | <details><summary><br>🙈</summary><a href="#coffee">- Ways I've messed up coffee</a><br><a href="#walkupsongs">- Walk-up songs</a><br><a href="#faqs">- FAQs</a></details> |
+| 🧑‍💻[Skills](#skills) <br> |  ⌨️[Code](#) | 👋[Contact](#contact) | <br><details><summary>🙈</summary><a href="#coffee">- Ways I've messed up coffee</a><br><a href="#walkupsongs">- Walk-up songs</a><br><a href="#faqs">- FAQs</a></details> |
 | :--- | :--- | :--- | :--- |
 
 
