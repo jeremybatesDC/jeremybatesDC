@@ -1,4 +1,4 @@
-<br id="jbatesTop">
+<hr id="jbatesTop">
 
 <h1>𝙰𝚑𝚘𝚢 𝚑𝚘𝚢!</h1>
 
