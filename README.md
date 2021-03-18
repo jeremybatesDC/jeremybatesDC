@@ -1,6 +1,6 @@
-[1]: #jbatesTop
+<br id="jbatesTop">
 
-<h1 id="jBatesTop">𝙰𝚑𝚘𝚢 𝚑𝚘𝚢!</h1>
+<h1>𝙰𝚑𝚘𝚢 𝚑𝚘𝚢!</h1>
 
 ```javascript
 let me_welcome_you,
