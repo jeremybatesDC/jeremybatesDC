@@ -22,7 +22,7 @@ return again(please)
 
 
 
-| 🧑‍💻&ThinSpace;[Skills](#skills) <br> |  ⌨️&ThinSpace;[Code](#) | 👋&ThinSpace;[Contact](#contact) | <br><details><summary>🙈</summary><a href="#coffee">- Ways I've messed up coffee</a><br><a href="#walkupsongs">- Walk-up songs</a><br><a href="#faqs">- FAQs</a><br><a href="#scifibooks">- Fav sci-fi books</a><br><a href="#scifimovies">- Fav sci-fi movies</a></details> |
+| 🧑‍💻&ThinSpace;[Skills](#skills) <br> |  ⌨️&ThinSpace;[Code](#code) | 👋&ThinSpace;[Contact](#contact) | <br><details><summary>🙈</summary><a href="#coffee">- Ways I've messed up coffee</a><br><a href="#walkupsongs">- Walk-up songs</a><br><a href="#faqs">- FAQs</a><br><a href="#scifibooks">- Fav sci-fi books</a><br><a href="#scifimovies">- Fav sci-fi movies</a></details> |
 | :--- | :--- | :--- | :--- |
 
 
