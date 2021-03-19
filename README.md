@@ -53,7 +53,7 @@ return again(please)
 
 <hr id="coffee">
 
-</span><br />
+</span>
 
 </details>
 
@@ -100,7 +100,7 @@ gotta ship. if you're doing a site at an agency, avoid looking at client site in
 </span>
 </details>
 
-
+<br />
 
 
 <details id="walkupsongs" open>
