@@ -370,9 +370,9 @@ That night he tripled with the bases loaded! And, because Bryce, he dove into th
 <br />
 
 <hr />
-
+<p align="center">
 <a href="#jbatesTop">&emsp;&emsp;☝️ Back To Top ☝️&emsp;&emsp;</a>
-
+</p>
 <hr />
 
 <h6>For Peter Arseniev, 1994 – 2020: You should not be in a tribute. You
