@@ -11,8 +11,6 @@ return again(please)
 
 <hr>
 
-<a href="https://github.com/jeremybatesDC/tabsVertical">Tabs Vertical</a>
-
 <!-- code -->
 <!-- https://github.com/jeremybatesDC/baseballCardMakerApp/blob/v6/src/components/TextSlidersVuex.vue -->
 <!-- what about nav stuff i wrote at penfed too? -->
