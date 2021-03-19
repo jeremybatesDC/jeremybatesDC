@@ -87,7 +87,7 @@ gotta ship. if you're doing a site at an agency, avoid looking at client site in
 
 | 𝚂𝙺𝙸𝙻𝙻                           | 𝚄𝚂𝙴𝙳 𝚂𝙸𝙽𝙲𝙴          |
 | :--- | ---: |
-| **JavaScript**, **TypeScript** | 2010, 2019          |
+| `JavaScript`, `TypeScript` | 2010, 2019          |
 | **CSS**, **SCSS**                    | 2003, 2012     | 
 | **Vue**, **Vuex** | 2017, 2020    | 
 | **Accessible HTML**                    | 2002         | 
