@@ -14,7 +14,7 @@ return again(please)
 <!-- code -->
 <!-- https://github.com/jeremybatesDC/baseballCardMakerApp/blob/v6/src/components/TextSlidersVuex.vue -->
 <!-- what about nav stuff i wrote at penfed too? -->
-<!-- top50 -->
+<!-- top50 https://github.com/jeremybatesDC/dataTableExpandableWithCharts -->
 <!-- like tabs vertical? With dark mode? https://github.com/jeremybatesDC/tabsVertical -->
 <!-- Intersection Observer -->
 
@@ -30,7 +30,7 @@ return again(please)
 
 
 
-| 🧑‍💻&ThinSpace;[Skills](#skills) <br> |  <br><details><summary>⌨️Code</summary><a href="https://github.com/jeremybatesDC/baseballCardMakerApp">- Baseball card app (vue) </a><br><a href="https://github.com/jeremybatesDC/tabsVertical">- Tabs (js/ts)</a></details> | 👋&ThinSpace;[Contact](#contact) | <br><details><summary>🙈</summary><a href="#coffee">- Ways I've messed up coffee</a><br><a href="#walkupsongs">- Walk-up songs</a><br><a href="#faqs">- FAQs</a><br><a href="#scifibooks">- Fav sci-fi books</a><br><a href="#scifimovies">- Fav sci-fi movies</a></details> |
+| 🧑‍💻&ThinSpace;[Skills](#skills) <br> |  <br><details><summary>⌨️Code</summary><a href="https://github.com/jeremybatesDC/baseballCardMakerApp">- Baseball card app (vue) </a><br><a href="https://github.com/jeremybatesDC/intersectionObserverLazyLoad">- Custom lazy loader (js/ts)</a><br><a href="https://github.com/jeremybatesDC/dataTableExpandableWithCharts">- Data table (js, data)</a><br><a href="https://github.com/jeremybatesDC/tabsVertical">- Custom tabs (js/ts)</a></details> | 👋&ThinSpace;[Contact](#contact) | <br><details><summary>🙈</summary><a href="#coffee">- Ways I've messed up coffee</a><br><a href="#walkupsongs">- Walk-up songs</a><br><a href="#faqs">- FAQs</a><br><a href="#scifibooks">- Fav sci-fi books</a><br><a href="#scifimovies">- Fav sci-fi movies</a></details> |
 | :--- | :--- | :--- | :--- |
 
 
