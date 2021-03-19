@@ -14,8 +14,8 @@ return again(please)
 <!-- code -->
 <!-- https://github.com/jeremybatesDC/baseballCardMakerApp/blob/v6/src/components/TextSlidersVuex.vue -->
 <!-- what about nav stuff i wrote at penfed too? -->
-<!-- top50? -->
-<!-- like tabs vertical? -->
+<!-- top50 -->
+<!-- like tabs vertical? With dark mode? https://github.com/jeremybatesDC/tabsVertical -->
 <!-- Intersection Observer -->
 
 <!-- consider jump nav at bottom too -->
