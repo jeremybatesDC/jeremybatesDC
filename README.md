@@ -371,7 +371,7 @@ That night he tripled with the bases loaded! And, because Bryce, he dove into th
 
 <hr />
 <p align="center">
-<a href="#jbatesTop">&emsp;&emsp;☝️ Back To Top ☝️&emsp;&emsp;</a>
+<a href="#jbatesTop">☝️ Back To Top ☝️</a>
 </p>
 <hr />
 
