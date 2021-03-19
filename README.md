@@ -34,6 +34,30 @@ return again(please)
 | :--- | :--- | :--- | :--- |
 
 
+<br id="skills"/>
+
+<details open>
+	<summary><strong>🧑‍💻 Skills</strong></summary>
+<span>
+<br />
+
+| 𝚂𝙺𝙸𝙻𝙻                           | 𝚄𝚂𝙴𝙳 𝚂𝙸𝙽𝙲𝙴          |
+| :--- | ---: |
+| `JavaScript`, `TypeScript` | 2010, 2019          |
+| `CSS`, `SCSS`                    | 2003, 2012     | 
+| `Vue`, `Vuex` | 2017, 2020    | 
+| `Accessible HTML`                   | 2002         | 
+| `Performance Optimization`                   | 2015         |
+| `Ionic` | 2019    | 
+| `Microwave cookery`                   | 1989         |
+
+<hr>
+
+</span>
+
+</details>
+
+<br />
 
 <!-- Conferences Attended including virtual ones over past year (smashing and speed workshop -- about to do vue masters and vue conf -->
 <!-- Conferences attended
@@ -78,33 +102,6 @@ gotta ship. if you're doing a site at an agency, avoid looking at client site in
 </details>
 
 
-<br id="skills"/>
-
-<details open>
-	<summary><strong>🧑‍💻 Skills</strong></summary>
-<span>
-<br />
-
-| 𝚂𝙺𝙸𝙻𝙻                           | 𝚄𝚂𝙴𝙳 𝚂𝙸𝙽𝙲𝙴          |
-| :--- | ---: |
-| `JavaScript`, `TypeScript` | 2010, 2019          |
-| `CSS`, `SCSS`                    | 2003, 2012     | 
-| `Vue`, `Vuex` | 2017, 2020    | 
-| `Accessible HTML`                   | 2002         | 
-| `Performance Optimization`                   | 2015         |
-| `Ionic` | 2019    | 
-| `Microwave cookery`                   | 1989         |
-
-
-
-
-<hr>
-
-</span>
-
-</details>
-
-<br />
 
 
 <details id="walkupsongs" open>
