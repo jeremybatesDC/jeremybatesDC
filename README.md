@@ -38,7 +38,7 @@ return again(please)
 
 <details open>
 	<summary><strong>🧑‍💻 Skills</strong></summary>
-<div align="center">
+<span>
 <br />
 
 | 𝚂𝙺𝙸𝙻𝙻                           | 𝚄𝚂𝙴𝙳 𝚂𝙸𝙽𝙲𝙴          |
@@ -53,7 +53,7 @@ return again(please)
 
 <hr id="coffee">
 
-</div>
+</span>
 
 </details>
 
