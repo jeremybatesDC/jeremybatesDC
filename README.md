@@ -127,18 +127,15 @@ gotta ship. if you're doing a site at an agency, avoid looking at client site in
 
 <br />
 
-<details id="faqs">
+<details open id="faqs">
 	<summary>
 		<strong>🤔 Frequently Asked Questions</strong>
 	</summary>
 	<span><br />
-	
-<ul>
-<li><q>Where is my phone?</q></li>
-<li><q>Have I had this beer before?</q></li>
-<li><q>Henry, what do we do when we're sad and mad?</q></li>
-<li><q>What should we have for a snack?</q></li>
-</ul>
+&nbsp;&nbsp;&nbsp;&nbsp;❝ Where is my phone? ❞ <br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;❝ Have I had this beer before? ❞ <br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;❝ Henry, what do we do when we're sad and mad? ❞ <br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;❝ What should we have for a snack? ❞
 
 <hr>
 
