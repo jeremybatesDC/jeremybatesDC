@@ -145,7 +145,7 @@ gotta ship. if you're doing a site at an agency, avoid looking at client site in
 
 <br id="scifibooks"/>
 
-<details id="">
+<details id="" open>
 	<summary>
 		<strong>📚 Fav Sci-Fi Books</strong>
 	</summary>
@@ -171,7 +171,7 @@ gotta ship. if you're doing a site at an agency, avoid looking at client site in
 
 <br id="scifimovies"/>
 
-<details id="">
+<details id="" open>
 	<summary>
 		<strong>📽️ Fav Sci-Fi / Speculative-Fiction Movies</strong>
 	</summary>
