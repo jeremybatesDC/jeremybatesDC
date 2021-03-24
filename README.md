@@ -45,7 +45,7 @@ return again(please)
 | :--- | ---: |
 | `JavaScript`, `TypeScript` | 2010, 2019          |
 | `CSS`, `SCSS`                    | 2003, 2012     | 
-| `Vue`, `Vuex` | 2017, 2020    | 
+| `Vue`, `Nuxt`, `Vuex` | 2017, 2018, 2020    | 
 | `Accessible HTML`                   | 2002         | 
 | `Performance Optimization`                   | 2015         |
 | `Ionic` | 2019    | 
