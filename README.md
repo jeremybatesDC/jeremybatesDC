@@ -189,9 +189,8 @@ gotta ship. if you're doing a site at an agency, avoid looking at client site in
 | **Dr. Strangelove** | `Apocalyptic`, `Comedy` |
 | **The Vast of Night**   | `UFOs`, `Retro`                      |
 | **Stingray Sam**   | `Musical`, `Western`                      |
-| **FAQ About Time Travel**   | `Time travel`, `Comedy`         |
+| **War Games**          | `AI`, `Hacker`                        |
 | **Okja**                | `Dark comedy`                      |
-| **San Junipero** (*Black Mirror* episode)        | `VR`, `Romance`                      |
 
 <hr>
 
