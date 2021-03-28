@@ -184,7 +184,7 @@ gotta ship. if you're doing a site at an agency, avoid looking at client site in
 | **Attack the Block**    | `Invasion` `Comedy` |
 | **Ex Machina**          | `AI`                               |
 | **Sorry to Bother You** | `Dystopic` `Dark comedy`            |
-| **Demolition Man**      | `Human popsicle` `Comedy, Dystopic` |
+| **Demolition Man**      | `Human popsicle` `Comedy` `Dystopic` |
 | **Ad Astra**            | `Sadstronaut`                      |
 | **Dr. Strangelove** | `Apocalyptic` `Comedy` |
 | **The Vast of Night**   | `UFOs` `Retro`                      |
