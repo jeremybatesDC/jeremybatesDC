@@ -1,6 +1,6 @@
 <hr id="jbatesTop">
 
-| <br><details><summary>Code&nbsp;:octocat:</summary><a href="https://github.com/jeremybatesDC/baseballCardMakerApp/blob/v6/src/components/TextSlidersVuex.vue">- Baseball card app `vue` `vuex` </a><br><a href="https://github.com/jeremybatesDC/intersectionObserverLazyLoad">- Custom lazyload `js` `ts`</a><br><a href="https://github.com/jeremybatesDC/dataTableExpandableWithCharts">- Data table `js` `data`</a><br><a href="https://github.com/jeremybatesDC/tabsVertical">- Custom tabs `js` `ts`</a></details> |  <br><details><summary>Contact&nbsp;🤚</summary><a href="https://twitter.com/neanderthalian">🐦  Twitter</a><br><a href="https://www.linkedin.com/in/jeremybatesdc/">- LinkedIn</a><br><a href="https://calendly.com/jeremybatesdc/zoom">- Schedule call</a><br><a href="https://raw.githubusercontent.com/jeremybatesDC/jeremybatesDC/main/jbates_resume_2021.pdf">-  Résumé</a>| <br><details><summary>Personal&nbsp;🧠</summary><a href="#coffee">- Coffee fails</a><br><a href="#walkupsongs">- Walk-up songs</a><br><a href="#faqs">- FAQs</a><br><a href="#scifibooks">- Fav sci-fi</a></details> |
+| <br><details><summary>Code&nbsp;:octocat:</summary><a href="https://github.com/jeremybatesDC/baseballCardMakerApp/blob/v6/src/components/TextSlidersVuex.vue">- Baseball card app `vue` `vuex` </a><br><a href="https://github.com/jeremybatesDC/intersectionObserverLazyLoad">- Custom lazyload `js` `ts`</a><br><a href="https://github.com/jeremybatesDC/dataTableExpandableWithCharts">- Data table `js` `data`</a><br><a href="https://github.com/jeremybatesDC/tabsVertical">- Custom tabs `js` `ts`</a></details> |  <br><details><summary>Contact&nbsp;:pager:</summary><a href="https://twitter.com/neanderthalian">🐦  Twitter</a><br><a href="https://www.linkedin.com/in/jeremybatesdc/">:bowtie: LinkedIn</a><br><a href="https://calendly.com/jeremybatesdc/zoom">- Schedule call</a><br><a href="https://raw.githubusercontent.com/jeremybatesDC/jeremybatesDC/main/jbates_resume_2021.pdf">-  Résumé</a>| <br><details><summary>Personal&nbsp;🧠</summary><a href="#coffee">- Coffee fails</a><br><a href="#walkupsongs">- Walk-up songs</a><br><a href="#faqs">- FAQs</a><br><a href="#scifibooks">- Fav sci-fi</a></details> |
  | :--- | :--- | :--- |
 
 <hr>
@@ -356,7 +356,7 @@ That night he tripled with the bases loaded! And, because Bryce, he dove into th
 
 <hr />
 
-<h2 id="contact">👋 𝙲𝙾𝙽𝚃𝙰𝙲𝚃</h2>
+<h2 id="contact">:pager: 𝙲𝙾𝙽𝚃𝙰𝙲𝚃</h2>
 <a href="https://twitter.com/neanderthalian" target="_blank">Twitter</a> | 
 <a href="https://www.linkedin.com/in/jeremybatesdc/" target="_blank">LinkedIn</a> | 
 <a href="https://calendly.com/jeremybatesdc/zoom" target="_blank">Schedule Zoom call</a>
