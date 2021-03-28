@@ -179,17 +179,17 @@ gotta ship. if you're doing a site at an agency, avoid looking at client site in
 		
 | 𝚃𝙸𝚃𝙻𝙴 | 𝚂𝚄𝙱𝙶𝙴𝙽𝚁𝙴(𝚂) |
 | :--- | ---: |
-| **12 Monkeys** | `Time travel`, `Post-apocalyptic` |
-| **History of Future Folk** | `Invasion`, `Comedy`, `Musical` |
-| **Attack the Block**    | `Invasion`, `Comedy` |
+| **12 Monkeys** | `Time travel` `Post-apocalyptic` |
+| **History of Future Folk** | `Invasion` `Comedy` `Musical` |
+| **Attack the Block**    | `Invasion` `Comedy` |
 | **Ex Machina**          | `AI`                               |
-| **Sorry to Bother You** | `Dystopic`, `Dark comedy`            |
-| **Demolition Man**      | `Human popsicle`, `Comedy, Dystopic` |
+| **Sorry to Bother You** | `Dystopic` `Dark comedy`            |
+| **Demolition Man**      | `Human popsicle` `Comedy, Dystopic` |
 | **Ad Astra**            | `Sadstronaut`                      |
-| **Dr. Strangelove** | `Apocalyptic`, `Comedy` |
-| **The Vast of Night**   | `UFOs`, `Retro`                      |
-| **Stingray Sam**   | `Musical`, `Western`                      |
-| **War Games**          | `AI`, `Hacker`                        |
+| **Dr. Strangelove** | `Apocalyptic` `Comedy` |
+| **The Vast of Night**   | `UFOs` `Retro`                      |
+| **Stingray Sam**   | `Musical` `Western`                      |
+| **War Games**          | `AI` `Hacker`                        |
 | **Okja**                | `Dark comedy`                      |
 
 <hr>
