@@ -210,10 +210,10 @@ gotta ship. if you're doing a site at an agency, avoid looking at client site in
 | :--- | ---: |
 | **Scrooged**                         | `Christmas Carol`    |
 | **The Night Before**                    | `Quarter-life crisis`          | 
-| **Muppet Christmas Carol**                   | `Christmas Carol`, `Musical`       |
-| **Gremlins**        | `Horror`, `Comedy` |
-| **Die Hard**                    | `Action`, `Yippee-ki-yay` | 
-| **Rare Exports: A Christmas Tale**        | `Horror`, `Fairy tale` |
+| **Muppet Christmas Carol**                   | `Christmas Carol` `Musical`       |
+| **Gremlins**        | `Horror` `Comedy` |
+| **Die Hard**                    | `Action` `Yippee-ki-yay` | 
+| **Rare Exports: A Christmas Tale**        | `Horror` `Fairy tale` |
 
 <hr>
 
