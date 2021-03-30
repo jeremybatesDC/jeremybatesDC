@@ -8,27 +8,27 @@ What I'm looking for in my next position:
 <br>
 JavaScript, TypeScript, Vue
 
-**Employment Type**
+<ins>Employment Type</ins>
 <br>
 FT Perm or year+ contract 
 
-**Role**
+<ins>Role</ins>
 <br>
 I have lead experience and am open to that kind of work--but really I just want to work on a team of clever people
 
-**Sector**
+<ins>Sector</ins>
 <br>
 Any except government 
 
-**Team Size**
+<ins>Team Size</ins>
 <br>
 Greater-than 1: Prefer to work on team of frontend devs as opposed to being the only frontend person 
 
-**Location**
+<ins>Location</ins>
 <br>
 Remote naturally. Post-pandemic, I'm open to commuting in the DC area
 
-**Compensation**
+<ins>Compensation</ins>
 <br>
 $75+/hr or full-time equivalent   
 
