@@ -1,9 +1,9 @@
 ### Jeremy Bates, Senior Frontend Engineer
 
 
-| 𝚂𝙺𝙸𝙻𝙻                           | 𝚄𝚂𝙴𝙳 𝚂𝙸𝙽𝙲𝙴          |
+| .                         | .         |
 | :--- | ---: |
-| `JavaScript` `TypeScript` | 2010, 2019          |
+| Technologies | JavaScript, TypeScript, Vue |
 | `CSS` `SCSS`                    | 2003, 2012     | 
 | `Vue` `Nuxt` `Vuex` | 2017 | 
 | `Accessible HTML`                   | 2002         | 
