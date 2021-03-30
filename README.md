@@ -62,7 +62,7 @@ return again(please)
 
 
 <details open>
-	<summary>Ideal Role</summary>
+	<summary>❤️ Ideal Role</summary>
 
 <span>
 <br />
