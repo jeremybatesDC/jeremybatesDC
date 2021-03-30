@@ -86,8 +86,8 @@ gotta ship. if you're doing a site at an agency, avoid looking at client site in
 	</summary>
 	<span><br>
 
-* <ins>forgot water</ins>
-* <del>forgot grounds</del>
+* forgot water
+* forgot grounds
 * brewed with old grounds
 * scooped-in grounds while basket missing
 * scooped-in new grounds atop old grounds, overflowing basket
