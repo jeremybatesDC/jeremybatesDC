@@ -1,8 +1,8 @@
 ### Jeremy Bates, Senior Frontend Engineer
 
-<blockquote>What I'm looking for in my next position</blockquote>
+What I'm looking for in my next position
 
-<br>
+<hr>
 
 **Desired technologies**
 <br>
