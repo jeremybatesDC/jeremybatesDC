@@ -2,7 +2,7 @@
 
 
 | .                         | .         |
-| :--- | ---: |
+| ---: | :--- |
 | Desired technologies | JavaScript, TypeScript, Vue |
 | Employment Type  | FT Perm or year+ contract  |
 | Role | I have lead experience and am open to that kind of work--but really I just want to work on a team of clever people |
