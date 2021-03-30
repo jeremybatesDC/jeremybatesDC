@@ -1,6 +1,6 @@
 ### Jeremy Bates, Senior Frontend Engineer
 
-What I'm looking for in my next position
+What I'm looking for in my next position:
 
 <hr>
 
