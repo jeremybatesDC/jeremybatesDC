@@ -1,6 +1,6 @@
 <hr id="jbatesTop">
 
-| <br><details><summary>Code</summary><hr><a href="https://github.com/jeremybatesDC/baseballCardMakerApp/blob/v6/src/components/TextSlidersVuex.vue">Baseball card app<br>`vue` `vuex` </a><hr><a href="https://github.com/jeremybatesDC/intersectionObserverLazyLoad">Custom lazyload <br>`js` `ts`</a><hr><a href="https://github.com/jeremybatesDC/dataTableExpandableWithCharts">Data table<br>`js` `data`</a><hr><a href="https://github.com/jeremybatesDC/tabsVertical">Custom tabs<br>`js` `ts`</a></details> |  <br><details><summary>About</summary><hr><a href="#">Bio</a><hr><a href="https://git.io/JYBrC">Ideal Role</a><hr><a href="https://raw.githubusercontent.com/jeremybatesDC/jeremybatesDC/main/jbates_resume_2021.pdf"> Résumé</a> <hr><a href="#scifibooks">Personal</a></details> | <br><details><summary>Contact</summary><hr><a href="https://twitter.com/neanderthalian">Twitter</a><hr><a href="https://www.linkedin.com/in/jeremybatesdc/">LinkedIn</a><hr><a href="https://calendly.com/jeremybatesdc/zoom">Schedule call</a> | 
+| <br><details><summary>Code</summary><hr><a href="https://github.com/jeremybatesDC/baseballCardMakerApp/blob/v6/src/components/TextSlidersVuex.vue">Baseball card app<br>`vue` `vuex` </a><hr><a href="https://github.com/jeremybatesDC/intersectionObserverLazyLoad">Custom lazyload <br>`js` `ts`</a><hr><a href="https://github.com/jeremybatesDC/dataTableExpandableWithCharts">Data table<br>`js` `data`</a><hr><a href="https://github.com/jeremybatesDC/tabsVertical">Custom tabs<br>`js` `ts`</a></details> |  <br><details><summary>About</summary><hr><a href="#">Bio</a><hr><a href="#idealrole">Ideal Role</a><hr><a href="https://raw.githubusercontent.com/jeremybatesDC/jeremybatesDC/main/jbates_resume_2021.pdf"> Résumé</a> <hr><a href="#scifibooks">Personal</a></details> | <br><details><summary>Contact</summary><hr><a href="https://twitter.com/neanderthalian">Twitter</a><hr><a href="https://www.linkedin.com/in/jeremybatesdc/">LinkedIn</a><hr><a href="https://calendly.com/jeremybatesdc/zoom">Schedule call</a> | 
  | :--- | :--- | :--- |
 
 <hr>
@@ -51,7 +51,7 @@ return again(please)
 | `Ionic` | 2019    | 
 | `Microwave cookery`                   | 1989         |
 
-<hr id="coffee">
+<hr id="idealrole">
 
 </span>
 
@@ -96,7 +96,7 @@ Remote naturally. Post-pandemic, I'm open to commuting in the DC area
 $75+/hr or full-time equivalent   
 
 
-<hr>
+<hr id="coffee">
 </span>
 </details>
 
