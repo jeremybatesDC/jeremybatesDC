@@ -1,7 +1,7 @@
 ### Jeremy Bates, Senior Frontend Engineer
 
 
-| .                         | .         |
+|                       |          |
 | ---: | :--- |
 | Desired technologies | JavaScript, TypeScript, Vue |
 | Employment Type  | FT Perm or year+ contract  |
