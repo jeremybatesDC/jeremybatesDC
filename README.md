@@ -5,7 +5,7 @@
 
 <hr>
 
-<h1 align="center">𝙰𝚑𝚘𝚢 𝚑𝚘𝚢!</h1>
+<strong align="center">𝙰𝚑𝚘𝚢 𝚑𝚘𝚢!</strong>
 
 ```javascript
 let me_welcome_you,
