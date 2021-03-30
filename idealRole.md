@@ -4,7 +4,7 @@ What I'm looking for in my next position:
 
 <hr>
 
-**Desired technologies**
+**<ins>Desired technologies</ins>**
 <br>
 JavaScript, TypeScript, Vue
 
