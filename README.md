@@ -61,9 +61,8 @@ return again(please)
 
 
 
-<details>
+<details open>
 	<summary>Ideal Role</summary>
-</details>
 
 <span>
 <br />
