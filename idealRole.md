@@ -1,5 +1,4 @@
-
-Desired Role: Senior Frontend Engineer
+### Jeremy Bates, Senior Frontend Engineer
 
 Technologies: JavaScript, TypeScript, Vue
 
