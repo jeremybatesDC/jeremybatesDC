@@ -11,10 +11,3 @@
 | Location  | Remote naturally. Post-pandemic, I'm open to commuting in the DC area |
 | Compensation | $75+/hr or full-time equivalent   | 
 
-
-
-Team role: 
-
-Location: 
-
-Compensation: $75+/hr or full-time equivalent  
