@@ -124,6 +124,9 @@ $75+/hr or full-time equivalent
 </span>
 </details>
 
+<br id="personal">
+
+<h2>𝙿𝙴𝚁𝚂𝙾𝙽𝙰𝙻</h2>
 <br />
 
 <!-- Conferences Attended including virtual ones over past year (smashing and speed workshop -- about to do vue masters and vue conf -->
