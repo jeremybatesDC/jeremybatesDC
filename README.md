@@ -153,7 +153,7 @@ gotta ship. if you're doing a site at an agency, avoid looking at client site in
 
 <details>
 	<summary>
-		<strong>☕ Ways I've messed up coffee, in approximate order of severity of consequence</strong>
+		<strong>Ways I've messed up coffee, in approximate order of severity of consequence ☕</strong>
 	</summary>
 	<span><br>
 
@@ -176,7 +176,7 @@ gotta ship. if you're doing a site at an agency, avoid looking at client site in
 
 <details id="walkupsongs">
 	<summary>
-		<strong> 🎵 Walk-up Songs</strong>
+		<strong>Walk-up Songs 🎵</strong>
 	</summary>
 	<span><br />
 
@@ -200,7 +200,7 @@ gotta ship. if you're doing a site at an agency, avoid looking at client site in
 
 <details id="faqs">
 	<summary>
-		<strong>🤔 Frequently Asked Questions</strong>
+		<strong>Frequently Asked Questions 🤔</strong>
 	</summary>
 	<span><br />
 &nbsp;&nbsp;&nbsp;&nbsp;❝ Where is my phone? ❞ <br><br>
@@ -218,7 +218,7 @@ gotta ship. if you're doing a site at an agency, avoid looking at client site in
 
 <details id="">
 	<summary>
-		<strong>📚 Fav Sci-Fi Books</strong>
+		<strong>Fav Sci-Fi Books 📚</strong>
 	</summary>
 	<span><br>
 		
@@ -244,7 +244,7 @@ gotta ship. if you're doing a site at an agency, avoid looking at client site in
 
 <details id="">
 	<summary>
-		<strong>📽️ Fav Sci-Fi / Speculative-Fiction Movies</strong>
+		<strong>Fav Sci-Fi / Speculative-Fiction Movies 📽️</strong>
 	</summary>
 	<span><br>
 		
@@ -272,7 +272,7 @@ gotta ship. if you're doing a site at an agency, avoid looking at client site in
 
 <details id="">
 	<summary>
-		<strong>📽️ Best Christmas Movies According to Science</strong>
+		<strong>Best Christmas Movies According to Science 📽️</strong>
 	</summary>
 	<span><br />
 
@@ -295,7 +295,7 @@ gotta ship. if you're doing a site at an agency, avoid looking at client site in
 
 <details id="">
 	<summary>
-		<strong> 📺 Best Simpsons Episodes According to Science</strong>
+		<strong>Best Simpsons Episodes According to Science 📺</strong>
 	</summary>
 	<span><br />
 
@@ -316,8 +316,8 @@ gotta ship. if you're doing a site at an agency, avoid looking at client site in
 
 <details id="">
 	<summary>
-		<strong>💬 Some quotes I enjoy (each of uncertain origin notwithstanding common
-			attribution)</strong>
+		<strong>Some quotes I enjoy (each of uncertain origin notwithstanding common
+			attribution) 💬</strong>
 	</summary>
 	<span><br />
 	&nbsp;&nbsp;&nbsp;&nbsp; ❝ Despite the high cost of living, it remains popular. ❞<br /><br />
@@ -335,7 +335,7 @@ gotta ship. if you're doing a site at an agency, avoid looking at client site in
 
 <details id="phones" >
 	<summary>
-		<strong>📱 Phones I've Loved to Death</strong>
+		<strong>Phones I've Loved to Death 📱</strong>
 	</summary>
 	<span><br />
 
@@ -358,7 +358,7 @@ gotta ship. if you're doing a site at an agency, avoid looking at client site in
 
 <details id="">
 	<summary>
-		<strong>🍺 Fav Beers</strong>
+		<strong>Fav Beers 🍺</strong>
 	</summary>
 	<span> <br />
 
@@ -384,7 +384,7 @@ gotta ship. if you're doing a site at an agency, avoid looking at client site in
 
 
 <details id="">
-	<summary><strong>💼 Some Previous Jobs</strong></summary>
+	<summary><strong>Some Previous Jobs 💼</strong></summary>
 	<span> 
 <br>
 		
@@ -402,7 +402,7 @@ gotta ship. if you're doing a site at an agency, avoid looking at client site in
 <br />
 
 <details id="">
-	<summary><strong>⚾ Baseball Anecdotes</strong></summary>
+	<summary><strong>Baseball Anecdotes ⚾</strong></summary>
 	<span>
 <br>
 
