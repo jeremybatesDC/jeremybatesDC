@@ -1,5 +1,7 @@
 <hr id="jbatesTop">
 
+<h1>Jeremy Bates, Frontend Engineer</h1>
+
 <a href="#skills">Skills</a> | <a href="#code">Code</a> | <a href="#about">About</a> | <a href="#contact">Contact</a> 
 |  <br><details><summary>About</summary><br><a href="#">Bio</a><br><a href="#idealrole">Ideal Role</a> <br><a href="https://raw.githubusercontent.com/jeremybatesDC/jeremybatesDC/main/jbates_resume_2021.pdf"> Résumé</a><br><a href="#scifibooks">Personal</a></details> |
 | :--- |
@@ -15,7 +17,6 @@ and_shareSomeRandomThingsILike
 return again(please)
 ```
 
-<hr>
 
 <!-- code -->
 <!-- https://github.com/jeremybatesDC/baseballCardMakerApp/blob/v6/src/components/TextSlidersVuex.vue -->
