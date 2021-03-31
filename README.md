@@ -85,7 +85,7 @@ return again(please)
 
 <h2 align="center">𝙰𝙱𝙾𝚄𝚃</h2>
 
-<h3>💼 Professional</h3>
+<h3>Professional</h3>
 <br>
 <details open>
 	<summary>❤️ Ideal Role</summary>
@@ -139,7 +139,7 @@ Workshop: 2020
 - HTML5DevConf: 2011, 12 -->
 
 <br id="personal">
-<h3>🙈 Personal</h3>
+<h3>Personal</h3>
 <br />
 
 
