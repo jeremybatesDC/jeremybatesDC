@@ -86,7 +86,7 @@ return again(please)
 <h2>𝙰𝙱𝙾𝚄𝚃</h2>
 
 <h3>💼 Professional</h3>
-
+<br>
 <details open>
 	<summary>❤️ Ideal Role</summary>
 
