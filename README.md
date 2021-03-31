@@ -87,6 +87,8 @@ return again(please)
 
 <br>
 
+<h3>Professional</h3>
+
 <details open>
 	<summary>❤️ Ideal Role</summary>
 
@@ -128,7 +130,7 @@ $75+/hr or full-time equivalent
 
 <br id="personal">
 
-<h2>🙈 𝙿𝙴𝚁𝚂𝙾𝙽𝙰𝙻</h2>
+<h3>🙈 𝙿𝙴𝚁𝚂𝙾𝙽𝙰𝙻</h3>
 <br />
 
 <!-- Conferences Attended including virtual ones over past year (smashing and speed workshop -- about to do vue masters and vue conf -->
