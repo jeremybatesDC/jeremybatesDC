@@ -40,7 +40,7 @@ return again(please)
 <br id="skills"/>
 
 <details open>
-	<summary><strong>🧑‍💻 Skills</strong></summary>
+	<summary><strong>Skills 🧑‍💻</strong></summary>
 <span>
 <br />
 
@@ -63,7 +63,7 @@ return again(please)
 <br/>
 
 <details open>
-	<summary><strong>:octocat: Code</strong></summary>
+	<summary><strong>Code :octocat:</strong></summary>
 <span>
 <br />
 
