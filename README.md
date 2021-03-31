@@ -88,7 +88,7 @@ return again(please)
 <h3>Professional</h3>
 <br>
 <details open>
-	<summary>Ideal Role</summary>
+	<summary><strong>Ideal Role</strong></summary>
 
 <span>
 <br />
