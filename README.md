@@ -100,7 +100,7 @@ return again(please)
 
 <span>
 <br />
-
+<blockquote>
 <ins>Desired technologies</ins>
 <br>
 JavaScript, TypeScript, Vue
@@ -129,6 +129,7 @@ Remote naturally. Post-pandemic, I'm open to commuting in the DC area
 <br>
 $75+/hr or full-time equivalent   
 
+</blockquote>
 
 <hr id="coffee">
 </span>
