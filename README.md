@@ -102,7 +102,7 @@ return again(please)
 <br />
 <blockquote>
 <ins>Desired technologies</ins><br>
-JavaScript, TypeScript, Vue
+JavaScript, TypeScript, Vue<br> <br>
 
 <ins>Employment Type</ins><br>
 FT Perm or year+ contract 
