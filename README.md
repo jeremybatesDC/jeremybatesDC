@@ -18,6 +18,7 @@ and_shareSomeRandomThingsILike
 return again(please)
 ```
 
+<hr>
 
 <!-- code -->
 <!-- https://github.com/jeremybatesDC/baseballCardMakerApp/blob/v6/src/components/TextSlidersVuex.vue -->
