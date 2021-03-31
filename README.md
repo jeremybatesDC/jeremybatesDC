@@ -58,6 +58,29 @@ return again(please)
 </details>
 
 <br />
+<br id="code"/>
+
+<details open>
+	<summary><strong>Code</strong></summary>
+<span>
+<br />
+
+| 𝚂𝙺𝙸𝙻𝙻                           | 𝚄𝚂𝙴𝙳 𝚂𝙸𝙽𝙲𝙴          |
+| :--- | ---: |
+| `JavaScript` `TypeScript` | 2010, 2019          |
+| `CSS` `SCSS`                    | 2003, 2012     | 
+| `Vue` `Nuxt` `Vuex` | 2017 | 
+| `Accessible HTML`                   | 2002         | 
+| `Performance Optimization`                   | 2015         |
+| `Ionic` | 2019    | 
+| `Microwave cookery`                   | 1989         |
+
+<hr id="idealrole">
+
+</span>
+
+</details>
+
 
 <a href="https://github.com/jeremybatesDC/baseballCardMakerApp/blob/v6/src/components/TextSlidersVuex.vue">Baseball card app</a><br><sup>`vue` `vuex`</sup> <br><a href="https://github.com/jeremybatesDC/intersectionObserverLazyLoad">Custom lazyload</a><br><sup>`js` `ts`</sup><br><a href="https://github.com/jeremybatesDC/dataTableExpandableWithCharts">Data table</a><br><sup>`js` `data`</sup><br><a href="https://github.com/jeremybatesDC/tabsVertical">Custom tabs</a><br><sup>`js` `ts`</sup>
 
