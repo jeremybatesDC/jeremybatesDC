@@ -126,12 +126,6 @@ $75+/hr or full-time equivalent
 </span>
 </details>
 
-<br id="personal">
-<details>
-<summary>
-<h3>🙈 Personal</h3>
-<br />
-</summary>
 <!-- Conferences Attended including virtual ones over past year (smashing and speed workshop -- about to do vue masters and vue conf -->
 <!-- Conferences attended
 - Smashing Performance
@@ -144,6 +138,13 @@ Workshop: 2020
 - Event Apart DC: 2012, 13
 - HTML5DevConf: 2011, 12 -->
 
+<br id="personal">
+<details>
+<summary>
+<strong>🙈 Personal</strong>
+<br />
+</summary>
+<br>
 
 
 <!--learn always - reduce complexity at every opportunity. - "write code, not too much, mostly functions."
