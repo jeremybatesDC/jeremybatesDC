@@ -83,7 +83,7 @@ return again(please)
 
 <br id="about">
 
-<h2>𝙰𝙱𝙾𝚄𝚃</h2>
+<h2 align="center">𝙰𝙱𝙾𝚄𝚃</h2>
 
 <h3>💼 Professional</h3>
 <br>
