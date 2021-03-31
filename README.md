@@ -59,6 +59,7 @@ return again(please)
 
 <br />
 
+<a href="https://github.com/jeremybatesDC/baseballCardMakerApp/blob/v6/src/components/TextSlidersVuex.vue">Baseball card app</a><br><sup>`vue` `vuex`</sup> <br><a href="https://github.com/jeremybatesDC/intersectionObserverLazyLoad">Custom lazyload</a><br><sup>`js` `ts`</sup><br><a href="https://github.com/jeremybatesDC/dataTableExpandableWithCharts">Data table</a><br><sup>`js` `data`</sup><br><a href="https://github.com/jeremybatesDC/tabsVertical">Custom tabs</a><br><sup>`js` `ts`</sup>
 
 
 <details open>
