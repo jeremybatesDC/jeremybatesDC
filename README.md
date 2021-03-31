@@ -57,7 +57,6 @@ return again(please)
 
 </details>
 
-<br />
 <br id="code"/>
 
 <details open>
