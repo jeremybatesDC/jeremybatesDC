@@ -139,12 +139,9 @@ Workshop: 2020
 - HTML5DevConf: 2011, 12 -->
 
 <br id="personal">
-<details>
-<summary>
 <h3>🙈 Personal</h3>
 <br />
-</summary>
-<br>
+
 
 
 <!--learn always - reduce complexity at every opportunity. - "write code, not too much, mostly functions."
@@ -430,7 +427,7 @@ That night he tripled with the bases loaded! And, because Bryce, he dove into th
 
 <hr />
 
-</details>
+
 
 <h2 id="contact">:pager: 𝙲𝙾𝙽𝚃𝙰𝙲𝚃</h2>
 <a href="https://twitter.com/neanderthalian" target="_blank">Twitter</a> | 
