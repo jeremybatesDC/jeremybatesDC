@@ -87,6 +87,13 @@ return again(please)
 
 <h3>Professional</h3>
 <br>
+
+<details open>
+<summary>Bio</summary>
+</details>
+
+<br>
+
 <details open>
 	<summary><strong>Ideal Role</strong></summary>
 
