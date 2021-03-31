@@ -53,14 +53,14 @@ return again(please)
 | `Performance Optimization`                   | 2015         |
 | `Ionic` | 2019    | 
 | `Microwave cookery`                   | 1989         |
-
-<hr id="idealrole">
+E
+<hr id="code">
 
 </span>
 
 </details>
 
-<br id="code"/>
+<br/>
 
 <details open>
 	<summary><strong>:octocat: Code</strong></summary>
