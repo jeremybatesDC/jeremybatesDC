@@ -127,10 +127,11 @@ $75+/hr or full-time equivalent
 </details>
 
 <br id="personal">
-
+<details>
+<summary>
 <h3>🙈 Personal</h3>
 <br />
-
+</summary>
 <!-- Conferences Attended including virtual ones over past year (smashing and speed workshop -- about to do vue masters and vue conf -->
 <!-- Conferences attended
 - Smashing Performance
@@ -427,6 +428,8 @@ That night he tripled with the bases loaded! And, because Bryce, he dove into th
 
 
 <hr />
+
+</details>
 
 <h2 id="contact">:pager: 𝙲𝙾𝙽𝚃𝙰𝙲𝚃</h2>
 <a href="https://twitter.com/neanderthalian" target="_blank">Twitter</a> | 
