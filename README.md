@@ -152,7 +152,7 @@ empower designers and allow them to see right away what available component opti
 gotta ship. if you're doing a site at an agency, avoid looking at client site in production. They do weird stuff with it and, as long as you've workd to educate client ahead of time with documentation too, you've just got to let it go. Kind of like being a journalist and not reading your stuff in print because invariably the editor will tweak it in ways you don't want/like. But that's the reality. gatekeepers are assholes. don't be one. share and learn together -->
 
 
-<details open>
+<details>
 	<summary>
 		<strong>☕ Ways I've messed up coffee, in approximate order of severity of consequence</strong>
 	</summary>
@@ -175,7 +175,7 @@ gotta ship. if you're doing a site at an agency, avoid looking at client site in
 <br />
 
 
-<details id="walkupsongs" open>
+<details id="walkupsongs">
 	<summary>
 		<strong> 🎵 Walk-up Songs</strong>
 	</summary>
@@ -199,7 +199,7 @@ gotta ship. if you're doing a site at an agency, avoid looking at client site in
 
 <br />
 
-<details open id="faqs">
+<details id="faqs">
 	<summary>
 		<strong>🤔 Frequently Asked Questions</strong>
 	</summary>
@@ -217,7 +217,7 @@ gotta ship. if you're doing a site at an agency, avoid looking at client site in
 
 <br id="scifibooks"/>
 
-<details id="" open>
+<details id="">
 	<summary>
 		<strong>📚 Fav Sci-Fi Books</strong>
 	</summary>
@@ -243,7 +243,7 @@ gotta ship. if you're doing a site at an agency, avoid looking at client site in
 
 <br id="scifimovies"/>
 
-<details id="" open>
+<details id="">
 	<summary>
 		<strong>📽️ Fav Sci-Fi / Speculative-Fiction Movies</strong>
 	</summary>
