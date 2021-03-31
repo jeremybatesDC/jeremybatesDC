@@ -1,8 +1,8 @@
 <hr id="jbatesTop">
 
 <a href="#code">Code</a> | <a href="#code">About</a> | <a href="#contact">Contact</a> 
-|  <br><details><summary>About</summary><br><a href="#">Bio</a><br><a href="#skills">Skills</a><br><a href="#idealrole">Ideal Role</a> <br><a href="https://raw.githubusercontent.com/jeremybatesDC/jeremybatesDC/main/jbates_resume_2021.pdf"> Résumé</a><br><a href="#scifibooks">Personal</a></details> | <br><details><summary>Contact</summary><br><a href="https://twitter.com/neanderthalian">Twitter</a><br><a href="https://www.linkedin.com/in/jeremybatesdc/">LinkedIn</a><br><a href="https://calendly.com/jeremybatesdc/zoom">Schedule call</a> | 
-| :--- | :--- |
+|  <br><details><summary>About</summary><br><a href="#">Bio</a><br><a href="#skills">Skills</a><br><a href="#idealrole">Ideal Role</a> <br><a href="https://raw.githubusercontent.com/jeremybatesDC/jeremybatesDC/main/jbates_resume_2021.pdf"> Résumé</a><br><a href="#scifibooks">Personal</a></details> |
+| :--- |
 
 <hr>
 
