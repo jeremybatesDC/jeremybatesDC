@@ -141,7 +141,7 @@ Workshop: 2020
 <br id="personal">
 <details>
 <summary>
-<strong>🙈 Personal</strong>
+<h3>🙈 Personal</h3>
 <br />
 </summary>
 <br>
