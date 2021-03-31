@@ -79,6 +79,10 @@ return again(please)
 </details>
 
 
+<br id="about">
+
+<h2>𝙰𝙱𝙾𝚄𝚃</h2>
+
 <br>
 
 <details open>
