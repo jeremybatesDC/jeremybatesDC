@@ -106,7 +106,7 @@ $75+/hr or full-time equivalent
 
 </blockquote>
 
-<hr id="coffee">
+<br id="coffee">
 </span>
 </details>
 
