@@ -40,7 +40,6 @@ return again(please)
 
 
 <br id="skills"/>
-
 <h2>🧑‍💻Skills</h2>
 
 | 𝚂𝙺𝙸𝙻𝙻                           | 𝚄𝚂𝙴𝙳 𝚂𝙸𝙽𝙲𝙴          |
@@ -53,10 +52,7 @@ return again(please)
 | `Ionic` | 2019    | 
 | `Microwave cookery`                   | 1989         |
 
-<hr id="code">
-
-<br/>
-
+<span id="code"></span>
 <h2>:octocat: Code</h2>
 
 | 𝚁𝙴𝙿𝙾                           | 𝚂𝙺𝙸𝙻𝙻𝚂          |
