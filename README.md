@@ -41,7 +41,7 @@ return again(please)
 
 <br id="skills"/>
 
-<h2>Skills 🧑‍💻</h2>
+<h2>🧑‍💻Skills</h2>
 
 | 𝚂𝙺𝙸𝙻𝙻                           | 𝚄𝚂𝙴𝙳 𝚂𝙸𝙽𝙲𝙴          |
 | :--- | ---: |
@@ -57,7 +57,7 @@ return again(please)
 
 <br/>
 
-<h2>Code :octocat:</h2>
+<h2>:octocat: Code</h2>
 
 | 𝚁𝙴𝙿𝙾                           | 𝚂𝙺𝙸𝙻𝙻𝚂          |
 | :--- | ---: |
