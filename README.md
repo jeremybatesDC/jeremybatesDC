@@ -41,10 +41,7 @@ return again(please)
 
 <br id="skills"/>
 
-<details open>
-	<summary><strong>Skills 🧑‍💻</strong></summary>
-<span>
-<br />
+<h2>Skills 🧑‍💻</h2>
 
 | 𝚂𝙺𝙸𝙻𝙻                           | 𝚄𝚂𝙴𝙳 𝚂𝙸𝙽𝙲𝙴          |
 | :--- | ---: |
@@ -58,16 +55,9 @@ return again(please)
 
 <hr id="code">
 
-</span>
-
-</details>
-
 <br/>
 
-<details open>
-	<summary><strong>Code :octocat:</strong></summary>
-<span>
-<br />
+<h2>Code :octocat:</h2>
 
 | 𝚁𝙴𝙿𝙾                           | 𝚂𝙺𝙸𝙻𝙻𝚂          |
 | :--- | ---: |
@@ -77,11 +67,6 @@ return again(please)
 | <a href="https://github.com/jeremybatesDC/tabsVertical">Custom tabs</a> | `js` `ts`         | 
 
 <hr id="idealrole">
-
-</span>
-
-</details>
-
 
 <br id="about">
 
