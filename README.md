@@ -106,7 +106,6 @@ $75+/hr or full-time equivalent
 
 </blockquote>
 
-<br id="coffee">
 </span>
 </details>
 
