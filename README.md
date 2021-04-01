@@ -64,7 +64,7 @@ return again(please)
 
 <hr id="idealrole">
 
-<br id="about">
+<span id="about"><span>
 
 <h2>📖 𝙰𝙱𝙾𝚄𝚃</h2>
 
