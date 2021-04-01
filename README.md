@@ -68,7 +68,7 @@ return again(please)
 
 <h2>📖 𝙰𝙱𝙾𝚄𝚃</h2>
 
-<h3><ins>Professional</ins></h3>
+<h4><ins>Professional</ins></h4>
 <br>
 
 <details open>
@@ -124,7 +124,7 @@ Workshop: 2020
 
 
 <br id="personal">
-<h3><ins>Personal</ins></h3>
+<h4><ins>Personal</ins></h4>
 <br />
 
 
