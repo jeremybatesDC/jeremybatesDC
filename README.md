@@ -140,6 +140,8 @@ Workshop: 2020
 - Event Apart DC: 2012, 13
 - HTML5DevConf: 2011, 12 -->
 
+<hr>
+
 <br id="personal">
 <h3>Personal</h3>
 <br />
