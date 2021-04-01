@@ -62,7 +62,7 @@ return again(please)
 | <a href="https://github.com/jeremybatesDC/dataTableExpandableWithCharts">Data table</a> | `js` `data` | 
 | <a href="https://github.com/jeremybatesDC/tabsVertical">Custom tabs</a> | `js` `ts`         | 
 
-<hr id="idealrole">
+<br id="idealrole">
 
 <span id="about"><span>
 
