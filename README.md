@@ -66,7 +66,7 @@ return again(please)
 
 <br id="about">
 
-<h2 align="center">📖 𝙰𝙱𝙾𝚄𝚃</h2>
+<h2>📖 𝙰𝙱𝙾𝚄𝚃</h2>
 
 <h3><ins>Professional</ins></h3>
 <br>
@@ -414,7 +414,7 @@ That night he tripled with the bases loaded! And, because Bryce, he dove into th
 
 
 
-<h2 align="center" id="contact">:pager: 𝙲𝙾𝙽𝚃𝙰𝙲𝚃</h2>
+<h2 id="contact">:pager: 𝙲𝙾𝙽𝚃𝙰𝙲𝚃</h2>
 <a href="https://twitter.com/neanderthalian" target="_blank">Twitter</a> | 
 <a href="https://www.linkedin.com/in/jeremybatesdc/" target="_blank">LinkedIn</a> | 
 <a href="https://calendly.com/jeremybatesdc/zoom" target="_blank">Schedule call</a>
