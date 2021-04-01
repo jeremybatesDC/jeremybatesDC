@@ -1,6 +1,6 @@
 <hr id="jbatesTop">
 
-<h1>Jeremy Bates, <em>Frontend Engineer</em> </h1>
+<h1><b>Jeremy Bates</b>, Frontend Engineer</h1>
 
 <a href="#skills">Skills</a> | <a href="#code">Code</a> | <a href="#about">About</a> | <a href="#contact">Contact</a> 
 
