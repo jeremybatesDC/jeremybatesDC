@@ -1,7 +1,7 @@
 <span id="jbatesTop"></span>
 
 <h1>Jeremy Bates</h1>
-<p><sup>𝙵𝚁𝙾𝙽𝚃𝙴𝙽𝙳 𝙴𝙽𝙶𝙸𝙽𝙴𝙴𝚁</sup></p>
+<p>𝙵𝚁𝙾𝙽𝚃𝙴𝙽𝙳 𝙴𝙽𝙶𝙸𝙽𝙴𝙴𝚁</p>
 <hr>
 <a href="#skills">Skills</a> | <a href="#code">Code</a> | <a href="#about">About</a> | <a href="#contact">Contact</a> 
 
