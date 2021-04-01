@@ -411,7 +411,7 @@ That night he tripled with the bases loaded! And, because Bryce, he dove into th
 
 <hr />
 
-
+<br>
 
 <h2 id="contact">:pager: 𝙲𝙾𝙽𝚃𝙰𝙲𝚃</h2>
 <a href="https://twitter.com/neanderthalian" target="_blank">Twitter</a> | 
