@@ -87,23 +87,23 @@ return again(please)
 `JavaScript` `TypeScript` `Vue`
 <br>
 
-<b>Employment Type</b><br />
+<b>Employment type</b><br />
 `FT Perm` `Year+ Contract` 
 <br>
 
 <b>Role</b><br />
 `UI Developer` `Senior Frontend Engineer` `Lead`
 
-<b>Business Type</b><br />
+<b>Organization type</b><br />
 `Any but government`
 
-<b>Team Size</b><br />
+<b>Team size</b><br />
 `> 1`
 
 <b>Location</b><br />
 `Remote` `DC Area`
 
-<b>Compensation</b><br />
+<b>Desired compensation</b><br />
 `$135+k FT` `$75+/hr Contract`
 
 <hr>
