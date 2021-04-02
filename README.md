@@ -82,29 +82,37 @@ return again(please)
 
 <span>
 <br />
-<blockquote>
-<ins>Desired technologies</ins><br>
-JavaScript, TypeScript, Vue<br> <br>
+<b>Desired technologies</b>
+	
+`JavaScript` `TypeScript` `Vue`
+<br>
 
-<ins>Employment Type</ins><br>
-FT Perm or year+ contract 
+<b>Employment Type</b>
 
-<ins>Role</ins><br>
-I have lead experience and am open to that kind of work--but really I just want to work on a team of clever people
+`FT Perm` `Year+ Contract` 
 
-<ins>Sector</ins><br>
-Any except government 
+<b>Role</b>
 
-<ins>Team Size</ins><br>
-Greater-than 1: Prefer to work on team of frontend devs as opposed to being the only frontend person
+`UI Developer` `Senior Frontend Engineer` `Lead`
 
-<ins>Location</ins><br>
-Remote naturally. Post-pandemic, I'm open to commuting in the DC area
+<b>Business Type</b>
 
-<ins>Compensation</ins><br>
+`Any but government`
+
+<b>Team Size</b>
+
+`> 1`
+
+<b>Location</b>
+
+`Remote`
+
+<b>Compensation</b>
+
+`$135k FT` `$75/hr Contract`
+
 $75+/hr or full-time equivalent   
 
-</blockquote>
 
 </span>
 </details>
