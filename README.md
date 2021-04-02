@@ -82,36 +82,29 @@ return again(please)
 
 <span>
 <br />
-<b>Desired technologies</b>
-	
+
+<b>Desired technologies</b><br />
 `JavaScript` `TypeScript` `Vue`
 <br>
 
-<b>Employment Type</b>
-
+<b>Employment Type</b><br />
 `FT Perm` `Year+ Contract` 
+<br>
 
-<b>Role</b>
-
+<b>Role</b><br />
 `UI Developer` `Senior Frontend Engineer` `Lead`
 
-<b>Business Type</b>
-
+<b>Business Type</b><br />
 `Any but government`
 
-<b>Team Size</b>
-
+<b>Team Size</b><br />
 `> 1`
 
-<b>Location</b>
+<b>Location</b><br />
+`Remote` `DC Area`
 
-`Remote`
-
-<b>Compensation</b>
-
-`$135k FT` `$75/hr Contract`
-
-$75+/hr or full-time equivalent   
+<b>Compensation</b><br />
+`$135+k FT` `$75+/hr Contract`
 
 
 </span>
