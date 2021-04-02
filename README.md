@@ -73,6 +73,9 @@ return again(please)
 
 <details open>
 <summary>Bio</summary>
+<br>
+<p>JavaScript puzzles get me out of bed every morning.</p>
+<hr>
 </details>
 
 <br>
