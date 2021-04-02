@@ -76,8 +76,8 @@ return again(please)
 <br>
 <p>JavaScript puzzles get me out of bed every morning; I need to get pseudo code out of my head and into an editor.</p>
 <p>I learn learn aggressively, and love working with thoughtful developers who learn that way, too.</p>
-<p><del>I seek opportunities to reduce complexity at every stage of design, development & implementation.</del><br>I reduce complexity</p>
-<p>I empower coworkers to view existing components by creating (or contributing to) a styleguide/library such as Storybook.</p>	
+<p><del>I seek opportunities to reduce complexity at every stage of design, development & implementation.</del><br>I reduce complexity.</p>
+<p>I empower coworkers to view existing components by creating (or contributing to) a styleguide/library, such as Storybook.</p>	
 	
 <hr>
 </details>
