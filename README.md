@@ -106,7 +106,7 @@ return again(please)
 <b>Compensation</b><br />
 `$135+k FT` `$75+/hr Contract`
 
-
+<hr>
 </span>
 </details>
 
