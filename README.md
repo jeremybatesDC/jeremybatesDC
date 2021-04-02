@@ -74,7 +74,11 @@ return again(please)
 <details open>
 <summary>Bio</summary>
 <br>
-<p>JavaScript puzzles get me out of bed every morning.</p>
+<p>JavaScript puzzles get me out of bed every morning; I need to get pseudo code out of my head and into an editor.</p>
+<p>I learn learn aggressively, and love working with thoughtful developers who learn that way, too.</p>
+<p><del>I seek opportunities to reduce complexity at every stage of design, development & implementation.</del><br>I reduce complexity</p>
+<p>Empowering coworkers to view existing components is </p>	
+	
 <hr>
 </details>
 
