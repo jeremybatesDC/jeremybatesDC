@@ -1,7 +1,7 @@
 <span id="jbatesTop"></span>
 
 <h1>Jeremy Bates</h1>
-<p>UI Architect & Senior Frontend Developer</p>
+<p>UI Architect & Senior Frontend Engineer</p>
 <hr>
 <a href="#skills">Skills</a> | <a href="#code">Code</a> | <a href="#about">About</a> | <a href="#contact">Contact</a> 
 
