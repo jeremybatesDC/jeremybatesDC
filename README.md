@@ -3,7 +3,7 @@
 <h1>Jeremy Bates</h1>
 <p>UI Architect & Senior Frontend Engineer</p>
 <hr>
-<a href="#skills">Skills</a> <!-- | <a href="#code">Code</a> --> | <a href="#about">About</a> | <a href="#contact">Contact</a> 
+<a href="#skills">Skills</a> | <a href="#code">Code</a> | <a href="#about">About</a> | <a href="#contact">Contact</a> 
 
 <!-- |  <br><details><summary>About</summary><br><a href="#">Bio</a><br><a href="#idealrole">Ideal Role</a> <br><a href="https://raw.githubusercontent.com/jeremybatesDC/jeremybatesDC/main/jbates_resume_2021.pdf"> Résumé</a><br><a href="#scifibooks">Personal</a></details> |
 | :--- |
@@ -53,17 +53,15 @@ return again(please)
 | `Ionic` | 2019    | 
 | `Microwave cookery`                   | 1989         |
 
-<!--
+
 <br id="code">
 <h2>:octocat: 𝙲𝙾𝙳𝙴</h2>
 
 | 𝚁𝙴𝙿𝙾                           | 𝚂𝙺𝙸𝙻𝙻𝚂          |
 | :--- | ---: |
-| <a href="https://github.com/jeremybatesDC/baseballCardMakerApp/blob/v6/src/components/TextSlidersVuex.vue">Baseball card app</a> | `vue` `vuex` |
-| <a href="https://github.com/jeremybatesDC/intersectionObserverLazyLoad">Custom lazyload</a> | `js` `ts` | 
-| <a href="https://github.com/jeremybatesDC/dataTableExpandableWithCharts">Data table</a> | `js` `data` | 
-| <a href="https://github.com/jeremybatesDC/tabsVertical">Custom tabs</a> | `js` `ts`         | 
--->
+| <a href="https://github.com/jeremybatesDC/vueGridBaseballCard/blob/develop/src/components/CardBack.vue">Baseball card app</a> | `vue` `vuex` |
+| <a href="https://gist.github.com/jeremybatesDC/e9702a46ff0cda2b477c5bc8988c99c6">CMS list component</a> | `vue` `vuex` `firebase` |
+
 
 <br id="idealrole">
 
