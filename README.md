@@ -57,7 +57,7 @@ return again(please)
 <br id="code">
 <h2>:octocat: 𝙲𝙾𝙳𝙴</h2>
 
-| 𝚁𝙴𝙿𝙾                           | 𝚂𝙺𝙸𝙻𝙻𝚂          |
+| 𝙿𝚁𝙾𝙹𝙴𝙲𝚃                           | 𝚂𝙺𝙸𝙻𝙻𝚂          |
 | :--- | ---: |
 | <a href="https://github.com/jeremybatesDC/vueGridBaseballCard/blob/develop/src/components/CardBack.vue">Baseball card app</a> | `vue` `vuex` |
 | <a href="https://gist.github.com/jeremybatesDC/e9702a46ff0cda2b477c5bc8988c99c6">CMS list component</a> | `vue` `vuex` `firebase` |
