@@ -60,7 +60,7 @@ return again(please)
 | 𝙿𝚁𝙾𝙹𝙴𝙲𝚃                           | 𝚂𝙺𝙸𝙻𝙻𝚂          |
 | :--- | ---: |
 | <a href="https://github.com/jeremybatesDC/vueGridBaseballCard/blob/develop/src/components/CardBack.vue">Baseball card app</a> | `vue` `vuex` |
-| <a href="https://github.com/jeremybatesDC/vueminiapp/blob/main/src/components/BreweryList.vue">Brewpub Finder</a> | `vue` `Composition API` `fetch with async/await` |
+| <a href="https://github.com/jeremybatesDC/vueminiapp">Brewpub Finder</a> | `vue` `Composition API` `fetch with async/await` |
 | <a href="https://gist.github.com/jeremybatesDC/e9702a46ff0cda2b477c5bc8988c99c6">CMS list component</a> | `vue` `vuex` `firebase` |
 | <a href="https://github.com/jeremybatesDC/intersectionObserverLazyLoad">Lazy Load Intersection Observer</a> | `js` `ts` |
 | <a href="https://gist.github.com/jeremybatesDC/d4d0c729cfaab2820f96c0334408387c">Clean Vue form</a> | `vue` `forms` `validation` |
