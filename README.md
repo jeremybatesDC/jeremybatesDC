@@ -118,7 +118,7 @@ return again(please)
 `Remote` `DC Area`
 
 <b>Desired compensation</b><br />
-`$145+k FT` `$80+/hr Contract`
+`$125+k FT` `$75+/hr Contract`
 
 <hr>
 </span>
