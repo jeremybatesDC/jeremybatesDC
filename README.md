@@ -67,7 +67,7 @@ return again(please)
 | <a href="https://github.com/jeremybatesDC/intersectionObserverLazyLoad">Lazy Load Intersection Observer</a> | `js` `ts` |
 | <a href="https://gist.github.com/jeremybatesDC/d4d0c729cfaab2820f96c0334408387c">Clean Vue form</a> | `vue` `forms` `validation` |
 | <a href="https://github.com/jeremybatesDC/vueGridBaseballCard/blob/develop/src/components/InputChildComponents/AsideFacts.vue">Variable fonts property sliders</a> | `vue` `css custom properties` |
-| <a href="https://github.com/pax8/stax-explorer/blob/main/src/components/Common/VideoPlayer.vue">Simple dynamic Youtube/Vimeo player</a> | `vue` `vuex` |
+| <a href="https://gist.github.com/jeremybatesDC/3a5f25676a16215451579c371708b90b">Simple dynamic Youtube/Vimeo player</a> | `vue` `vuex` |
 | <a href="https://github.com/jeremybatesDC/customPrivacyScript">Custom GDPR script</a> | `js` `cookies` |
 
 
