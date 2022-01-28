@@ -92,40 +92,6 @@ return again(please)
 <hr>
 </details>
 
-<br>
-
-<details open>
-	<summary><strong>Ideal Role</strong></summary>
-
-<span>
-<br />
-
-<b>Desired technologies</b><br />
-`JavaScript` `TypeScript` `Vue`
-<br>
-
-<b>Employment type</b><br />
-`FT Perm` `Year+ Contract` 
-<br>
-
-<b>Role</b><br />
-`UI Architect` `Senior UI Developer` `Senior Frontend Developer` `Lead`
-
-<b>Organization type</b><br />
-`Any but government`
-
-<b>Team size</b><br />
-`> 1`
-
-<b>Location</b><br />
-`Remote` `DC Area`
-
-<b>Desired compensation</b><br />
-`$125+k FT` `$75+/hr Contract`
-
-<hr>
-</span>
-</details>
 
 <!-- Conferences Attended including virtual ones over past year (smashing and speed workshop -- about to do vue masters and vue conf -->
 <!-- Conferences attended
