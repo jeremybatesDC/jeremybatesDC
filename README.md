@@ -44,7 +44,7 @@ return again(please)
 
 | 𝚂𝙺𝙸𝙻𝙻                           | 𝚄𝚂𝙴𝙳 𝚂𝙸𝙽𝙲𝙴          |
 | :--- | ---: |
-| `JavaScript` `TypeScript` | 2010, 2019          |
+| `JavaScript` | 2010         |
 | `CSS` `SCSS`                    | 2003, 2012     | 
 | `Vue` `Nuxt` `Vuex` | 2017 | 
 | `Firebase` | 2020    | 
